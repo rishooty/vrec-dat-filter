@@ -15,7 +15,7 @@ to only the most likely desired games. It utilizes scrapy and [V's Recommended W
 popular and highly recommended games for any platform, then creates a new dat file based on the results.
 You can however, provide your own txt or csv lists as well.
 
-For those feeling lazy, pre-cleaned and tweaked dats are provided here: *insert url* (WIP)
+For those feeling lazy, pre-cleaned and tweaked dats are provided [here](). (WIP)
 
 ## Getting Started
 
@@ -46,12 +46,20 @@ For those feeling lazy, pre-cleaned and tweaked dats are provided here: *insert 
 ### Setup
 
 #### User
-Download the binaries from here: *insert url* and extract anywhere.
+Download any of the following binaries:
+
+[Linux 64-Bit](https://github.com/rishooty/vrec-dat-filter/raw/master/dist/vrec)
+
+[Linux 32-Bit](https://github.com/rishooty/vrec-dat-filter/raw/master/dist/vrec)
+
+[Windows 64-Bit](https://github.com/rishooty/vrec-dat-filter/raw/master/dist/vrec.exe)
+
+[Windows 32-Bit](https://github.com/rishooty/vrec-dat-filter/raw/master/dist/vrec32.exe)
 
 #### Dev
-Simply download this repo and unzip, or 'git clone *insert url*' to the directory of your choice.
+Simply download this repo and unzip, or 'git clone https://github.com/rishooty/vrec-dat-filter.git' to the directory of your choice.
 
-1. First you need to create a virtualenv anywhere:
+1. First you need to create a virtualenv somewhere, preferably outside the repository:
     ```
     python(3.5) -m virtualenv ENV
     ```
