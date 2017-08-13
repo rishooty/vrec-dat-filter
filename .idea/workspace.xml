@@ -27,17 +27,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../vrec-dat-filter/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="731">
-                <caret line="214" column="31" lean-forward="false" selection-start-line="214" selection-start-column="31" selection-end-line="214" selection-end-column="31" />
+              <first_editor relative-caret-position="306">
+                <caret line="189" column="0" lean-forward="true" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
                 <js_state />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../vrec-dat-filter/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="87" column="4" lean-forward="true" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,7 +63,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sys.argv</find>
       <find>os.</find>
       <find>argv</find>
       <find>parse</find>
@@ -81,8 +90,9 @@
       <find>ENV</find>
       <find>note the</find>
       <find>scrape</find>
-      <find>if your</find>
       <find>accuracy</find>
+      <find>if your</find>
+      <find>idea</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -108,6 +118,7 @@
         <option value="$PROJECT_DIR$/OtherFunctions.py" />
         <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/../vrec-dat-filter/.gitignore" />
       </list>
     </option>
   </component>
@@ -117,7 +128,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="513" />
     <option name="width" value="1281" />
     <option name="height" value="1046" />
@@ -411,7 +422,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="2562" height="1046" extended-state="7" />
+    <frame x="-1" y="0" width="2562" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15703125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -475,7 +486,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scrapy/settings.py" />
     <entry file="file://$PROJECT_DIR$/a2600.dat" />
     <entry file="file://$PROJECT_DIR$/a2600clean.dat" />
     <entry file="file://$PROJECT_DIR$/scrapy.cfg" />
@@ -603,8 +613,8 @@
     <entry file="file://$PROJECT_DIR$/../vrec-dat-filter/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="731">
-            <caret line="214" column="31" lean-forward="false" selection-start-line="214" selection-start-column="31" selection-end-line="214" selection-end-column="31" />
+          <first_editor relative-caret-position="306">
+            <caret line="189" column="0" lean-forward="true" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -615,6 +625,14 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vrec-dat-filter/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="87" column="4" lean-forward="true" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
