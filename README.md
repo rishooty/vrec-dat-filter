@@ -50,7 +50,7 @@ Download any of the following binaries:
 
 [Linux 64-Bit](https://github.com/rishooty/vrec-dat-filter/raw/master/dist/vrec)
 
-[Linux 32-Bit](https://github.com/rishooty/vrec-dat-filter/raw/master/dist/vrec)
+[Linux 32-Bit](https://github.com/rishooty/vrec-dat-filter/raw/master/dist/vrec32)
 
 [Windows 64-Bit](https://github.com/rishooty/vrec-dat-filter/raw/master/dist/vrec.exe)
 
