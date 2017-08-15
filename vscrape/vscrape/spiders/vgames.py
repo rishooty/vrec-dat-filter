@@ -32,7 +32,9 @@ class VrecSpider(scrapy.Spider):
         :return:
         """
 
-        games = response.css('table tr th::text').extract()
+        games_plain_text = response.css('table tr th::text').extract()
+        games_format_text = response.css('table tr th font::text').extract()
+        games = games_plain_text + games_format_text
         games_clean = ([item.strip() for item in games])
         games_final = list(filter(None, games_clean))
         yield {'games': games_final[3:]}

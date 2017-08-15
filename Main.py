@@ -1,4 +1,3 @@
-#!linENV/bin/python
 import ScraperFunctions
 import OtherFunctions
 import argparse
