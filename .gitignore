@@ -102,3 +102,6 @@ ENV/
 
 # PyCharm
 .idea/
+
+# Game List Cache
+listTemp.csv
