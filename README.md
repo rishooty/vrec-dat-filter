@@ -238,9 +238,9 @@ The cross platform quirks should be ironed out already in this repo, so compilin
     datas=[('PATH_TO_ENV/Lib/site-packages/scrapy', 'scrapy')],
     ```
 	If using windows, you'll need this line as well:
-	```
-	pathex=['C:\\Program Files (x86)\\Windows Kits\\10\\Redist\\ucrt\\DLLs\\(x64 or x86)'],
-	```
+    ```
+    pathex=['C:\\Program Files (x86)\\Windows Kits\\10\\Redist\\ucrt\\DLLs\\(x64 or x86)'],
+    ```
 	
 3. python -m PyInstaller Example.spec
 
