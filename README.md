@@ -88,14 +88,7 @@ pip install -r requriements.txt
     ```
     python(3.5) -m easy_install <path to exe>
     ```
-5. Finally, download and install [Windows 10 SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk). Then you'll need to copy every file from:
-    ```
-    C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64(or x32)\
-    ```
-    to:
-    ```
-    vRecScrape\dist
-    ```
+	
 If you wish to use this with an ide, point the python interpreter to this project's virtualenv python binary.
 For example, if you were using Pycharm Professional you'd set your project interpreter to:
 
@@ -244,7 +237,11 @@ The cross platform quirks should be ironed out already in this repo, so compilin
     ```
     datas=[('PATH_TO_ENV/Lib/site-packages/scrapy', 'scrapy')],
     ```
-
+	If using windows, you'll need this line as well:
+	```
+	pathex=['C:\\Program Files (x86)\\Windows Kits\\10\\Redist\\ucrt\\DLLs\\(x64 or x86)'],
+	```
+	
 3. python -m PyInstaller Example.spec
 
 It should produce a new executable for you to test your changes with.
