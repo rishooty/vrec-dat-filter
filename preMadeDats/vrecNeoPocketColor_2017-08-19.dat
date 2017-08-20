@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki SNK NeoGeo Pocket Color</name>
+		<description>Recommended NeoGeo Pocket Color games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="baseball stars color (world) (en,ja)">
+		<description>baseball stars color (world) (en,ja)</description>
+		<rom name="baseball stars color (world) (en,ja).ngc" size="1048576" crc="ffa7e88d"/>
+	</machine>
+	<machine name="big bang pro wrestling (japan) (en,ja)">
+		<description>big bang pro wrestling (japan) (en,ja)</description>
+		<rom name="big bang pro wrestling (japan) (en,ja).ngc" size="2097152" crc="b783c372"/>
+	</machine>
+	<machine name="biomotor unitron (usa, europe)">
+		<description>biomotor unitron (usa, europe)</description>
+		<rom name="biomotor unitron (usa, europe).ngc" size="1048576" crc="3807df4f"/>
+	</machine>
+	<machine name="bust-a-move pocket (usa)">
+		<description>bust-a-move pocket (usa)</description>
+		<rom name="bust-a-move pocket (usa).ngc" size="1048576" crc="85fe6ae3"/>
+	</machine>
+	<machine name="cool cool jam (japan)">
+		<description>cool cool jam (japan)</description>
+		<rom name="cool cool jam (japan).ngc" size="2097152" crc="4fda5d8a"/>
+	</machine>
+	<machine name="crush roller (world) (en,ja)">
+		<description>crush roller (world) (en,ja)</description>
+		<rom name="crush roller (world) (en,ja).ngc" size="1048576" crc="f20ff9f2"/>
+	</machine>
+	<machine name="dark arms - beast buster 1999 (world) (en,ja)">
+		<description>dark arms - beast buster 1999 (world) (en,ja)</description>
+		<rom name="dark arms - beast buster 1999 (world) (en,ja).ngc" size="2097152" crc="6f353f34"/>
+	</machine>
+	<machine name="dynamite slugger (japan, europe) (en,ja)">
+		<description>dynamite slugger (japan, europe) (en,ja)</description>
+		<rom name="dynamite slugger (japan, europe) (en,ja).ngc" size="1048576" crc="7f1779cd"/>
+	</machine>
+	<machine name="evolution - eternal dungeons (europe)">
+		<description>evolution - eternal dungeons (europe)</description>
+		<rom name="evolution - eternal dungeons (europe).ngc" size="2097152" crc="be47e531"/>
+	</machine>
+	<machine name="fantastic night dreams cotton (europe)">
+		<description>fantastic night dreams cotton (europe)</description>
+		<rom name="fantastic night dreams cotton (europe).ngc" size="1048576" crc="1bf412f5"/>
+	</machine>
+	<machine name="faselei! (europe)">
+		<description>faselei! (europe)</description>
+		<rom name="faselei! (europe).ngc" size="2097152" crc="e705e30e"/>
+	</machine>
+	<machine name="ganbare neo poke-kun (ka) (japan)">
+		<description>ganbare neo poke-kun (ka) (japan)</description>
+		<rom name="ganbare neo poke-kun (ka) (japan).ngc" size="2097152" crc="6df986a3"/>
+	</machine>
+	<machine name="kikou seiki unitron - sono tsuide. hikari umareru chi yori. (japan)">
+		<description>kikou seiki unitron - sono tsuide. hikari umareru chi yori. (japan)</description>
+		<rom name="kikou seiki unitron - sono tsuide. hikari umareru chi yori. (japan).ngc" size="2097152" crc="84580d66"/>
+	</machine>
+	<machine name="king of fighters r-2 - pocket fighting series (world) (en,ja)">
+		<description>king of fighters r-2 - pocket fighting series (world) (en,ja)</description>
+		<rom name="king of fighters r-2 - pocket fighting series (world) (en,ja).ngc" size="2097152" crc="47e490a2"/>
+	</machine>
+	<machine name="magical drop pocket (usa, europe)">
+		<description>magical drop pocket (usa, europe)</description>
+		<rom name="magical drop pocket (usa, europe).ngc" size="1048576" crc="7712f82d"/>
+	</machine>
+	<machine name="metal slug - 1st mission (world) (en,ja)">
+		<description>metal slug - 1st mission (world) (en,ja)</description>
+		<rom name="metal slug - 1st mission (world) (en,ja).ngc" size="2097152" crc="4ff91807"/>
+	</machine>
+	<machine name="metal slug - 2nd mission (world) (en,ja)">
+		<description>metal slug - 2nd mission (world) (en,ja)</description>
+		<rom name="metal slug - 2nd mission (world) (en,ja).ngc" size="4194304" crc="ac549144"/>
+	</machine>
+	<machine name="neo geo cup '98 plus (world) (en,ja)">
+		<description>neo geo cup '98 plus (world) (en,ja)</description>
+		<rom name="neo geo cup '98 plus (world) (en,ja).ngc" size="1048576" crc="c0da4fe9"/>
+	</machine>
+	<machine name="picture puzzle (usa, europe)">
+		<description>picture puzzle (usa, europe)</description>
+		<rom name="picture puzzle (usa, europe).ngc" size="1048576" crc="67e6dc56"/>
+	</machine>
+	<machine name="pocket tennis color - pocket sports series (world) (en,ja)">
+		<description>pocket tennis color - pocket sports series (world) (en,ja)</description>
+		<rom name="pocket tennis color - pocket sports series (world) (en,ja).ngc" size="524288" crc="d8590b96"/>
+	</machine>
+	<machine name="puyo pop (world) (en,ja) (v1.06)">
+		<description>puyo pop (world) (en,ja) (v1.06)</description>
+		<rom name="puyo pop (world) (en,ja) (v1.06).ngc" size="1048576" crc="5c649d1e"/>
+	</machine>
+	<machine name="puzzle link 2 (usa, europe)">
+		<description>puzzle link 2 (usa, europe)</description>
+		<rom name="puzzle link 2 (usa, europe).ngc" size="1048576" crc="ba9ca21c"/>
+	</machine>
+	<machine name="rockman - battle &amp; fighters (japan)">
+		<description>rockman - battle &amp; fighters (japan)</description>
+		<rom name="rockman - battle &amp; fighters (japan).ngc" size="2097152" crc="9c861e49"/>
+	</machine>
+	<machine name="samurai shodown! 2 - pocket fighting series (world) (en,ja)">
+		<description>samurai shodown! 2 - pocket fighting series (world) (en,ja)</description>
+		<rom name="samurai shodown! 2 - pocket fighting series (world) (en,ja).ngc" size="2097152" crc="4f7fb156"/>
+	</machine>
+	<machine name="snk gals' fighters (usa, europe)">
+		<description>snk gals' fighters (usa, europe)</description>
+		<rom name="snk gals' fighters (usa, europe).ngc" size="2097152" crc="b02c2be7"/>
+	</machine>
+	<machine name="snk vs. capcom - card fighters 2 - expand edition (japan)">
+		<description>snk vs. capcom - card fighters 2 - expand edition (japan)</description>
+		<rom name="snk vs. capcom - card fighters 2 - expand edition (japan).ngc" size="2097152" crc="ccbcfda7"/>
+	</machine>
+	<machine name="snk vs. capcom - card fighters' clash - capcom version (usa, europe)">
+		<description>snk vs. capcom - card fighters' clash - capcom version (usa, europe)</description>
+		<rom name="snk vs. capcom - card fighters' clash - capcom version (usa, europe).ngc" size="2097152" crc="80ce137b"/>
+	</machine>
+	<machine name="snk vs. capcom - card fighters' clash - snk version (usa, europe)">
+		<description>snk vs. capcom - card fighters' clash - snk version (usa, europe)</description>
+		<rom name="snk vs. capcom - card fighters' clash - snk version (usa, europe).ngc" size="2097152" crc="94b63a97"/>
+	</machine>
+	<machine name="snk vs. capcom - the match of the millennium (world) (en,ja)">
+		<description>snk vs. capcom - the match of the millennium (world) (en,ja)</description>
+		<rom name="snk vs. capcom - the match of the millennium (world) (en,ja).ngc" size="4194304" crc="b173030a"/>
+	</machine>
+	<machine name="sonic the hedgehog - pocket adventure (world)">
+		<description>sonic the hedgehog - pocket adventure (world)</description>
+		<rom name="sonic the hedgehog - pocket adventure (world).ngc" size="2097152" crc="356f0849"/>
+	</machine>
+</datafile>

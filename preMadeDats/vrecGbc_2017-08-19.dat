@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki GameBoy Color</name>
+		<description>Recommended GameBoy Color games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="azure dreams (usa) (sgb enhanced) (gb compatible)">
+		<description>azure dreams (usa) (sgb enhanced) (gb compatible)</description>
+		<rom name="azure dreams (usa) (sgb enhanced) (gb compatible).gbc" size="1048576" crc="71d52876"/>
+	</machine>
+	<machine name="balloon fight gb (japan) (np, sgb enhanced) (gb compatible)">
+		<description>balloon fight gb (japan) (np, sgb enhanced) (gb compatible)</description>
+		<rom name="balloon fight gb (japan) (np, sgb enhanced) (gb compatible).gbc" size="262144" crc="d2af64ce"/>
+	</machine>
+	<machine name="bionic commando - elite forces (usa, australia)">
+		<description>bionic commando - elite forces (usa, australia)</description>
+		<rom name="bionic commando - elite forces (usa, australia).gbc" size="2097152" crc="a663cf31"/>
+	</machine>
+	<machine name="blaster master - enemy below (usa, europe) (sgb enhanced) (gb compatible)">
+		<description>blaster master - enemy below (usa, europe) (sgb enhanced) (gb compatible)</description>
+		<rom name="blaster master - enemy below (usa, europe) (sgb enhanced) (gb compatible).gbc" size="1048576" crc="2f91e17c"/>
+	</machine>
+	<machine name="bomberman max - blue champion (usa)">
+		<description>bomberman max - blue champion (usa)</description>
+		<rom name="bomberman max - blue champion (usa).gbc" size="2097152" crc="5ccb66cf"/>
+	</machine>
+	<machine name="bomberman max - red challenger (usa)">
+		<description>bomberman max - red challenger (usa)</description>
+		<rom name="bomberman max - red challenger (usa).gbc" size="2097152" crc="4853f586"/>
+	</machine>
+	<machine name="bomberman quest (usa) (sgb enhanced) (gb compatible)">
+		<description>bomberman quest (usa) (sgb enhanced) (gb compatible)</description>
+		<rom name="bomberman quest (usa) (sgb enhanced) (gb compatible).gbc" size="1048576" crc="a089c656"/>
+	</machine>
+	<machine name="bust-a-move 4 (usa, europe) (gb compatible)">
+		<description>bust-a-move 4 (usa, europe) (gb compatible)</description>
+		<rom name="bust-a-move 4 (usa, europe) (gb compatible).gbc" size="524288" crc="8e818e6f"/>
+	</machine>
+	<machine name="crystalis (usa)">
+		<description>crystalis (usa)</description>
+		<rom name="crystalis (usa).gbc" size="2097152" crc="909bb02d"/>
+	</machine>
+	<machine name="daikatana (europe) (en,fr,it)">
+		<description>daikatana (europe) (en,fr,it)</description>
+		<rom name="daikatana (europe) (en,fr,it).gbc" size="1048576" crc="d9062e49"/>
+	</machine>
+	<machine name="deja vu i &amp; ii - the casebooks of ace harding (usa)">
+		<description>deja vu i &amp; ii - the casebooks of ace harding (usa)</description>
+		<rom name="deja vu i &amp; ii - the casebooks of ace harding (usa).gbc" size="1048576" crc="ad0937f4"/>
+	</machine>
+	<machine name="donkey kong country (usa, europe) (en,fr,de,es,it)">
+		<description>donkey kong country (usa, europe) (en,fr,de,es,it)</description>
+		<rom name="donkey kong country (usa, europe) (en,fr,de,es,it).gbc" size="4194304" crc="b1743477"/>
+	</machine>
+	<machine name="dragon warrior i &amp; ii (usa) (sgb enhanced)">
+		<description>dragon warrior i &amp; ii (usa) (sgb enhanced)</description>
+		<rom name="dragon warrior i &amp; ii (usa) (sgb enhanced).gbc" size="2097152" crc="71d693da"/>
+	</machine>
+	<machine name="dragon warrior iii (usa)">
+		<description>dragon warrior iii (usa)</description>
+		<rom name="dragon warrior iii (usa).gbc" size="4194304" crc="0fd9c59c"/>
+	</machine>
+	<machine name="dragon warrior monsters 2 - cobi's journey (usa) (sgb enhanced) (gb compatible)">
+		<description>dragon warrior monsters 2 - cobi's journey (usa) (sgb enhanced) (gb compatible)</description>
+		<rom name="dragon warrior monsters 2 - cobi's journey (usa) (sgb enhanced) (gb compatible).gbc" size="4194304" crc="ab7bfdd5"/>
+	</machine>
+	<machine name="dragon warrior monsters 2 - tara's adventure (usa) (sgb enhanced) (gb compatible)">
+		<description>dragon warrior monsters 2 - tara's adventure (usa) (sgb enhanced) (gb compatible)</description>
+		<rom name="dragon warrior monsters 2 - tara's adventure (usa) (sgb enhanced) (gb compatible).gbc" size="4194304" crc="35ec5fb2"/>
+	</machine>
+	<machine name="duke nukem (usa) (en,fr,de,es,it)">
+		<description>duke nukem (usa) (en,fr,de,es,it)</description>
+		<rom name="duke nukem (usa) (en,fr,de,es,it).gbc" size="1048576" crc="846fc830"/>
+	</machine>
+	<machine name="elevator action ex (europe) (en,fr,de,es,it)">
+		<description>elevator action ex (europe) (en,fr,de,es,it)</description>
+		<rom name="elevator action ex (europe) (en,fr,de,es,it).gbc" size="1048576" crc="2154763c"/>
+	</machine>
+	<machine name="game &amp; watch gallery 2 (usa, europe) (sgb enhanced) (gb compatible)">
+		<description>game &amp; watch gallery 2 (usa, europe) (sgb enhanced) (gb compatible)</description>
+		<rom name="game &amp; watch gallery 2 (usa, europe) (sgb enhanced) (gb compatible).gbc" size="1048576" crc="969c8961"/>
+	</machine>
+	<machine name="game &amp; watch gallery 3 (usa, europe) (sgb enhanced) (gb compatible)">
+		<description>game &amp; watch gallery 3 (usa, europe) (sgb enhanced) (gb compatible)</description>
+		<rom name="game &amp; watch gallery 3 (usa, europe) (sgb enhanced) (gb compatible).gbc" size="1048576" crc="1ac625da"/>
+	</machine>
+	<machine name="game boy wars 2 (japan) (sgb enhanced) (gb compatible)">
+		<description>game boy wars 2 (japan) (sgb enhanced) (gb compatible)</description>
+		<rom name="game boy wars 2 (japan) (sgb enhanced) (gb compatible).gbc" size="524288" crc="559edb5e"/>
+	</machine>
+	<machine name="game boy wars 3 (japan)">
+		<description>game boy wars 3 (japan)</description>
+		<rom name="game boy wars 3 (japan).gbc" size="1048576" crc="30c26262"/>
+	</machine>
+	<machine name="ganbare goemon - seikuushi dynamites arawaru!! (japan)">
+		<description>ganbare goemon - seikuushi dynamites arawaru!! (japan)</description>
+		<rom name="ganbare goemon - seikuushi dynamites arawaru!! (japan).gbc" size="1048576" crc="2ea8d9d4"/>
+	</machine>
+	<machine name="grandia - parallel trippers (japan)">
+		<description>grandia - parallel trippers (japan)</description>
+		<rom name="grandia - parallel trippers (japan).gbc" size="4194304" crc="23223670"/>
+	</machine>
+	<machine name="hamtaro - ham-hams unite! (usa)">
+		<description>hamtaro - ham-hams unite! (usa)</description>
+		<rom name="hamtaro - ham-hams unite! (usa).gbc" size="2097152" crc="1271117f"/>
+	</machine>
+	<machine name="harry potter and the chamber of secrets (usa, europe) (en,fr,de,es,it,nl,pt,sv,da)">
+		<description>harry potter and the chamber of secrets (usa, europe) (en,fr,de,es,it,nl,pt,sv,da)</description>
+		<rom name="harry potter and the chamber of secrets (usa, europe) (en,fr,de,es,it,nl,pt,sv,da).gbc" size="4194304" crc="136e9d0c"/>
+	</machine>
+	<machine name="harry potter and the sorcerer's stone (usa, europe) (en,fr,de,es,it,nl,pt,sv,no,da,fi)">
+		<description>harry potter and the sorcerer's stone (usa, europe) (en,fr,de,es,it,nl,pt,sv,no,da,fi)</description>
+		<rom name="harry potter and the sorcerer's stone (usa, europe) (en,fr,de,es,it,nl,pt,sv,no,da,fi).gbc" size="4194304" crc="4fd8b7c5"/>
+	</machine>
+	<machine name="harvest moon 2 gbc (usa) (sgb enhanced) (gb compatible)">
+		<description>harvest moon 2 gbc (usa) (sgb enhanced) (gb compatible)</description>
+		<rom name="harvest moon 2 gbc (usa) (sgb enhanced) (gb compatible).gbc" size="2097152" crc="08906220"/>
+	</machine>
+	<machine name="harvest moon 3 gbc (usa)">
+		<description>harvest moon 3 gbc (usa)</description>
+		<rom name="harvest moon 3 gbc (usa).gbc" size="2097152" crc="a0d67417"/>
+	</machine>
+	<machine name="hunter x hunter - kindan no hihou (japan)">
+		<description>hunter x hunter - kindan no hihou (japan)</description>
+		<rom name="hunter x hunter - kindan no hihou (japan).gbc" size="1048576" crc="d23c6a75"/>
+	</machine>
+	<machine name="konami gb collection vol.1 (europe) (gb compatible)">
+		<description>konami gb collection vol.1 (europe) (gb compatible)</description>
+		<rom name="konami gb collection vol.1 (europe) (gb compatible).gbc" size="1048576" crc="203f8727"/>
+	</machine>
+	<machine name="konami gb collection vol.2 (europe) (gb compatible)">
+		<description>konami gb collection vol.2 (europe) (gb compatible)</description>
+		<rom name="konami gb collection vol.2 (europe) (gb compatible).gbc" size="1048576" crc="a6499792"/>
+	</machine>
+	<machine name="konami gb collection vol.3 (europe) (gb compatible)">
+		<description>konami gb collection vol.3 (europe) (gb compatible)</description>
+		<rom name="konami gb collection vol.3 (europe) (gb compatible).gbc" size="1048576" crc="d4d6243d"/>
+	</machine>
+	<machine name="konami gb collection vol.4 (europe) (gb compatible)">
+		<description>konami gb collection vol.4 (europe) (gb compatible)</description>
+		<rom name="konami gb collection vol.4 (europe) (gb compatible).gbc" size="1048576" crc="8800f1c9"/>
+	</machine>
+	<machine name="legend of the river king 2 (usa) (sgb enhanced) (gb compatible)">
+		<description>legend of the river king 2 (usa) (sgb enhanced) (gb compatible)</description>
+		<rom name="legend of the river king 2 (usa) (sgb enhanced) (gb compatible).gbc" size="1048576" crc="840fd525"/>
+	</machine>
+	<machine name="legend of zelda, the - link's awakening dx (usa, europe) (rev b) (sgb enhanced) (gb compatible)">
+		<description>legend of zelda, the - link's awakening dx (usa, europe) (rev b) (sgb enhanced) (gb compatible)</description>
+		<rom name="legend of zelda, the - link's awakening dx (usa, europe) (rev b) (sgb enhanced) (gb compatible).gbc" size="1048576" crc="06887a34"/>
+	</machine>
+	<machine name="legend of zelda, the - oracle of ages (usa)">
+		<description>legend of zelda, the - oracle of ages (usa)</description>
+		<rom name="legend of zelda, the - oracle of ages (usa).gbc" size="1048576" crc="3800a387"/>
+	</machine>
+	<machine name="legend of zelda, the - oracle of seasons (usa)">
+		<description>legend of zelda, the - oracle of seasons (usa)</description>
+		<rom name="legend of zelda, the - oracle of seasons (usa).gbc" size="1048576" crc="d7e9f5d7"/>
+	</machine>
+	<machine name="little magic (japan)">
+		<description>little magic (japan)</description>
+		<rom name="little magic (japan).gbc" size="1048576" crc="ca38283d"/>
+	</machine>
+	<machine name="lufia - the legend returns (usa)">
+		<description>lufia - the legend returns (usa)</description>
+		<rom name="lufia - the legend returns (usa).gbc" size="2097152" crc="5bae3c04"/>
+	</machine>
+	<machine name="magi nation (usa)">
+		<description>magi nation (usa)</description>
+		<rom name="magi nation (usa).gbc" size="2097152" crc="5042450b"/>
+	</machine>
+	<machine name="magical chase gb - minarai mahoutsukai kenja no tani e (japan)">
+		<description>magical chase gb - minarai mahoutsukai kenja no tani e (japan)</description>
+		<rom name="magical chase gb - minarai mahoutsukai kenja no tani e (japan).gbc" size="1048576" crc="15e5d499"/>
+	</machine>
+	<machine name="mario golf (usa)">
+		<description>mario golf (usa)</description>
+		<rom name="mario golf (usa).gbc" size="2097152" crc="905ad0cb"/>
+	</machine>
+	<machine name="mario tennis (usa)">
+		<description>mario tennis (usa)</description>
+		<rom name="mario tennis (usa).gbc" size="2097152" crc="a781c63c"/>
+	</machine>
+	<machine name="mega man xtreme (usa, europe) (gb compatible)">
+		<description>mega man xtreme (usa, europe) (gb compatible)</description>
+		<rom name="mega man xtreme (usa, europe) (gb compatible).gbc" size="1048576" crc="3a4d94d5"/>
+	</machine>
+	<machine name="mega man xtreme 2 (usa, europe)">
+		<description>mega man xtreme 2 (usa, europe)</description>
+		<rom name="mega man xtreme 2 (usa, europe).gbc" size="1048576" crc="8fedb6d8"/>
+	</machine>
+	<machine name="megami tensei gaiden - last bible ii (japan) (sgb enhanced)">
+		<description>megami tensei gaiden - last bible ii (japan) (sgb enhanced)</description>
+		<rom name="megami tensei gaiden - last bible ii (japan) (sgb enhanced).gbc" size="1048576" crc="9caa00b5"/>
+	</machine>
+	<machine name="metal gear - ghost babel (japan)">
+		<description>metal gear - ghost babel (japan)</description>
+		<rom name="metal gear - ghost babel (japan).gbc" size="2097152" crc="7831f84d"/>
+	</machine>
+	<machine name="metal walker (usa) (gb compatible)">
+		<description>metal walker (usa) (gb compatible)</description>
+		<rom name="metal walker (usa) (gb compatible).gbc" size="1048576" crc="3be68391"/>
+	</machine>
+	<machine name="monster rancher explorer (usa)">
+		<description>monster rancher explorer (usa)</description>
+		<rom name="monster rancher explorer (usa).gbc" size="1048576" crc="6c35e8f0"/>
+	</machine>
+	<machine name="pocket bomberman (usa, europe) (sgb enhanced) (gb compatible)">
+		<description>pocket bomberman (usa, europe) (sgb enhanced) (gb compatible)</description>
+		<rom name="pocket bomberman (usa, europe) (sgb enhanced) (gb compatible).gbc" size="1048576" crc="fa2a66e9"/>
+	</machine>
+	<machine name="pocket puyo puyo sun (japan) (sgb enhanced)">
+		<description>pocket puyo puyo sun (japan) (sgb enhanced)</description>
+		<rom name="pocket puyo puyo sun (japan) (sgb enhanced).gbc" size="1048576" crc="45661ec3"/>
+	</machine>
+	<machine name="pokemon - crystal version (usa, europe) (rev a)">
+		<description>pokemon - crystal version (usa, europe) (rev a)</description>
+		<rom name="pokemon - crystal version (usa, europe) (rev a).gbc" size="2097152" crc="3358e30a"/>
+	</machine>
+	<machine name="pokemon - gold version (usa, europe) (sgb enhanced)">
+		<description>pokemon - gold version (usa, europe) (sgb enhanced)</description>
+		<rom name="pokemon - gold version (usa, europe) (sgb enhanced).gbc" size="2097152" crc="6bde3c3e"/>
+	</machine>
+	<machine name="pokemon - silver version (usa, europe) (sgb enhanced)">
+		<description>pokemon - silver version (usa, europe) (sgb enhanced)</description>
+		<rom name="pokemon - silver version (usa, europe) (sgb enhanced).gbc" size="2097152" crc="8ad48636"/>
+	</machine>
+	<machine name="pokemon card gb2 - gr dan sanjou! (japan)">
+		<description>pokemon card gb2 - gr dan sanjou! (japan)</description>
+		<rom name="pokemon card gb2 - gr dan sanjou! (japan).gbc" size="2097152" crc="6c933a14"/>
+	</machine>
+	<machine name="pokemon pinball (usa) (rumble version) (sgb enhanced)">
+		<description>pokemon pinball (usa) (rumble version) (sgb enhanced)</description>
+		<rom name="pokemon pinball (usa) (rumble version) (sgb enhanced).gbc" size="1048576" crc="03ce8d9a"/>
+	</machine>
+	<machine name="pokemon puzzle challenge (usa)">
+		<description>pokemon puzzle challenge (usa)</description>
+		<rom name="pokemon puzzle challenge (usa).gbc" size="2097152" crc="d06bba96"/>
+	</machine>
+	<machine name="pokemon trading card game (usa) (sgb enhanced)">
+		<description>pokemon trading card game (usa) (sgb enhanced)</description>
+		<rom name="pokemon trading card game (usa) (sgb enhanced).gbc" size="1048576" crc="81069d53"/>
+	</machine>
+	<machine name="project s-11 (usa)">
+		<description>project s-11 (usa)</description>
+		<rom name="project s-11 (usa).gbc" size="524288" crc="20cee2e8"/>
+	</machine>
+	<machine name="quest rpg - brian's journey (usa) (gb compatible)">
+		<description>quest rpg - brian's journey (usa) (gb compatible)</description>
+		<rom name="quest rpg - brian's journey (usa) (gb compatible).gbc" size="2097152" crc="9ac27645"/>
+	</machine>
+	<machine name="r-type dx (usa, europe) (gb compatible)">
+		<description>r-type dx (usa, europe) (gb compatible)</description>
+		<rom name="r-type dx (usa, europe) (gb compatible).gbc" size="1048576" crc="fc1d4089"/>
+	</machine>
+	<machine name="revelations - the demon slayer (usa) (sgb enhanced)">
+		<description>revelations - the demon slayer (usa) (sgb enhanced)</description>
+		<rom name="revelations - the demon slayer (usa) (sgb enhanced).gbc" size="1048576" crc="d1a65d74"/>
+	</machine>
+	<machine name="revelations - the demon slayer (usa) (sgb enhanced) (gb compatible)">
+		<description>revelations - the demon slayer (usa) (sgb enhanced) (gb compatible)</description>
+		<rom name="revelations - the demon slayer (usa) (sgb enhanced) (gb compatible).gbc" size="1048576" crc="d1a65d74"/>
+	</machine>
+	<machine name="robopon - sun version (usa) (sgb enhanced)">
+		<description>robopon - sun version (usa) (sgb enhanced)</description>
+		<rom name="robopon - sun version (usa) (sgb enhanced).gbc" size="1048576" crc="32caef11"/>
+	</machine>
+	<machine name="samurai kid (japan)">
+		<description>samurai kid (japan)</description>
+		<rom name="samurai kid (japan).gbc" size="1048576" crc="44a9ddfb"/>
+	</machine>
+	<machine name="sd hiryuu no ken ex (japan) (sgb enhanced)">
+		<description>sd hiryuu no ken ex (japan) (sgb enhanced)</description>
+		<rom name="sd hiryuu no ken ex (japan) (sgb enhanced).gbc" size="1048576" crc="365bf43f"/>
+	</machine>
+	<machine name="shadowgate classic (usa, europe) (en,fr,de,es,sv) (rev a) (gb compatible)">
+		<description>shadowgate classic (usa, europe) (en,fr,de,es,sv) (rev a) (gb compatible)</description>
+		<rom name="shadowgate classic (usa, europe) (en,fr,de,es,sv) (rev a) (gb compatible).gbc" size="1048576" crc="d337f450"/>
+	</machine>
+	<machine name="shantae (usa)">
+		<description>shantae (usa)</description>
+		<rom name="shantae (usa).gbc" size="4194304" crc="e994b59b"/>
+	</machine>
+	<machine name="space invaders x (japan)">
+		<description>space invaders x (japan)</description>
+		<rom name="space invaders x (japan).gbc" size="1048576" crc="c016bc79"/>
+	</machine>
+	<machine name="star ocean - blue sphere (japan) (sgb enhanced) (gb compatible)">
+		<description>star ocean - blue sphere (japan) (sgb enhanced) (gb compatible)</description>
+		<rom name="star ocean - blue sphere (japan) (sgb enhanced) (gb compatible).gbc" size="4194304" crc="8c7ddbda"/>
+	</machine>
+	<machine name="super mario bros. deluxe (usa, europe) (rev b)">
+		<description>super mario bros. deluxe (usa, europe) (rev b)</description>
+		<rom name="super mario bros. deluxe (usa, europe) (rev b).gbc" size="1048576" crc="62bbae83"/>
+	</machine>
+	<machine name="survival kids (usa) (sgb enhanced) (gb compatible)">
+		<description>survival kids (usa) (sgb enhanced) (gb compatible)</description>
+		<rom name="survival kids (usa) (sgb enhanced) (gb compatible).gbc" size="1048576" crc="c46aba56"/>
+	</machine>
+	<machine name="survival kids 2 - dasshutsu!! futago-jima! (japan) (sgb enhanced)">
+		<description>survival kids 2 - dasshutsu!! futago-jima! (japan) (sgb enhanced)</description>
+		<rom name="survival kids 2 - dasshutsu!! futago-jima! (japan) (sgb enhanced).gbc" size="1048576" crc="ab8b25d8"/>
+	</machine>
+	<machine name="survival kids 2 - dasshutsu!! futago-jima! (japan) (sgb enhanced) (gb compatible)">
+		<description>survival kids 2 - dasshutsu!! futago-jima! (japan) (sgb enhanced) (gb compatible)</description>
+		<rom name="survival kids 2 - dasshutsu!! futago-jima! (japan) (sgb enhanced) (gb compatible).gbc" size="1048576" crc="ab8b25d8"/>
+	</machine>
+	<machine name="tetris dx (world) (sgb enhanced)">
+		<description>tetris dx (world) (sgb enhanced)</description>
+		<rom name="tetris dx (world) (sgb enhanced).gbc" size="524288" crc="69989152"/>
+	</machine>
+	<machine name="toki tori (usa, europe) (en,ja,fr,de,es)">
+		<description>toki tori (usa, europe) (en,ja,fr,de,es)</description>
+		<rom name="toki tori (usa, europe) (en,ja,fr,de,es).gbc" size="1048576" crc="0a0f9289"/>
+	</machine>
+	<machine name="wario land 2 (japan) (sgb enhanced)">
+		<description>wario land 2 (japan) (sgb enhanced)</description>
+		<rom name="wario land 2 (japan) (sgb enhanced).gbc" size="2097152" crc="b30fdbf5"/>
+	</machine>
+	<machine name="wario land 3 (world) (en,ja)">
+		<description>wario land 3 (world) (en,ja)</description>
+		<rom name="wario land 3 (world) (en,ja).gbc" size="2097152" crc="480d0259"/>
+	</machine>
+	<machine name="wario land ii (usa, europe) (sgb enhanced) (gb compatible)">
+		<description>wario land ii (usa, europe) (sgb enhanced) (gb compatible)</description>
+		<rom name="wario land ii (usa, europe) (sgb enhanced) (gb compatible).gbc" size="2097152" crc="047bdf80"/>
+	</machine>
+	<machine name="warlocked (usa)">
+		<description>warlocked (usa)</description>
+		<rom name="warlocked (usa).gbc" size="2097152" crc="cfa0df0f"/>
+	</machine>
+	<machine name="wendy - every witch way (usa, europe)">
+		<description>wendy - every witch way (usa, europe)</description>
+		<rom name="wendy - every witch way (usa, europe).gbc" size="1048576" crc="4ac6907b"/>
+	</machine>
+	<machine name="wizardry i - proving grounds of the mad overlord (japan)">
+		<description>wizardry i - proving grounds of the mad overlord (japan)</description>
+		<rom name="wizardry i - proving grounds of the mad overlord (japan).gbc" size="1048576" crc="a99a33dc"/>
+	</machine>
+	<machine name="wizardry ii - llylgamyn no isan (japan)">
+		<description>wizardry ii - llylgamyn no isan (japan)</description>
+		<rom name="wizardry ii - llylgamyn no isan (japan).gbc" size="1048576" crc="dd727f1a"/>
+	</machine>
+	<machine name="wizardry iii - diamond no kishi (japan)">
+		<description>wizardry iii - diamond no kishi (japan)</description>
+		<rom name="wizardry iii - diamond no kishi (japan).gbc" size="1048576" crc="d44d3596"/>
+	</machine>
+	<machine name="worms armageddon (usa) (en,fr,es)">
+		<description>worms armageddon (usa) (en,fr,es)</description>
+		<rom name="worms armageddon (usa) (en,fr,es).gbc" size="1048576" crc="e241edde"/>
+	</machine>
+	<machine name="xtreme sports (usa)">
+		<description>xtreme sports (usa)</description>
+		<rom name="xtreme sports (usa).gbc" size="4194304" crc="19828751"/>
+	</machine>
+</datafile>

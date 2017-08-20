@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Satellaview</name>
+		<description>Recommended Satellaview games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>http://bszelda.zeldalegends.net/bszelda.shtml</url>
+		<comment>Based on latest No-Intro and bszelda roms</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="ast1">
+		<description>ast1</description>
+		<rom name="bszelda_ast1.smc" size="4194816" crc="c2e1e741"/>
+	</machine>
+	<machine name="ast2">
+		<description>ast2</description>
+		<rom name="bszelda_ast2.smc" size="4194816" crc="0faccd1d"/>
+	</machine>
+	<machine name="ast3">
+		<description>ast3</description>
+		<rom name="bszelda_ast3.smc" size="4194816" crc="ed46b734"/>
+	</machine>
+	<machine name="ast4">
+		<description>ast4</description>
+		<rom name="bszelda_ast4.smc" size="4194816" crc="71c5dfb6"/>
+	</machine>
+	<machine name="bsf-zerograndprix2">
+		<description>bsf-zerograndprix2</description>
+		<rom name="bs f-zero grand prix 2.sfc" size="1048576" crc="c4808858"/>
+	</machine>
+	<machine name="excitebike - bunbun mario battle - stadium 1 (japan) (bs soundlink)">
+		<description>excitebike - bunbun mario battle - stadium 1 (japan) (bs soundlink)</description>
+		<rom name="excitebike - bunbun mario battle - stadium 1 (japan) (bs soundlink).sfc" size="1048576" crc="6e6d087c"/>
+	</machine>
+	<machine name="excitebike - bunbun mario battle - stadium 2 (japan) (bs soundlink)">
+		<description>excitebike - bunbun mario battle - stadium 2 (japan) (bs soundlink)</description>
+		<rom name="excitebike - bunbun mario battle - stadium 2 (japan) (bs soundlink).sfc" size="1048576" crc="ff355121"/>
+	</machine>
+	<machine name="excitebike - bunbun mario battle - stadium 3 (japan) (1998-01-11 - 1998-01-17) (bs soundlink) [b]">
+		<description>excitebike - bunbun mario battle - stadium 3 (japan) (1998-01-11 - 1998-01-17) (bs soundlink) [b]</description>
+		<rom name="excitebike - bunbun mario battle - stadium 3 (japan) (1998-01-11 - 1998-01-17) (bs soundlink) [b].sfc" size="1048576" crc="32d71227"/>
+	</machine>
+	<machine name="excitebike - bunbun mario battle - stadium 3 (japan) (xxxx-02-08) (bs soundlink)">
+		<description>excitebike - bunbun mario battle - stadium 3 (japan) (xxxx-02-08) (bs soundlink)</description>
+		<rom name="excitebike - bunbun mario battle - stadium 3 (japan) (xxxx-02-08) (bs soundlink).sfc" size="1048576" crc="3250dd13"/>
+	</machine>
+	<machine name="excitebike - bunbun mario battle - stadium 4 (japan) (bs soundlink)">
+		<description>excitebike - bunbun mario battle - stadium 4 (japan) (bs soundlink)</description>
+		<rom name="excitebike - bunbun mario battle - stadium 4 (japan) (bs soundlink).sfc" size="1048576" crc="c747fc3b"/>
+	</machine>
+	<machine name="kaizou chounin shubibinman zero (japan) (bs)">
+		<description>kaizou chounin shubibinman zero (japan) (bs)</description>
+		<rom name="kaizou chounin shubibinman zero (japan) (bs).sfc" size="1048576" crc="231875fa"/>
+	</machine>
+	<machine name="kirby no omochabako - baseball (japan) (bs)">
+		<description>kirby no omochabako - baseball (japan) (bs)</description>
+		<rom name="kirby no omochabako - baseball (japan) (bs).sfc" size="524288" crc="21cb8fd4"/>
+	</machine>
+	<machine name="kirby no omochabako - guruguru ball (japan) (bs)">
+		<description>kirby no omochabako - guruguru ball (japan) (bs)</description>
+		<rom name="kirby no omochabako - guruguru ball (japan) (bs).sfc" size="1048576" crc="64b62e81"/>
+	</machine>
+	<machine name="kirby no omochabako - hoshi kuzushi (japan) (bs)">
+		<description>kirby no omochabako - hoshi kuzushi (japan) (bs)</description>
+		<rom name="kirby no omochabako - hoshi kuzushi (japan) (bs).sfc" size="524288" crc="3dbbd86a"/>
+	</machine>
+	<machine name="kirby no omochabako - pinball (japan) (bs)">
+		<description>kirby no omochabako - pinball (japan) (bs)</description>
+		<rom name="kirby no omochabako - pinball (japan) (bs).sfc" size="524288" crc="9d9bbd09"/>
+	</machine>
+	<machine name="radical dreamers - nusume nai houseki (japan) (bs)">
+		<description>radical dreamers - nusume nai houseki (japan) (bs)</description>
+		<rom name="radical dreamers - nusume nai houseki (japan) (bs).sfc" size="1048576" crc="660b8cc4"/>
+	</machine>
+	<machine name="rh_eng">
+		<description>rh_eng</description>
+		<rom name="bs-zelda mottzilla patch (v0.95) (neweng).smc" size="2097664" crc="3c36fd0c"/>
+		<rom name="bszmz_readme.txt" size="6013" crc="48712491"/>
+	</machine>
+</datafile>

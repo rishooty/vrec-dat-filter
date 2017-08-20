@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Nintendo 64</name>
+		<description>Recommended N64 games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="007 - goldeneye (usa)">
+		<description>007 - goldeneye (usa)</description>
+		<rom name="007 - goldeneye (usa).n64" size="12582912" crc="8b70cb5b"/>
+	</machine>
+	<machine name="1080 teneighty snowboarding (japan, usa) (en,ja)">
+		<description>1080 teneighty snowboarding (japan, usa) (en,ja)</description>
+		<rom name="1080 teneighty snowboarding (japan, usa) (en,ja).n64" size="16777216" crc="d1744951"/>
+	</machine>
+	<machine name="army men - sarge's heroes 2 (usa)">
+		<description>army men - sarge's heroes 2 (usa)</description>
+		<rom name="army men - sarge's heroes 2 (usa).z64" size="8388608" crc="79a71608"/>
+	</machine>
+	<machine name="banjo-kazooie (usa) (rev a)">
+		<description>banjo-kazooie (usa) (rev a)</description>
+		<rom name="banjo-kazooie (usa) (rev a).n64" size="16777216" crc="90b38651"/>
+	</machine>
+	<machine name="banjo-tooie (usa)">
+		<description>banjo-tooie (usa)</description>
+		<rom name="banjo-tooie (usa).n64" size="33554432" crc="0e0dc5a5"/>
+	</machine>
+	<machine name="battletanx (usa)">
+		<description>battletanx (usa)</description>
+		<rom name="battletanx (usa).z64" size="8388608" crc="6c230765"/>
+	</machine>
+	<machine name="battletanx - global assault (usa)">
+		<description>battletanx - global assault (usa)</description>
+		<rom name="battletanx - global assault (usa).z64" size="8388608" crc="31beb053"/>
+	</machine>
+	<machine name="beetle adventure racing! (usa) (en,fr,de)">
+		<description>beetle adventure racing! (usa) (en,fr,de)</description>
+		<rom name="beetle adventure racing! (usa) (en,fr,de).n64" size="16777216" crc="e3517fd8"/>
+	</machine>
+	<machine name="bomber man 64 (japan)">
+		<description>bomber man 64 (japan)</description>
+		<rom name="bomber man 64 (japan).n64" size="12582912" crc="7c532342"/>
+	</machine>
+	<machine name="bomberman 64 (usa)">
+		<description>bomberman 64 (usa)</description>
+		<rom name="bomberman 64 (usa).z64" size="8388608" crc="3ed0e0dc"/>
+	</machine>
+	<machine name="bomberman 64 - the second attack! (usa)">
+		<description>bomberman 64 - the second attack! (usa)</description>
+		<rom name="bomberman 64 - the second attack! (usa).z64" size="16777216" crc="57550007"/>
+	</machine>
+	<machine name="bomberman hero (usa)">
+		<description>bomberman hero (usa)</description>
+		<rom name="bomberman hero (usa).z64" size="12582912" crc="2cc2e634"/>
+	</machine>
+	<machine name="buck bumble (usa)">
+		<description>buck bumble (usa)</description>
+		<rom name="buck bumble (usa).z64" size="12582912" crc="8ec937db"/>
+	</machine>
+	<machine name="castlevania - legacy of darkness (usa)">
+		<description>castlevania - legacy of darkness (usa)</description>
+		<rom name="castlevania - legacy of darkness (usa).z64" size="16777216" crc="ab13028c"/>
+	</machine>
+	<machine name="chameleon twist (usa) (rev a)">
+		<description>chameleon twist (usa) (rev a)</description>
+		<rom name="chameleon twist (usa) (rev a).z64" size="12582912" crc="7ff42fd0"/>
+	</machine>
+	<machine name="chameleon twist 2 (usa)">
+		<description>chameleon twist 2 (usa)</description>
+		<rom name="chameleon twist 2 (usa).z64" size="8388608" crc="cdf26d67"/>
+	</machine>
+	<machine name="custom robo (japan)">
+		<description>custom robo (japan)</description>
+		<rom name="custom robo (japan).z64" size="16777216" crc="f2fae693"/>
+	</machine>
+	<machine name="custom robo v2 (japan)">
+		<description>custom robo v2 (japan)</description>
+		<rom name="custom robo v2 (japan).z64" size="16777216" crc="c8201454"/>
+	</machine>
+	<machine name="deadly arts (usa)">
+		<description>deadly arts (usa)</description>
+		<rom name="deadly arts (usa).z64" size="12582912" crc="3db8130e"/>
+	</machine>
+	<machine name="diddy kong racing (usa) (en,fr) (rev a)">
+		<description>diddy kong racing (usa) (en,fr) (rev a)</description>
+		<rom name="diddy kong racing (usa) (en,fr) (rev a).n64" size="12582912" crc="96c32bb6"/>
+	</machine>
+	<machine name="donkey kong 64 (usa)">
+		<description>donkey kong 64 (usa)</description>
+		<rom name="donkey kong 64 (usa).n64" size="33554432" crc="96972d67"/>
+	</machine>
+	<machine name="doom 64 (usa) (rev a)">
+		<description>doom 64 (usa) (rev a)</description>
+		<rom name="doom 64 (usa) (rev a).n64" size="8388608" crc="0f080d06"/>
+	</machine>
+	<machine name="dr. mario 64 (usa)">
+		<description>dr. mario 64 (usa)</description>
+		<rom name="dr. mario 64 (usa).n64" size="4194304" crc="f7c44b5b"/>
+	</machine>
+	<machine name="duke nukem - zero hour (usa)">
+		<description>duke nukem - zero hour (usa)</description>
+		<rom name="duke nukem - zero hour (usa).n64" size="33554432" crc="912f576f"/>
+	</machine>
+	<machine name="duke nukem 64 (usa)">
+		<description>duke nukem 64 (usa)</description>
+		<rom name="duke nukem 64 (usa).n64" size="8388608" crc="1bf948c3"/>
+	</machine>
+	<machine name="excitebike 64 (usa) (rev a)">
+		<description>excitebike 64 (usa) (rev a)</description>
+		<rom name="excitebike 64 (usa) (rev a).n64" size="16777216" crc="820a12db"/>
+	</machine>
+	<machine name="extreme-g (usa)">
+		<description>extreme-g (usa)</description>
+		<rom name="extreme-g (usa).z64" size="8388608" crc="04cb74ec"/>
+	</machine>
+	<machine name="extreme-g xg2 (usa)">
+		<description>extreme-g xg2 (usa)</description>
+		<rom name="extreme-g xg2 (usa).z64" size="12582912" crc="81a4c28b"/>
+	</machine>
+	<machine name="f-zero x (usa)">
+		<description>f-zero x (usa)</description>
+		<rom name="f-zero x (usa).n64" size="16777216" crc="9408c2c1"/>
+	</machine>
+	<machine name="fighter destiny 2 (usa)">
+		<description>fighter destiny 2 (usa)</description>
+		<rom name="fighter destiny 2 (usa).z64" size="16777216" crc="bb2563c6"/>
+	</machine>
+	<machine name="fighters destiny (usa)">
+		<description>fighters destiny (usa)</description>
+		<rom name="fighters destiny (usa).z64" size="12582912" crc="f45ea789"/>
+	</machine>
+	<machine name="flying dragon (usa)">
+		<description>flying dragon (usa)</description>
+		<rom name="flying dragon (usa).z64" size="12582912" crc="91bc9aeb"/>
+	</machine>
+	<machine name="fushigi no dungeon - fuurai no shiren 2 - oni shuurai! shiren jou! (japan)">
+		<description>fushigi no dungeon - fuurai no shiren 2 - oni shuurai! shiren jou! (japan)</description>
+		<rom name="fushigi no dungeon - fuurai no shiren 2 - oni shuurai! shiren jou! (japan).z64" size="33554432" crc="2aa6d2a1"/>
+	</machine>
+	<machine name="gauntlet legends (usa)">
+		<description>gauntlet legends (usa)</description>
+		<rom name="gauntlet legends (usa).n64" size="16777216" crc="7e90c0a8"/>
+	</machine>
+	<machine name="gex 64 - enter the gecko (usa)">
+		<description>gex 64 - enter the gecko (usa)</description>
+		<rom name="gex 64 - enter the gecko (usa).n64" size="16777216" crc="3f90e7c2"/>
+	</machine>
+	<machine name="glover (usa)">
+		<description>glover (usa)</description>
+		<rom name="glover (usa).n64" size="8388608" crc="d024893a"/>
+	</machine>
+	<machine name="glover 2 (usa) (proto)">
+		<description>glover 2 (usa) (proto)</description>
+		<rom name="glover 2 (usa) (proto).z64" size="33554432" crc="400aecc7"/>
+	</machine>
+	<machine name="goemon's great adventure (usa)">
+		<description>goemon's great adventure (usa)</description>
+		<rom name="goemon's great adventure (usa).n64" size="16777216" crc="e3c7a184"/>
+	</machine>
+	<machine name="harvest moon 64 (usa)">
+		<description>harvest moon 64 (usa)</description>
+		<rom name="harvest moon 64 (usa).n64" size="16777216" crc="d2ee315f"/>
+	</machine>
+	<machine name="hexen (usa)">
+		<description>hexen (usa)</description>
+		<rom name="hexen (usa).z64" size="8388608" crc="1d35e110"/>
+	</machine>
+	<machine name="hey you, pikachu! (usa)">
+		<description>hey you, pikachu! (usa)</description>
+		<rom name="hey you, pikachu! (usa).n64" size="16777216" crc="0149e9f6"/>
+	</machine>
+	<machine name="hot wheels - turbo racing (usa)">
+		<description>hot wheels - turbo racing (usa)</description>
+		<rom name="hot wheels - turbo racing (usa).z64" size="12582912" crc="a5c92148"/>
+	</machine>
+	<machine name="hybrid heaven (usa)">
+		<description>hybrid heaven (usa)</description>
+		<rom name="hybrid heaven (usa).z64" size="16777216" crc="15b57ef8"/>
+	</machine>
+	<machine name="iggy's reckin' balls (usa)">
+		<description>iggy's reckin' balls (usa)</description>
+		<rom name="iggy's reckin' balls (usa).z64" size="4194304" crc="6a6fbd5d"/>
+	</machine>
+	<machine name="indiana jones and the infernal machine (usa)">
+		<description>indiana jones and the infernal machine (usa)</description>
+		<rom name="indiana jones and the infernal machine (usa).n64" size="33554432" crc="a8f86eb6"/>
+	</machine>
+	<machine name="international superstar soccer '98 (usa)">
+		<description>international superstar soccer '98 (usa)</description>
+		<rom name="international superstar soccer '98 (usa).n64" size="12582912" crc="d685f2ec"/>
+	</machine>
+	<machine name="jet force gemini (usa)">
+		<description>jet force gemini (usa)</description>
+		<rom name="jet force gemini (usa).n64" size="33554432" crc="b5932174"/>
+	</machine>
+	<machine name="killer instinct gold (usa) (rev b)">
+		<description>killer instinct gold (usa) (rev b)</description>
+		<rom name="killer instinct gold (usa) (rev b).z64" size="12582912" crc="0b5b5df8"/>
+	</machine>
+	<machine name="kirby 64 - the crystal shards (usa)">
+		<description>kirby 64 - the crystal shards (usa)</description>
+		<rom name="kirby 64 - the crystal shards (usa).n64" size="33554432" crc="8eb3565b"/>
+	</machine>
+	<machine name="legend of zelda, the - majora's mask (usa)">
+		<description>legend of zelda, the - majora's mask (usa)</description>
+		<rom name="legend of zelda, the - majora's mask (usa).n64" size="33554432" crc="3ee3f2d1"/>
+	</machine>
+	<machine name="legend of zelda, the - ocarina of time (usa) (rev b)">
+		<description>legend of zelda, the - ocarina of time (usa) (rev b)</description>
+		<rom name="legend of zelda, the - ocarina of time (usa) (rev b).n64" size="33554432" crc="3c7dbf5b"/>
+	</machine>
+	<machine name="legend of zelda, the - ocarina of time - master quest (usa) (gamecube edition)">
+		<description>legend of zelda, the - ocarina of time - master quest (usa) (gamecube edition)</description>
+		<rom name="legend of zelda, the - ocarina of time - master quest (usa) (gamecube edition).n64" size="33554432" crc="7b89b13f"/>
+	</machine>
+	<machine name="mario golf (usa)">
+		<description>mario golf (usa)</description>
+		<rom name="mario golf (usa).n64" size="33554432" crc="ceb5b977"/>
+	</machine>
+	<machine name="mario kart 64 (usa)">
+		<description>mario kart 64 (usa)</description>
+		<rom name="mario kart 64 (usa).n64" size="12582912" crc="2bcee11c"/>
+	</machine>
+	<machine name="mario party (usa)">
+		<description>mario party (usa)</description>
+		<rom name="mario party (usa).n64" size="33554432" crc="4717cd1b"/>
+	</machine>
+	<machine name="mario party 2 (usa)">
+		<description>mario party 2 (usa)</description>
+		<rom name="mario party 2 (usa).n64" size="33554432" crc="3ba5471b"/>
+	</machine>
+	<machine name="mario party 3 (usa)">
+		<description>mario party 3 (usa)</description>
+		<rom name="mario party 3 (usa).n64" size="33554432" crc="a1bee3f8"/>
+	</machine>
+	<machine name="mega man 64 (usa)">
+		<description>mega man 64 (usa)</description>
+		<rom name="mega man 64 (usa).n64" size="33554432" crc="b57dd0e4"/>
+	</machine>
+	<machine name="mickey's speedway usa (usa)">
+		<description>mickey's speedway usa (usa)</description>
+		<rom name="mickey's speedway usa (usa).n64" size="33554432" crc="6e589c47"/>
+	</machine>
+	<machine name="midway's greatest arcade hits - volume 1 (usa)">
+		<description>midway's greatest arcade hits - volume 1 (usa)</description>
+		<rom name="midway's greatest arcade hits - volume 1 (usa).z64" size="4194304" crc="e5c1fedc"/>
+	</machine>
+	<machine name="mischief makers (usa) (rev a)">
+		<description>mischief makers (usa) (rev a)</description>
+		<rom name="mischief makers (usa) (rev a).n64" size="8388608" crc="c454e245"/>
+	</machine>
+	<machine name="mortal kombat 4 (usa)">
+		<description>mortal kombat 4 (usa)</description>
+		<rom name="mortal kombat 4 (usa).z64" size="16777216" crc="b7f46516"/>
+	</machine>
+	<machine name="mortal kombat trilogy (usa) (rev b)">
+		<description>mortal kombat trilogy (usa) (rev b)</description>
+		<rom name="mortal kombat trilogy (usa) (rev b).z64" size="12582912" crc="0f323d00"/>
+	</machine>
+	<machine name="mystical ninja starring goemon (usa)">
+		<description>mystical ninja starring goemon (usa)</description>
+		<rom name="mystical ninja starring goemon (usa).n64" size="16777216" crc="81c10ad9"/>
+	</machine>
+	<machine name="neon genesis evangelion (japan)">
+		<description>neon genesis evangelion (japan)</description>
+		<rom name="neon genesis evangelion (japan).z64" size="33554432" crc="a10a86af"/>
+	</machine>
+	<machine name="new tetris, the (usa)">
+		<description>new tetris, the (usa)</description>
+		<rom name="new tetris, the (usa).z64" size="12582912" crc="528a07fa"/>
+	</machine>
+	<machine name="ogre battle 64 - person of lordly caliber (usa) (rev a)">
+		<description>ogre battle 64 - person of lordly caliber (usa) (rev a)</description>
+		<rom name="ogre battle 64 - person of lordly caliber (usa) (rev a).n64" size="41943040" crc="50c78d4c"/>
+	</machine>
+	<machine name="paper mario (usa)">
+		<description>paper mario (usa)</description>
+		<rom name="paper mario (usa).n64" size="41943040" crc="d56d1c89"/>
+	</machine>
+	<machine name="perfect dark (usa) (rev a)">
+		<description>perfect dark (usa) (rev a)</description>
+		<rom name="perfect dark (usa) (rev a).n64" size="33554432" crc="f85a16f1"/>
+	</machine>
+	<machine name="pilotwings 64 (usa)">
+		<description>pilotwings 64 (usa)</description>
+		<rom name="pilotwings 64 (usa).n64" size="8388608" crc="c445f7e3"/>
+	</machine>
+	<machine name="pokemon puzzle league (usa)">
+		<description>pokemon puzzle league (usa)</description>
+		<rom name="pokemon puzzle league (usa).n64" size="33554432" crc="281afb0d"/>
+	</machine>
+	<machine name="pokemon snap (usa)">
+		<description>pokemon snap (usa)</description>
+		<rom name="pokemon snap (usa).n64" size="16777216" crc="df387848"/>
+	</machine>
+	<machine name="pokemon stadium (usa) (rev b)">
+		<description>pokemon stadium (usa) (rev b)</description>
+		<rom name="pokemon stadium (usa) (rev b).n64" size="33554432" crc="d2e2ec6d"/>
+	</machine>
+	<machine name="pokemon stadium 2 (usa)">
+		<description>pokemon stadium 2 (usa)</description>
+		<rom name="pokemon stadium 2 (usa).n64" size="67108864" crc="fbff058a"/>
+	</machine>
+	<machine name="quake 64 (usa)">
+		<description>quake 64 (usa)</description>
+		<rom name="quake 64 (usa).n64" size="12582912" crc="06d5cdbb"/>
+	</machine>
+	<machine name="quake ii (usa)">
+		<description>quake ii (usa)</description>
+		<rom name="quake ii (usa).z64" size="12582912" crc="e6b34387"/>
+	</machine>
+	<machine name="rakuga kids (europe)">
+		<description>rakuga kids (europe)</description>
+		<rom name="rakuga kids (europe).z64" size="12582912" crc="483129aa"/>
+	</machine>
+	<machine name="rayman 2 - the great escape (usa) (en,fr,de,es,it)">
+		<description>rayman 2 - the great escape (usa) (en,fr,de,es,it)</description>
+		<rom name="rayman 2 - the great escape (usa) (en,fr,de,es,it).n64" size="33554432" crc="72ee54b2"/>
+	</machine>
+	<machine name="resident evil 2 (usa) (rev a)">
+		<description>resident evil 2 (usa) (rev a)</description>
+		<rom name="resident evil 2 (usa) (rev a).n64" size="67108864" crc="6a0d64bb"/>
+	</machine>
+	<machine name="robot poncots 64 - 7tsu no umi no caramel (japan)">
+		<description>robot poncots 64 - 7tsu no umi no caramel (japan)</description>
+		<rom name="robot poncots 64 - 7tsu no umi no caramel (japan).n64" size="33554432" crc="49bb7dde"/>
+	</machine>
+	<machine name="rocket - robot on wheels (usa)">
+		<description>rocket - robot on wheels (usa)</description>
+		<rom name="rocket - robot on wheels (usa).z64" size="12582912" crc="e0399f23"/>
+	</machine>
+	<machine name="san francisco rush - extreme racing (usa) (en,fr,de)">
+		<description>san francisco rush - extreme racing (usa) (en,fr,de)</description>
+		<rom name="san francisco rush - extreme racing (usa) (en,fr,de).n64" size="8388608" crc="32e250ba"/>
+	</machine>
+	<machine name="san francisco rush 2049 (usa)">
+		<description>san francisco rush 2049 (usa)</description>
+		<rom name="san francisco rush 2049 (usa).n64" size="12582912" crc="1a03b9de"/>
+	</machine>
+	<machine name="shadow man (usa)">
+		<description>shadow man (usa)</description>
+		<rom name="shadow man (usa).n64" size="33554432" crc="47e05128"/>
+	</machine>
+	<machine name="shadowgate 64 - trials of the four towers (usa) (en,es)">
+		<description>shadowgate 64 - trials of the four towers (usa) (en,es)</description>
+		<rom name="shadowgate 64 - trials of the four towers (usa) (en,es).n64" size="16777216" crc="1e9986e5"/>
+	</machine>
+	<machine name="snowboard kids (usa)">
+		<description>snowboard kids (usa)</description>
+		<rom name="snowboard kids (usa).z64" size="8388608" crc="020fb906"/>
+	</machine>
+	<machine name="snowboard kids 2 (usa)">
+		<description>snowboard kids 2 (usa)</description>
+		<rom name="snowboard kids 2 (usa).n64" size="16777216" crc="ca84aace"/>
+	</machine>
+	<machine name="south park (usa)">
+		<description>south park (usa)</description>
+		<rom name="south park (usa).z64" size="16777216" crc="7d666b9e"/>
+	</machine>
+	<machine name="spacestation silicon valley (usa)">
+		<description>spacestation silicon valley (usa)</description>
+		<rom name="spacestation silicon valley (usa).n64" size="8388608" crc="76db1da1"/>
+	</machine>
+	<machine name="star fox 64 (usa) (rev a)">
+		<description>star fox 64 (usa) (rev a)</description>
+		<rom name="star fox 64 (usa) (rev a).n64" size="12582912" crc="d71902b0"/>
+	</machine>
+	<machine name="star wars - rogue squadron (usa) (rev a)">
+		<description>star wars - rogue squadron (usa) (rev a)</description>
+		<rom name="star wars - rogue squadron (usa) (rev a).n64" size="16777216" crc="4a479574"/>
+	</machine>
+	<machine name="star wars - shadows of the empire (usa) (rev b)">
+		<description>star wars - shadows of the empire (usa) (rev b)</description>
+		<rom name="star wars - shadows of the empire (usa) (rev b).n64" size="12582912" crc="f4e546d1"/>
+	</machine>
+	<machine name="star wars episode i - racer (usa)">
+		<description>star wars episode i - racer (usa)</description>
+		<rom name="star wars episode i - racer (usa).z64" size="33554432" crc="c53c1035"/>
+	</machine>
+	<machine name="starcraft 64 (usa)">
+		<description>starcraft 64 (usa)</description>
+		<rom name="starcraft 64 (usa).n64" size="33554432" crc="14c77369"/>
+	</machine>
+	<machine name="super mario 64 (usa)">
+		<description>super mario 64 (usa)</description>
+		<rom name="super mario 64 (usa).n64" size="8388608" crc="42c43204"/>
+	</machine>
+	<machine name="super smash bros. (usa)">
+		<description>super smash bros. (usa)</description>
+		<rom name="super smash bros. (usa).n64" size="16777216" crc="dd2df6d9"/>
+	</machine>
+	<machine name="tetrisphere (usa)">
+		<description>tetrisphere (usa)</description>
+		<rom name="tetrisphere (usa).n64" size="8388608" crc="5db18578"/>
+	</machine>
+	<machine name="tony hawk's pro skater (usa) (rev a)">
+		<description>tony hawk's pro skater (usa) (rev a)</description>
+		<rom name="tony hawk's pro skater (usa) (rev a).z64" size="12582912" crc="6182a092"/>
+	</machine>
+	<machine name="tony hawk's pro skater 2 (usa)">
+		<description>tony hawk's pro skater 2 (usa)</description>
+		<rom name="tony hawk's pro skater 2 (usa).z64" size="16777216" crc="80aa83f3"/>
+	</machine>
+	<machine name="tony hawk's pro skater 3 (usa)">
+		<description>tony hawk's pro skater 3 (usa)</description>
+		<rom name="tony hawk's pro skater 3 (usa).z64" size="16777216" crc="62a8ce7d"/>
+	</machine>
+	<machine name="turok - dinosaur hunter (usa) (rev b)">
+		<description>turok - dinosaur hunter (usa) (rev b)</description>
+		<rom name="turok - dinosaur hunter (usa) (rev b).n64" size="8388608" crc="af6ea1b8"/>
+	</machine>
+	<machine name="turok - rage wars (usa) (rev a)">
+		<description>turok - rage wars (usa) (rev a)</description>
+		<rom name="turok - rage wars (usa) (rev a).n64" size="8388608" crc="282319a0"/>
+	</machine>
+	<machine name="turok 2 - seeds of evil (usa) (rev a)">
+		<description>turok 2 - seeds of evil (usa) (rev a)</description>
+		<rom name="turok 2 - seeds of evil (usa) (rev a).n64" size="33554432" crc="adec745f"/>
+	</machine>
+	<machine name="vigilante 8 (usa)">
+		<description>vigilante 8 (usa)</description>
+		<rom name="vigilante 8 (usa).n64" size="8388608" crc="b445edcd"/>
+	</machine>
+	<machine name="vigilante 8 - 2nd offense (usa)">
+		<description>vigilante 8 - 2nd offense (usa)</description>
+		<rom name="vigilante 8 - 2nd offense (usa).n64" size="12582912" crc="764abdb3"/>
+	</machine>
+	<machine name="virtual pro wrestling 2 - oudou keishou (japan)">
+		<description>virtual pro wrestling 2 - oudou keishou (japan)</description>
+		<rom name="virtual pro wrestling 2 - oudou keishou (japan).z64" size="33554432" crc="f620835d"/>
+	</machine>
+	<machine name="virtual pro wrestling 64 (japan)">
+		<description>virtual pro wrestling 64 (japan)</description>
+		<rom name="virtual pro wrestling 64 (japan).z64" size="16777216" crc="e6651803"/>
+	</machine>
+	<machine name="winback - covert operations (usa)">
+		<description>winback - covert operations (usa)</description>
+		<rom name="winback - covert operations (usa).z64" size="16777216" crc="64c817c5"/>
+	</machine>
+	<machine name="world driver championship (usa)">
+		<description>world driver championship (usa)</description>
+		<rom name="world driver championship (usa).n64" size="16777216" crc="dcd9d2d2"/>
+	</machine>
+	<machine name="wwf no mercy (usa) (rev a)">
+		<description>wwf no mercy (usa) (rev a)</description>
+		<rom name="wwf no mercy (usa) (rev a).n64" size="33554432" crc="afbc514e"/>
+	</machine>
+	<machine name="wwf wrestlemania 2000 (usa)">
+		<description>wwf wrestlemania 2000 (usa)</description>
+		<rom name="wwf wrestlemania 2000 (usa).z64" size="33554432" crc="0b50b4c6"/>
+	</machine>
+	<machine name="yoshi's story (usa) (en,ja)">
+		<description>yoshi's story (usa) (en,ja)</description>
+		<rom name="yoshi's story (usa) (en,ja).n64" size="16777216" crc="01a4b1e9"/>
+	</machine>
+</datafile>

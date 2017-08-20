@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Sega Genesis</name>
+		<description>Recommended Genesis games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="adventures of batman &amp; robin, the (usa)">
+		<description>adventures of batman &amp; robin, the (usa)</description>
+		<rom name="adventures of batman &amp; robin, the (usa).md" size="2097152" crc="0caaa4ac"/>
+	</machine>
+	<machine name="aladdin (usa)">
+		<description>aladdin (usa)</description>
+		<rom name="aladdin (usa).md" size="2097152" crc="ed427ea9"/>
+	</machine>
+	<machine name="alien soldier (europe)">
+		<description>alien soldier (europe)</description>
+		<rom name="alien soldier (europe).md" size="2097152" crc="0496e06c"/>
+	</machine>
+	<machine name="alien storm (world)">
+		<description>alien storm (world)</description>
+		<rom name="alien storm (world).md" size="524288" crc="f5ac8de5"/>
+	</machine>
+	<machine name="alisia dragoon (usa)">
+		<description>alisia dragoon (usa)</description>
+		<rom name="alisia dragoon (usa).md" size="1048576" crc="d28d5c40"/>
+	</machine>
+	<machine name="altered beast (usa, europe)">
+		<description>altered beast (usa, europe)</description>
+		<rom name="altered beast (usa, europe).md" size="524288" crc="154d59bb"/>
+	</machine>
+	<machine name="asterix and the power of the gods (europe) (en,fr,de,es)">
+		<description>asterix and the power of the gods (europe) (en,fr,de,es)</description>
+		<rom name="asterix and the power of the gods (europe) (en,fr,de,es).md" size="2097152" crc="4ff1d83f"/>
+	</machine>
+	<machine name="atomic runner (usa)">
+		<description>atomic runner (usa)</description>
+		<rom name="atomic runner (usa).md" size="1048576" crc="0677c210"/>
+	</machine>
+	<machine name="bare knuckle - ikari no tetsuken ~ streets of rage (world) (rev a)">
+		<description>bare knuckle - ikari no tetsuken ~ streets of rage (world) (rev a)</description>
+		<rom name="bare knuckle - ikari no tetsuken ~ streets of rage (world) (rev a).md" size="524288" crc="4052e845"/>
+	</machine>
+	<machine name="batman - the video game (usa)">
+		<description>batman - the video game (usa)</description>
+		<rom name="batman - the video game (usa).md" size="524288" crc="017410ae"/>
+	</machine>
+	<machine name="battletech - a game of armored combat (usa)">
+		<description>battletech - a game of armored combat (usa)</description>
+		<rom name="battletech - a game of armored combat (usa).md" size="2097152" crc="409e5d14"/>
+	</machine>
+	<machine name="battletoads (world)">
+		<description>battletoads (world)</description>
+		<rom name="battletoads (world).md" size="524288" crc="d10e103a"/>
+	</machine>
+	<machine name="beyond oasis (usa)">
+		<description>beyond oasis (usa)</description>
+		<rom name="beyond oasis (usa).md" size="3145728" crc="c4728225"/>
+	</machine>
+	<machine name="beyond zero tolerance (usa) (proto)">
+		<description>beyond zero tolerance (usa) (proto)</description>
+		<rom name="beyond zero tolerance (usa) (proto).md" size="2097152" crc="c61ed2ed"/>
+	</machine>
+	<machine name="burning force (usa)">
+		<description>burning force (usa)</description>
+		<rom name="burning force (usa).md" size="524288" crc="bdc8f02c"/>
+	</machine>
+	<machine name="castle of illusion starring mickey mouse (usa, europe)">
+		<description>castle of illusion starring mickey mouse (usa, europe)</description>
+		<rom name="castle of illusion starring mickey mouse (usa, europe).md" size="524288" crc="ba4e9fd0"/>
+	</machine>
+	<machine name="castlevania - bloodlines (usa)">
+		<description>castlevania - bloodlines (usa)</description>
+		<rom name="castlevania - bloodlines (usa).md" size="1048576" crc="fb1ea6df"/>
+	</machine>
+	<machine name="chakan (usa, europe)">
+		<description>chakan (usa, europe)</description>
+		<rom name="chakan (usa, europe).md" size="1048576" crc="046a48de"/>
+	</machine>
+	<machine name="columns iii (usa)">
+		<description>columns iii (usa)</description>
+		<rom name="columns iii (usa).md" size="524288" crc="dc678f6d"/>
+	</machine>
+	<machine name="comix zone (usa)">
+		<description>comix zone (usa)</description>
+		<rom name="comix zone (usa).md" size="2097152" crc="17da0354"/>
+	</machine>
+	<machine name="contra - hard corps (usa, korea)">
+		<description>contra - hard corps (usa, korea)</description>
+		<rom name="contra - hard corps (usa, korea).md" size="2097152" crc="c579f45e"/>
+	</machine>
+	<machine name="crusader of centy (usa)">
+		<description>crusader of centy (usa)</description>
+		<rom name="crusader of centy (usa).md" size="2097152" crc="41858f6f"/>
+	</machine>
+	<machine name="decapattack (usa, europe)">
+		<description>decapattack (usa, europe)</description>
+		<rom name="decapattack (usa, europe).md" size="524288" crc="73dc0dd8"/>
+	</machine>
+	<machine name="demolition man (usa, europe)">
+		<description>demolition man (usa, europe)</description>
+		<rom name="demolition man (usa, europe).md" size="2097152" crc="5ff71877"/>
+	</machine>
+	<machine name="desert demolition starring road runner and wile e. coyote (usa, europe)">
+		<description>desert demolition starring road runner and wile e. coyote (usa, europe)</description>
+		<rom name="desert demolition starring road runner and wile e. coyote (usa, europe).md" size="1048576" crc="c287343d"/>
+	</machine>
+	<machine name="desert strike - return to the gulf (usa, europe)">
+		<description>desert strike - return to the gulf (usa, europe)</description>
+		<rom name="desert strike - return to the gulf (usa, europe).md" size="1048576" crc="67a9860b"/>
+	</machine>
+	<machine name="donald in maui mallard (europe)">
+		<description>donald in maui mallard (europe)</description>
+		<rom name="donald in maui mallard (europe).md" size="3145728" crc="b2dd857f"/>
+	</machine>
+	<machine name="dynamite headdy (usa, europe)">
+		<description>dynamite headdy (usa, europe)</description>
+		<rom name="dynamite headdy (usa, europe).md" size="2097152" crc="3dfeeb77"/>
+	</machine>
+	<machine name="earthworm jim 2 (usa)">
+		<description>earthworm jim 2 (usa)</description>
+		<rom name="earthworm jim 2 (usa).md" size="3145728" crc="d57f8ba7"/>
+	</machine>
+	<machine name="ecco - the tides of time (usa)">
+		<description>ecco - the tides of time (usa)</description>
+		<rom name="ecco - the tides of time (usa).md" size="2097152" crc="ccb21f98"/>
+	</machine>
+	<machine name="ecco the dolphin (usa, europe)">
+		<description>ecco the dolphin (usa, europe)</description>
+		<rom name="ecco the dolphin (usa, europe).md" size="1048576" crc="45547390"/>
+	</machine>
+	<machine name="elemental master (usa)">
+		<description>elemental master (usa)</description>
+		<rom name="elemental master (usa).md" size="524288" crc="390918c6"/>
+	</machine>
+	<machine name="eliminate down (japan)">
+		<description>eliminate down (japan)</description>
+		<rom name="eliminate down (japan).md" size="1048576" crc="48467542"/>
+	</machine>
+	<machine name="empire of steel (europe)">
+		<description>empire of steel (europe)</description>
+		<rom name="empire of steel (europe).md" size="1048576" crc="e5517b77"/>
+	</machine>
+	<machine name="fire shark (usa)">
+		<description>fire shark (usa)</description>
+		<rom name="fire shark (usa).md" size="524288" crc="570b5024"/>
+	</machine>
+	<machine name="flashback - the quest for identity (usa)">
+		<description>flashback - the quest for identity (usa)</description>
+		<rom name="flashback - the quest for identity (usa).md" size="1572864" crc="23a9616d"/>
+	</machine>
+	<machine name="gaiares (japan, usa)">
+		<description>gaiares (japan, usa)</description>
+		<rom name="gaiares (japan, usa).md" size="1048576" crc="5d8bf68b"/>
+	</machine>
+	<machine name="gain ground (world) (rev a)">
+		<description>gain ground (world) (rev a)</description>
+		<rom name="gain ground (world) (rev a).md" size="524288" crc="aee20a64"/>
+	</machine>
+	<machine name="garfield - caught in the act (usa, europe)">
+		<description>garfield - caught in the act (usa, europe)</description>
+		<rom name="garfield - caught in the act (usa, europe).md" size="2097152" crc="f0ff078e"/>
+	</machine>
+	<machine name="general chaos (usa, europe)">
+		<description>general chaos (usa, europe)</description>
+		<rom name="general chaos (usa, europe).md" size="1048576" crc="f1ecc4df"/>
+	</machine>
+	<machine name="ghostbusters (world) (v1.1)">
+		<description>ghostbusters (world) (v1.1)</description>
+		<rom name="ghostbusters (world) (v1.1).md" size="524288" crc="792df93b"/>
+	</machine>
+	<machine name="ghouls'n ghosts (usa, europe) (rev a)">
+		<description>ghouls'n ghosts (usa, europe) (rev a)</description>
+		<rom name="ghouls'n ghosts (usa, europe) (rev a).md" size="655360" crc="4f2561d5"/>
+	</machine>
+	<machine name="golden axe (world) (v1.1)">
+		<description>golden axe (world) (v1.1)</description>
+		<rom name="golden axe (world) (v1.1).md" size="524288" crc="665d7df9"/>
+	</machine>
+	<machine name="golden axe ii (world)">
+		<description>golden axe ii (world)</description>
+		<rom name="golden axe ii (world).md" size="524288" crc="725e0a18"/>
+	</machine>
+	<machine name="golden axe iii (japan)">
+		<description>golden axe iii (japan)</description>
+		<rom name="golden axe iii (japan).md" size="1048576" crc="c7862ea3"/>
+	</machine>
+	<machine name="grind stormer (usa)">
+		<description>grind stormer (usa)</description>
+		<rom name="grind stormer (usa).md" size="1048576" crc="7e6bef15"/>
+	</machine>
+	<machine name="gunstar heroes (usa)">
+		<description>gunstar heroes (usa)</description>
+		<rom name="gunstar heroes (usa).md" size="1048576" crc="b813cf0d"/>
+	</machine>
+	<machine name="haunting starring polterguy (usa, europe)">
+		<description>haunting starring polterguy (usa, europe)</description>
+		<rom name="haunting starring polterguy (usa, europe).md" size="2097152" crc="c9fc876d"/>
+	</machine>
+	<machine name="hellfire (usa)">
+		<description>hellfire (usa)</description>
+		<rom name="hellfire (usa).md" size="524288" crc="184018f9"/>
+	</machine>
+	<machine name="herzog zwei (usa, europe)">
+		<description>herzog zwei (usa, europe)</description>
+		<rom name="herzog zwei (usa, europe).md" size="524288" crc="a605b65b"/>
+	</machine>
+	<machine name="high seas havoc (usa)">
+		<description>high seas havoc (usa)</description>
+		<rom name="high seas havoc (usa).md" size="1048576" crc="17be551c"/>
+	</machine>
+	<machine name="juju densetsu ~ toki - going ape spit (world) (rev a)">
+		<description>juju densetsu ~ toki - going ape spit (world) (rev a)</description>
+		<rom name="juju densetsu ~ toki - going ape spit (world) (rev a).md" size="524288" crc="7362c3f4"/>
+	</machine>
+	<machine name="jungle book, the (usa)">
+		<description>jungle book, the (usa)</description>
+		<rom name="jungle book, the (usa).md" size="2097152" crc="3fb6d92e"/>
+	</machine>
+	<machine name="jungle strike (usa, europe)">
+		<description>jungle strike (usa, europe)</description>
+		<rom name="jungle strike (usa, europe).md" size="2097152" crc="a5d29735"/>
+	</machine>
+	<machine name="jurassic park (usa)">
+		<description>jurassic park (usa)</description>
+		<rom name="jurassic park (usa).md" size="2097152" crc="7b31deef"/>
+	</machine>
+	<machine name="jurassic park - rampage edition (usa, europe)">
+		<description>jurassic park - rampage edition (usa, europe)</description>
+		<rom name="jurassic park - rampage edition (usa, europe).md" size="2097152" crc="98b4aa1b"/>
+	</machine>
+	<machine name="kid chameleon (usa, europe)">
+		<description>kid chameleon (usa, europe)</description>
+		<rom name="kid chameleon (usa, europe).md" size="1048576" crc="ce36e6cc"/>
+	</machine>
+	<machine name="landstalker (usa)">
+		<description>landstalker (usa)</description>
+		<rom name="landstalker (usa).md" size="2097152" crc="fbbb5b97"/>
+	</machine>
+	<machine name="langrisser ii (japan) (v1.2)">
+		<description>langrisser ii (japan) (v1.2)</description>
+		<rom name="langrisser ii (japan) (v1.2).md" size="2097152" crc="4967c9f9"/>
+	</machine>
+	<machine name="light crusader (usa)">
+		<description>light crusader (usa)</description>
+		<rom name="light crusader (usa).md" size="2097152" crc="beb715dc"/>
+	</machine>
+	<machine name="lion king, the (world)">
+		<description>lion king, the (world)</description>
+		<rom name="lion king, the (world).md" size="3145728" crc="5696a5bc"/>
+	</machine>
+	<machine name="lost vikings, the (usa)">
+		<description>lost vikings, the (usa)</description>
+		<rom name="lost vikings, the (usa).md" size="1048576" crc="7ba49edb"/>
+	</machine>
+	<machine name="lost world, the - jurassic park (usa, europe)">
+		<description>lost world, the - jurassic park (usa, europe)</description>
+		<rom name="lost world, the - jurassic park (usa, europe).md" size="4194304" crc="140a284c"/>
+	</machine>
+	<machine name="mamono hunter youko - dai 7 no keishou (japan)">
+		<description>mamono hunter youko - dai 7 no keishou (japan)</description>
+		<rom name="mamono hunter youko - dai 7 no keishou (japan).md" size="524288" crc="10bb359b"/>
+	</machine>
+	<machine name="marvel land (usa)">
+		<description>marvel land (usa)</description>
+		<rom name="marvel land (usa).md" size="1048576" crc="cd7eeeb7"/>
+	</machine>
+	<machine name="mcdonald's treasure land adventure (usa)">
+		<description>mcdonald's treasure land adventure (usa)</description>
+		<rom name="mcdonald's treasure land adventure (usa).md" size="1048576" crc="04ef4899"/>
+	</machine>
+	<machine name="mega turrican (usa)">
+		<description>mega turrican (usa)</description>
+		<rom name="mega turrican (usa).md" size="1048576" crc="fe898cc9"/>
+	</machine>
+	<machine name="michael jackson's moonwalker (world) (rev a)">
+		<description>michael jackson's moonwalker (world) (rev a)</description>
+		<rom name="michael jackson's moonwalker (world) (rev a).md" size="524288" crc="11ce1f9e"/>
+	</machine>
+	<machine name="micro machines (usa, europe)">
+		<description>micro machines (usa, europe)</description>
+		<rom name="micro machines (usa, europe).md" size="524288" crc="7ffbd1ad"/>
+	</machine>
+	<machine name="micro machines 2 - turbo tournament (europe) (j-cart)">
+		<description>micro machines 2 - turbo tournament (europe) (j-cart)</description>
+		<rom name="micro machines 2 - turbo tournament (europe) (j-cart).md" size="1048576" crc="42bfb7eb"/>
+	</machine>
+	<machine name="micro machines military (europe) (j-cart)">
+		<description>micro machines military (europe) (j-cart)</description>
+		<rom name="micro machines military (europe) (j-cart).md" size="1048576" crc="b3abb15e"/>
+	</machine>
+	<machine name="micro machines turbo tournament 96 (europe) (v1.1) (j-cart)">
+		<description>micro machines turbo tournament 96 (europe) (v1.1) (j-cart)</description>
+		<rom name="micro machines turbo tournament 96 (europe) (v1.1) (j-cart).md" size="1048576" crc="23319d0d"/>
+	</machine>
+	<machine name="monster world iv (japan)">
+		<description>monster world iv (japan)</description>
+		<rom name="monster world iv (japan).md" size="2097152" crc="36a3aaa4"/>
+	</machine>
+	<machine name="musha - metallic uniframe super hybrid armor (usa)">
+		<description>musha - metallic uniframe super hybrid armor (usa)</description>
+		<rom name="musha - metallic uniframe super hybrid armor (usa).md" size="524288" crc="58a7f7b4"/>
+	</machine>
+	<machine name="mutant league football (usa, europe)">
+		<description>mutant league football (usa, europe)</description>
+		<rom name="mutant league football (usa, europe).md" size="1048576" crc="dce29c9d"/>
+	</machine>
+	<machine name="mutant league hockey (usa, europe)">
+		<description>mutant league hockey (usa, europe)</description>
+		<rom name="mutant league hockey (usa, europe).md" size="2097152" crc="3529180f"/>
+	</machine>
+	<machine name="outrun (usa, europe)">
+		<description>outrun (usa, europe)</description>
+		<rom name="outrun (usa, europe).md" size="1048576" crc="fdd9a8d2"/>
+	</machine>
+	<machine name="outrun 2019 (usa)">
+		<description>outrun 2019 (usa)</description>
+		<rom name="outrun 2019 (usa).md" size="1048576" crc="e32e17e2"/>
+	</machine>
+	<machine name="panorama cotton (japan)">
+		<description>panorama cotton (japan)</description>
+		<rom name="panorama cotton (japan).md" size="2621440" crc="9e57d92e"/>
+	</machine>
+	<machine name="phantasy star ii (usa, europe) (rev a)">
+		<description>phantasy star ii (usa, europe) (rev a)</description>
+		<rom name="phantasy star ii (usa, europe) (rev a).md" size="786432" crc="904fa047"/>
+	</machine>
+	<machine name="phantasy star iii - generations of doom (usa, europe)">
+		<description>phantasy star iii - generations of doom (usa, europe)</description>
+		<rom name="phantasy star iii - generations of doom (usa, europe).md" size="786432" crc="c6b42b0f"/>
+	</machine>
+	<machine name="phantasy star iv (usa)">
+		<description>phantasy star iv (usa)</description>
+		<rom name="phantasy star iv (usa).md" size="3145728" crc="fe236442"/>
+	</machine>
+	<machine name="phelios (usa)">
+		<description>phelios (usa)</description>
+		<rom name="phelios (usa).md" size="524288" crc="11c79320"/>
+	</machine>
+	<machine name="pirates of dark water, the (usa, europe) (may 1994)">
+		<description>pirates of dark water, the (usa, europe) (may 1994)</description>
+		<rom name="pirates of dark water, the (usa, europe) (may 1994).md" size="2097152" crc="0a62de34"/>
+	</machine>
+	<machine name="pulseman (japan)">
+		<description>pulseman (japan)</description>
+		<rom name="pulseman (japan).md" size="2097152" crc="138a104e"/>
+	</machine>
+	<machine name="punisher, the (usa)">
+		<description>punisher, the (usa)</description>
+		<rom name="punisher, the (usa).md" size="2097152" crc="695cd8b8"/>
+	</machine>
+	<machine name="quackshot starring donald duck ~ quackshot - i love donald duck - guruzia ou no hihou (world) (v1.1)">
+		<description>quackshot starring donald duck ~ quackshot - i love donald duck - guruzia ou no hihou (world) (v1.1)</description>
+		<rom name="quackshot starring donald duck ~ quackshot - i love donald duck - guruzia ou no hihou (world) (v1.1).md" size="1310720" crc="1801098b"/>
+	</machine>
+	<machine name="ranger x (usa)">
+		<description>ranger x (usa)</description>
+		<rom name="ranger x (usa).md" size="1048576" crc="55915915"/>
+	</machine>
+	<machine name="red zone (usa, europe)">
+		<description>red zone (usa, europe)</description>
+		<rom name="red zone (usa, europe).md" size="2097152" crc="56512ee5"/>
+	</machine>
+	<machine name="ren &amp; stimpy show presents, the - stimpy's invention (usa)">
+		<description>ren &amp; stimpy show presents, the - stimpy's invention (usa)</description>
+		<rom name="ren &amp; stimpy show presents, the - stimpy's invention (usa).md" size="1048576" crc="d9503ba5"/>
+	</machine>
+	<machine name="revenge of shinobi, the (usa, europe) (rev b)">
+		<description>revenge of shinobi, the (usa, europe) (rev b)</description>
+		<rom name="revenge of shinobi, the (usa, europe) (rev b).md" size="524288" crc="4d35ebe4"/>
+	</machine>
+	<machine name="rings of power (usa, europe)">
+		<description>rings of power (usa, europe)</description>
+		<rom name="rings of power (usa, europe).md" size="1048576" crc="41fcc497"/>
+	</machine>
+	<machine name="ristar (usa, europe) (september 1994)">
+		<description>ristar (usa, europe) (september 1994)</description>
+		<rom name="ristar (usa, europe) (september 1994).md" size="2097152" crc="6511aa61"/>
+	</machine>
+	<machine name="road rash (usa, europe)">
+		<description>road rash (usa, europe)</description>
+		<rom name="road rash (usa, europe).md" size="786432" crc="dea53d19"/>
+	</machine>
+	<machine name="road rash 3 (usa, europe)">
+		<description>road rash 3 (usa, europe)</description>
+		<rom name="road rash 3 (usa, europe).md" size="2097152" crc="15785956"/>
+	</machine>
+	<machine name="road rash ii (usa, europe) (v1.2)">
+		<description>road rash ii (usa, europe) (v1.2)</description>
+		<rom name="road rash ii (usa, europe) (v1.2).md" size="1048576" crc="0876e992"/>
+	</machine>
+	<machine name="robocop versus the terminator (usa)">
+		<description>robocop versus the terminator (usa)</description>
+		<rom name="robocop versus the terminator (usa).md" size="2097152" crc="bbad77a4"/>
+	</machine>
+	<machine name="rocket knight adventures (usa)">
+		<description>rocket knight adventures (usa)</description>
+		<rom name="rocket knight adventures (usa).md" size="1048576" crc="a6efec47"/>
+	</machine>
+	<machine name="rolo to the rescue (usa, europe)">
+		<description>rolo to the rescue (usa, europe)</description>
+		<rom name="rolo to the rescue (usa, europe).md" size="524288" crc="306861a2"/>
+	</machine>
+	<machine name="sagaia (usa)">
+		<description>sagaia (usa)</description>
+		<rom name="sagaia (usa).md" size="1048576" crc="f1e22f43"/>
+	</machine>
+	<machine name="shadow dancer - the secret of shinobi (world)">
+		<description>shadow dancer - the secret of shinobi (world)</description>
+		<rom name="shadow dancer - the secret of shinobi (world).md" size="524288" crc="ebe9ad10"/>
+	</machine>
+	<machine name="shadowrun (usa)">
+		<description>shadowrun (usa)</description>
+		<rom name="shadowrun (usa).md" size="2097152" crc="fbb92909"/>
+	</machine>
+	<machine name="shining force (usa)">
+		<description>shining force (usa)</description>
+		<rom name="shining force (usa).md" size="1572864" crc="e0594abe"/>
+	</machine>
+	<machine name="shining force ii (usa)">
+		<description>shining force ii (usa)</description>
+		<rom name="shining force ii (usa).md" size="2097152" crc="4815e075"/>
+	</machine>
+	<machine name="shining in the darkness (usa, europe)">
+		<description>shining in the darkness (usa, europe)</description>
+		<rom name="shining in the darkness (usa, europe).md" size="1048576" crc="4d2785bc"/>
+	</machine>
+	<machine name="shinobi iii - return of the ninja master (usa)">
+		<description>shinobi iii - return of the ninja master (usa)</description>
+		<rom name="shinobi iii - return of the ninja master (usa).md" size="1048576" crc="5381506f"/>
+	</machine>
+	<machine name="skeleton krew (usa)">
+		<description>skeleton krew (usa)</description>
+		<rom name="skeleton krew (usa).md" size="2097152" crc="c2e05acb"/>
+	</machine>
+	<machine name="snow bros. - nick &amp; tom (japan)">
+		<description>snow bros. - nick &amp; tom (japan)</description>
+		<rom name="snow bros. - nick &amp; tom (japan).md" size="1048576" crc="11b56228"/>
+	</machine>
+	<machine name="socket (usa)">
+		<description>socket (usa)</description>
+		<rom name="socket (usa).md" size="1048576" crc="3c14e15a"/>
+	</machine>
+	<machine name="sol-deace (usa)">
+		<description>sol-deace (usa)</description>
+		<rom name="sol-deace (usa).md" size="1048576" crc="a77e4e9f"/>
+	</machine>
+	<machine name="sonic &amp; knuckles + sonic the hedgehog (usa)">
+		<description>sonic &amp; knuckles + sonic the hedgehog (usa)</description>
+		<rom name="sonic &amp; knuckles + sonic the hedgehog (usa).md" size="2621440" crc="e01f6ed5"/>
+	</machine>
+	<machine name="sonic &amp; knuckles + sonic the hedgehog 2 (world)">
+		<description>sonic &amp; knuckles + sonic the hedgehog 2 (world)</description>
+		<rom name="sonic &amp; knuckles + sonic the hedgehog 2 (world).md" size="3407872" crc="2ac1e7c6"/>
+	</machine>
+	<machine name="sonic &amp; knuckles + sonic the hedgehog 3 (usa)">
+		<description>sonic &amp; knuckles + sonic the hedgehog 3 (usa)</description>
+		<rom name="sonic &amp; knuckles + sonic the hedgehog 3 (usa).md" size="4194304" crc="63522553"/>
+	</machine>
+	<machine name="sonic spinball (usa)">
+		<description>sonic spinball (usa)</description>
+		<rom name="sonic spinball (usa).md" size="1048576" crc="677206cb"/>
+	</machine>
+	<machine name="sonic the hedgehog (usa, europe)">
+		<description>sonic the hedgehog (usa, europe)</description>
+		<rom name="sonic the hedgehog (usa, europe).md" size="524288" crc="f9394e97"/>
+	</machine>
+	<machine name="sonic the hedgehog 2 (world) (rev a)">
+		<description>sonic the hedgehog 2 (world) (rev a)</description>
+		<rom name="sonic the hedgehog 2 (world) (rev a).md" size="1048576" crc="7b905383"/>
+	</machine>
+	<machine name="sparkster - rocket knight adventures 2 (japan)">
+		<description>sparkster - rocket knight adventures 2 (japan)</description>
+		<rom name="sparkster - rocket knight adventures 2 (japan).md" size="1048576" crc="914ec662"/>
+	</machine>
+	<machine name="splatterhouse 2 (usa)">
+		<description>splatterhouse 2 (usa)</description>
+		<rom name="splatterhouse 2 (usa).md" size="1048576" crc="2d1766e9"/>
+	</machine>
+	<machine name="splatterhouse 3 (usa)">
+		<description>splatterhouse 3 (usa)</description>
+		<rom name="splatterhouse 3 (usa).md" size="2097152" crc="00f05d07"/>
+	</machine>
+	<machine name="star cruiser (japan)">
+		<description>star cruiser (japan)</description>
+		<rom name="star cruiser (japan).md" size="524288" crc="2b75b52f"/>
+	</machine>
+	<machine name="star trek - the next generation - echoes from the past (usa) (v1.1)">
+		<description>star trek - the next generation - echoes from the past (usa) (v1.1)</description>
+		<rom name="star trek - the next generation - echoes from the past (usa) (v1.1).md" size="2097152" crc="ef840ef2"/>
+	</machine>
+	<machine name="streets of rage 2 (usa)">
+		<description>streets of rage 2 (usa)</description>
+		<rom name="streets of rage 2 (usa).md" size="2097152" crc="e01fa526"/>
+	</machine>
+	<machine name="streets of rage 3 (usa)">
+		<description>streets of rage 3 (usa)</description>
+		<rom name="streets of rage 3 (usa).md" size="3145728" crc="d5bb15d9"/>
+	</machine>
+	<machine name="strider (usa, europe)">
+		<description>strider (usa, europe)</description>
+		<rom name="strider (usa, europe).md" size="1048576" crc="b9d099a4"/>
+	</machine>
+	<machine name="sub-terrania (usa)">
+		<description>sub-terrania (usa)</description>
+		<rom name="sub-terrania (usa).md" size="2097152" crc="dc3c6c45"/>
+	</machine>
+	<machine name="super fantasy zone (europe)">
+		<description>super fantasy zone (europe)</description>
+		<rom name="super fantasy zone (europe).md" size="1048576" crc="927975be"/>
+	</machine>
+	<machine name="super hang-on (world) (en,ja) (rev a)">
+		<description>super hang-on (world) (en,ja) (rev a)</description>
+		<rom name="super hang-on (world) (en,ja) (rev a).md" size="524288" crc="3877d107"/>
+	</machine>
+	<machine name="sylvester and tweety in cagey capers (usa) (beta)">
+		<description>sylvester and tweety in cagey capers (usa) (beta)</description>
+		<rom name="sylvester and tweety in cagey capers (usa) (beta).md" size="2097152" crc="9d9c786b"/>
+	</machine>
+	<machine name="tatsujin ~ truxton (world)">
+		<description>tatsujin ~ truxton (world)</description>
+		<rom name="tatsujin ~ truxton (world).md" size="524288" crc="5bd0882d"/>
+	</machine>
+	<machine name="taz in escape from mars (usa)">
+		<description>taz in escape from mars (usa)</description>
+		<rom name="taz in escape from mars (usa).md" size="2097152" crc="62009f8c"/>
+	</machine>
+	<machine name="teenage mutant ninja turtles - the hyperstone heist (usa)">
+		<description>teenage mutant ninja turtles - the hyperstone heist (usa)</description>
+		<rom name="teenage mutant ninja turtles - the hyperstone heist (usa).md" size="1048576" crc="679c41de"/>
+	</machine>
+	<machine name="tetris (japan)">
+		<description>tetris (japan)</description>
+		<rom name="tetris (japan).md" size="262144" crc="4ce90db0"/>
+	</machine>
+	<machine name="thunder force iii (japan, usa)">
+		<description>thunder force iii (japan, usa)</description>
+		<rom name="thunder force iii (japan, usa).md" size="524288" crc="1b3f399a"/>
+	</machine>
+	<machine name="thunder force iv (europe)">
+		<description>thunder force iv (europe)</description>
+		<rom name="thunder force iv (europe).md" size="1048576" crc="e7e3c05b"/>
+	</machine>
+	<machine name="tiny toon adventures - buster's hidden treasure (usa)">
+		<description>tiny toon adventures - buster's hidden treasure (usa)</description>
+		<rom name="tiny toon adventures - buster's hidden treasure (usa).md" size="524288" crc="a26d3ae0"/>
+	</machine>
+	<machine name="toejam &amp; earl (world) (rev a)">
+		<description>toejam &amp; earl (world) (rev a)</description>
+		<rom name="toejam &amp; earl (world) (rev a).md" size="1048576" crc="7a588f4b"/>
+	</machine>
+	<machine name="toejam &amp; earl in panic on funkotron (usa)">
+		<description>toejam &amp; earl in panic on funkotron (usa)</description>
+		<rom name="toejam &amp; earl in panic on funkotron (usa).md" size="2097152" crc="aa021bdd"/>
+	</machine>
+	<machine name="tom mason's dinosaurs for hire (usa)">
+		<description>tom mason's dinosaurs for hire (usa)</description>
+		<rom name="tom mason's dinosaurs for hire (usa).md" size="1048576" crc="39351146"/>
+	</machine>
+	<machine name="tougiou king colossus (japan)">
+		<description>tougiou king colossus (japan)</description>
+		<rom name="tougiou king colossus (japan).md" size="1048576" crc="ffe7b3c7"/>
+	</machine>
+	<machine name="true lies (world)">
+		<description>true lies (world)</description>
+		<rom name="true lies (world).md" size="2097152" crc="18c09468"/>
+	</machine>
+	<machine name="turbo outrun (japan, europe)">
+		<description>turbo outrun (japan, europe)</description>
+		<rom name="turbo outrun (japan, europe).md" size="524288" crc="0c661369"/>
+	</machine>
+	<machine name="twinkle tale (japan)">
+		<description>twinkle tale (japan)</description>
+		<rom name="twinkle tale (japan).md" size="1048576" crc="d757f924"/>
+	</machine>
+	<machine name="urban strike (usa, europe)">
+		<description>urban strike (usa, europe)</description>
+		<rom name="urban strike (usa, europe).md" size="2097152" crc="cf690a75"/>
+	</machine>
+	<machine name="valis iii (usa)">
+		<description>valis iii (usa)</description>
+		<rom name="valis iii (usa).md" size="1048576" crc="59a2a368"/>
+	</machine>
+	<machine name="vectorman (usa, europe)">
+		<description>vectorman (usa, europe)</description>
+		<rom name="vectorman (usa, europe).md" size="2097152" crc="d38b3354"/>
+	</machine>
+	<machine name="vectorman 2 (usa)">
+		<description>vectorman 2 (usa)</description>
+		<rom name="vectorman 2 (usa).md" size="3145728" crc="c1a24088"/>
+	</machine>
+	<machine name="virtua racing (usa)">
+		<description>virtua racing (usa)</description>
+		<rom name="virtua racing (usa).md" size="2097152" crc="7e1a324a"/>
+	</machine>
+	<machine name="warsong (usa)">
+		<description>warsong (usa)</description>
+		<rom name="warsong (usa).md" size="524288" crc="4b680285"/>
+	</machine>
+	<machine name="wings of wor (usa)">
+		<description>wings of wor (usa)</description>
+		<rom name="wings of wor (usa).md" size="524288" crc="210a2fcd"/>
+	</machine>
+	<machine name="wonder boy in monster world (usa, europe)">
+		<description>wonder boy in monster world (usa, europe)</description>
+		<rom name="wonder boy in monster world (usa, europe).md" size="786432" crc="1592f5b0"/>
+	</machine>
+	<machine name="world of illusion starring mickey mouse and donald duck (usa, korea)">
+		<description>world of illusion starring mickey mouse and donald duck (usa, korea)</description>
+		<rom name="world of illusion starring mickey mouse and donald duck (usa, korea).md" size="1048576" crc="921ebd1c"/>
+	</machine>
+	<machine name="x-men 2 - clone wars (usa, europe)">
+		<description>x-men 2 - clone wars (usa, europe)</description>
+		<rom name="x-men 2 - clone wars (usa, europe).md" size="2097152" crc="710bc628"/>
+	</machine>
+	<machine name="yu yu hakusho - makyou toitsusen (japan)">
+		<description>yu yu hakusho - makyou toitsusen (japan)</description>
+		<rom name="yu yu hakusho - makyou toitsusen (japan).md" size="3145728" crc="71ceac6f"/>
+	</machine>
+	<machine name="zero tolerance (usa, europe)">
+		<description>zero tolerance (usa, europe)</description>
+		<rom name="zero tolerance (usa, europe).md" size="2097152" crc="23f603f5"/>
+	</machine>
+	<machine name="zero wing (europe)">
+		<description>zero wing (europe)</description>
+		<rom name="zero wing (europe).md" size="1048576" crc="89b744a3"/>
+	</machine>
+</datafile>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Atari Lynx</name>
+		<description>Recommended Lynx games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="battle wheels (usa, europe)">
+		<description>battle wheels (usa, europe)</description>
+		<rom name="battle wheels (usa, europe).lnx" size="131072" crc="779faece"/>
+	</machine>
+	<machine name="blue lightning (usa, europe)">
+		<description>blue lightning (usa, europe)</description>
+		<rom name="blue lightning (usa, europe).lnx" size="131072" crc="daf587b1"/>
+	</machine>
+	<machine name="bubble trouble (usa, europe)">
+		<description>bubble trouble (usa, europe)</description>
+		<rom name="bubble trouble (usa, europe).lnx" size="262144" crc="333daece"/>
+	</machine>
+	<machine name="eye of the beholder (usa) (proto)">
+		<description>eye of the beholder (usa) (proto)</description>
+		<rom name="eye of the beholder (usa) (proto).lnx" size="131072" crc="6bceaa9c"/>
+	</machine>
+	<machine name="ms. pac-man (usa, europe)">
+		<description>ms. pac-man (usa, europe)</description>
+		<rom name="ms. pac-man (usa, europe).lnx" size="131072" crc="7de3783a"/>
+	</machine>
+	<machine name="ninja gaiden (usa, europe)">
+		<description>ninja gaiden (usa, europe)</description>
+		<rom name="ninja gaiden (usa, europe).lnx" size="262144" crc="22d47d51"/>
+	</machine>
+	<machine name="ninja gaiden iii - the ancient ship of doom (usa, europe)">
+		<description>ninja gaiden iii - the ancient ship of doom (usa, europe)</description>
+		<rom name="ninja gaiden iii - the ancient ship of doom (usa, europe).lnx" size="524288" crc="f3e3f811"/>
+	</machine>
+	<machine name="robotron 2084 (usa, europe)">
+		<description>robotron 2084 (usa, europe)</description>
+		<rom name="robotron 2084 (usa, europe).lnx" size="131072" crc="7a6049b5"/>
+	</machine>
+	<machine name="s.t.u.n. runner (usa, europe)">
+		<description>s.t.u.n. runner (usa, europe)</description>
+		<rom name="s.t.u.n. runner (usa, europe).lnx" size="262144" crc="8595c40b"/>
+	</machine>
+	<machine name="shadow of the beast (usa, europe)">
+		<description>shadow of the beast (usa, europe)</description>
+		<rom name="shadow of the beast (usa, europe).lnx" size="262144" crc="eb78baa3"/>
+	</machine>
+	<machine name="todd's adventures in slime world (usa, europe)">
+		<description>todd's adventures in slime world (usa, europe)</description>
+		<rom name="todd's adventures in slime world (usa, europe).lnx" size="131072" crc="ae267e29"/>
+	</machine>
+	<machine name="xybots (usa, europe)">
+		<description>xybots (usa, europe)</description>
+		<rom name="xybots (usa, europe).lnx" size="262144" crc="89e2a595"/>
+	</machine>
+</datafile>

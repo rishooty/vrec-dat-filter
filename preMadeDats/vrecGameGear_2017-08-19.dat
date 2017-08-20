@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Sega GameGear</name>
+		<description>Recommended GameGear games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="alien syndrome (usa, europe)">
+		<description>alien syndrome (usa, europe)</description>
+		<rom name="alien syndrome (usa, europe).gg" size="131072" crc="bb5e10e0"/>
+	</machine>
+	<machine name="baku baku animal (usa)">
+		<description>baku baku animal (usa)</description>
+		<rom name="baku baku animal (usa).gg" size="262144" crc="8d8bfdc4"/>
+	</machine>
+	<machine name="bare knuckle ii ~ streets of rage 2 ~ streets of rage ii (world)">
+		<description>bare knuckle ii ~ streets of rage 2 ~ streets of rage ii (world)</description>
+		<rom name="bare knuckle ii ~ streets of rage 2 ~ streets of rage ii (world).gg" size="524288" crc="0b618409"/>
+	</machine>
+	<machine name="batman returns (world)">
+		<description>batman returns (world)</description>
+		<rom name="batman returns (world).gg" size="262144" crc="7ac4a3ca"/>
+	</machine>
+	<machine name="battletoads (usa)">
+		<description>battletoads (usa)</description>
+		<rom name="battletoads (usa).gg" size="262144" crc="817cc0ca"/>
+	</machine>
+	<machine name="berlin no kabe (japan)">
+		<description>berlin no kabe (japan)</description>
+		<rom name="berlin no kabe (japan).gg" size="262144" crc="325b1797"/>
+	</machine>
+	<machine name="chakan (usa, europe)">
+		<description>chakan (usa, europe)</description>
+		<rom name="chakan (usa, europe).gg" size="262144" crc="dfc7adc8"/>
+	</machine>
+	<machine name="chessmaster, the (usa, europe)">
+		<description>chessmaster, the (usa, europe)</description>
+		<rom name="chessmaster, the (usa, europe).gg" size="131072" crc="da811ba6"/>
+	</machine>
+	<machine name="coca-cola kid (japan)">
+		<description>coca-cola kid (japan)</description>
+		<rom name="coca-cola kid (japan).gg" size="524288" crc="c7598b81"/>
+	</machine>
+	<machine name="crystal warriors (usa, europe)">
+		<description>crystal warriors (usa, europe)</description>
+		<rom name="crystal warriors (usa, europe).gg" size="262144" crc="529c864e"/>
+	</machine>
+	<machine name="defenders of oasis (usa, europe)">
+		<description>defenders of oasis (usa, europe)</description>
+		<rom name="defenders of oasis (usa, europe).gg" size="524288" crc="e2791cc1"/>
+	</machine>
+	<machine name="desert strike - return to the gulf (usa)">
+		<description>desert strike - return to the gulf (usa)</description>
+		<rom name="desert strike - return to the gulf (usa).gg" size="524288" crc="f6c400da"/>
+	</machine>
+	<machine name="devilish (usa)">
+		<description>devilish (usa)</description>
+		<rom name="devilish (usa).gg" size="131072" crc="c01293b0"/>
+	</machine>
+	<machine name="earthworm jim (usa)">
+		<description>earthworm jim (usa)</description>
+		<rom name="earthworm jim (usa).gg" size="524288" crc="5d3f23a9"/>
+	</machine>
+	<machine name="ecco - the tides of time (usa, europe)">
+		<description>ecco - the tides of time (usa, europe)</description>
+		<rom name="ecco - the tides of time (usa, europe).gg" size="524288" crc="e2f3b203"/>
+	</machine>
+	<machine name="ecco the dolphin (usa, europe)">
+		<description>ecco the dolphin (usa, europe)</description>
+		<rom name="ecco the dolphin (usa, europe).gg" size="524288" crc="866c7113"/>
+	</machine>
+	<machine name="eternal legend - eien no densetsu (japan)">
+		<description>eternal legend - eien no densetsu (japan)</description>
+		<rom name="eternal legend - eien no densetsu (japan).gg" size="262144" crc="04302bbd"/>
+	</machine>
+	<machine name="fatal fury special (usa)">
+		<description>fatal fury special (usa)</description>
+		<rom name="fatal fury special (usa).gg" size="524288" crc="449787e2"/>
+	</machine>
+	<machine name="frank thomas big hurt baseball (usa)">
+		<description>frank thomas big hurt baseball (usa)</description>
+		<rom name="frank thomas big hurt baseball (usa).gg" size="524288" crc="c443c35c"/>
+	</machine>
+	<machine name="fray - shugyou hen (japan)">
+		<description>fray - shugyou hen (japan)</description>
+		<rom name="fray - shugyou hen (japan).gg" size="262144" crc="e123d9b8"/>
+	</machine>
+	<machine name="fred couples' golf (usa)">
+		<description>fred couples' golf (usa)</description>
+		<rom name="fred couples' golf (usa).gg" size="524288" crc="46f40b9f"/>
+	</machine>
+	<machine name="g-loc - air battle (usa, europe)">
+		<description>g-loc - air battle (usa, europe)</description>
+		<rom name="g-loc - air battle (usa, europe).gg" size="131072" crc="18de59ed"/>
+	</machine>
+	<machine name="gg aleste ii ~ power strike ii (japan, europe)">
+		<description>gg aleste ii ~ power strike ii (japan, europe)</description>
+		<rom name="gg aleste ii ~ power strike ii (japan, europe).gg" size="262144" crc="09de1528"/>
+	</machine>
+	<machine name="gojira - kaijuu daishingeki (japan)">
+		<description>gojira - kaijuu daishingeki (japan)</description>
+		<rom name="gojira - kaijuu daishingeki (japan).gg" size="524288" crc="4cf97801"/>
+	</machine>
+	<machine name="gunstar heroes (japan)">
+		<description>gunstar heroes (japan)</description>
+		<rom name="gunstar heroes (japan).gg" size="524288" crc="c3c52767"/>
+	</machine>
+	<machine name="halley wars (usa, europe)">
+		<description>halley wars (usa, europe)</description>
+		<rom name="halley wars (usa, europe).gg" size="131072" crc="7e9dea46"/>
+	</machine>
+	<machine name="head buster (japan)">
+		<description>head buster (japan)</description>
+		<rom name="head buster (japan).gg" size="131072" crc="7e689995"/>
+	</machine>
+	<machine name="jurassic park (usa, europe)">
+		<description>jurassic park (usa, europe)</description>
+		<rom name="jurassic park (usa, europe).gg" size="524288" crc="bd6f2321"/>
+	</machine>
+	<machine name="legend of illusion starring mickey mouse (usa, europe)">
+		<description>legend of illusion starring mickey mouse (usa, europe)</description>
+		<rom name="legend of illusion starring mickey mouse (usa, europe).gg" size="524288" crc="ce5ad8b7"/>
+	</machine>
+	<machine name="lost world, the - jurassic park (usa)">
+		<description>lost world, the - jurassic park (usa)</description>
+		<rom name="lost world, the - jurassic park (usa).gg" size="1048576" crc="8d1597f5"/>
+	</machine>
+	<machine name="lunar - sanposuru gakuen (japan)">
+		<description>lunar - sanposuru gakuen (japan)</description>
+		<rom name="lunar - sanposuru gakuen (japan).gg" size="524288" crc="58459edd"/>
+	</machine>
+	<machine name="madou monogatari i - 3-tsu no madoukyuu (japan)">
+		<description>madou monogatari i - 3-tsu no madoukyuu (japan)</description>
+		<rom name="madou monogatari i - 3-tsu no madoukyuu (japan).gg" size="524288" crc="00c34d94"/>
+	</machine>
+	<machine name="magical puzzle popils (world) (en,ja)">
+		<description>magical puzzle popils (world) (en,ja)</description>
+		<rom name="magical puzzle popils (world) (en,ja).gg" size="131072" crc="cf6d7bc5"/>
+	</machine>
+	<machine name="mappy (japan)">
+		<description>mappy (japan)</description>
+		<rom name="mappy (japan).gg" size="131072" crc="01d2dd2a"/>
+	</machine>
+	<machine name="megami tensei gaiden - last bible (japan)">
+		<description>megami tensei gaiden - last bible (japan)</description>
+		<rom name="megami tensei gaiden - last bible (japan).gg" size="524288" crc="2e4ec17b"/>
+	</machine>
+	<machine name="mighty morphin power rangers - the movie (usa, europe)">
+		<description>mighty morphin power rangers - the movie (usa, europe)</description>
+		<rom name="mighty morphin power rangers - the movie (usa, europe).gg" size="524288" crc="b47c19e5"/>
+	</machine>
+	<machine name="moldorian - hikari to yami no sister (japan)">
+		<description>moldorian - hikari to yami no sister (japan)</description>
+		<rom name="moldorian - hikari to yami no sister (japan).gg" size="524288" crc="4d5d15fb"/>
+	</machine>
+	<machine name="nba jam - tournament edition (world)">
+		<description>nba jam - tournament edition (world)</description>
+		<rom name="nba jam - tournament edition (world).gg" size="524288" crc="86c32e5b"/>
+	</machine>
+	<machine name="pengo (usa, europe)">
+		<description>pengo (usa, europe)</description>
+		<rom name="pengo (usa, europe).gg" size="32768" crc="0da23cc1"/>
+	</machine>
+	<machine name="phantasy star adventure (japan)">
+		<description>phantasy star adventure (japan)</description>
+		<rom name="phantasy star adventure (japan).gg" size="131072" crc="1a51579d"/>
+	</machine>
+	<machine name="phantasy star gaiden (japan)">
+		<description>phantasy star gaiden (japan)</description>
+		<rom name="phantasy star gaiden (japan).gg" size="262144" crc="a942514a"/>
+	</machine>
+	<machine name="psychic world (usa, europe) (rev 1)">
+		<description>psychic world (usa, europe) (rev 1)</description>
+		<rom name="psychic world (usa, europe) (rev 1).gg" size="131072" crc="73779b22"/>
+	</machine>
+	<machine name="puyo puyo (japan)">
+		<description>puyo puyo (japan)</description>
+		<rom name="puyo puyo (japan).gg" size="262144" crc="d173a06f"/>
+	</machine>
+	<machine name="ristar - the shooting star (world)">
+		<description>ristar - the shooting star (world)</description>
+		<rom name="ristar - the shooting star (world).gg" size="524288" crc="efe65b3b"/>
+	</machine>
+	<machine name="royal stone - hirakareshi toki no tobira (japan)">
+		<description>royal stone - hirakareshi toki no tobira (japan)</description>
+		<rom name="royal stone - hirakareshi toki no tobira (japan).gg" size="524288" crc="445d7cd2"/>
+	</machine>
+	<machine name="shining force gaiden - ensei, jashin no kuni e (japan)">
+		<description>shining force gaiden - ensei, jashin no kuni e (japan)</description>
+		<rom name="shining force gaiden - ensei, jashin no kuni e (japan).gg" size="524288" crc="4d1f4699"/>
+	</machine>
+	<machine name="shining force gaiden - final conflict (japan)">
+		<description>shining force gaiden - final conflict (japan)</description>
+		<rom name="shining force gaiden - final conflict (japan).gg" size="524288" crc="6019fe5e"/>
+	</machine>
+	<machine name="shining force ii - the sword of hajya (usa)">
+		<description>shining force ii - the sword of hajya (usa)</description>
+		<rom name="shining force ii - the sword of hajya (usa).gg" size="524288" crc="a6ca6fa9"/>
+	</machine>
+	<machine name="shinobi (usa, europe)">
+		<description>shinobi (usa, europe)</description>
+		<rom name="shinobi (usa, europe).gg" size="262144" crc="30f1c984"/>
+	</machine>
+	<machine name="shinobi ii - the silent fury (world) (ja)">
+		<description>shinobi ii - the silent fury (world) (ja)</description>
+		<rom name="shinobi ii - the silent fury (world) (ja).gg" size="262144" crc="6201c694"/>
+	</machine>
+	<machine name="sonic drift 2 (japan, usa)">
+		<description>sonic drift 2 (japan, usa)</description>
+		<rom name="sonic drift 2 (japan, usa).gg" size="524288" crc="d6e8a305"/>
+	</machine>
+	<machine name="sonic the hedgehog - triple trouble (usa, europe)">
+		<description>sonic the hedgehog - triple trouble (usa, europe)</description>
+		<rom name="sonic the hedgehog - triple trouble (usa, europe).gg" size="524288" crc="d23a2a93"/>
+	</machine>
+	<machine name="sonic the hedgehog spinball (usa, europe)">
+		<description>sonic the hedgehog spinball (usa, europe)</description>
+		<rom name="sonic the hedgehog spinball (usa, europe).gg" size="524288" crc="a9210434"/>
+	</machine>
+	<machine name="super columns (usa, europe)">
+		<description>super columns (usa, europe)</description>
+		<rom name="super columns (usa, europe).gg" size="131072" crc="8ba43af3"/>
+	</machine>
+	<machine name="sylvan tale (japan)">
+		<description>sylvan tale (japan)</description>
+		<rom name="sylvan tale (japan).gg" size="524288" crc="45ef2062"/>
+	</machine>
+	<machine name="tails adventures (world) (en,ja)">
+		<description>tails adventures (world) (en,ja)</description>
+		<rom name="tails adventures (world) (en,ja).gg" size="524288" crc="5bb6e5d6"/>
+	</machine>
+	<machine name="taisen-gata daisenryaku g (japan)">
+		<description>taisen-gata daisenryaku g (japan)</description>
+		<rom name="taisen-gata daisenryaku g (japan).gg" size="262144" crc="7b7717b8"/>
+	</machine>
+	<machine name="virtua fighter animation (usa, europe)">
+		<description>virtua fighter animation (usa, europe)</description>
+		<rom name="virtua fighter animation (usa, europe).gg" size="1048576" crc="d431c452"/>
+	</machine>
+	<machine name="world series baseball '95 (usa)">
+		<description>world series baseball '95 (usa)</description>
+		<rom name="world series baseball '95 (usa).gg" size="524288" crc="578a8a38"/>
+	</machine>
+	<machine name="yu yu hakusho - horobishimono no gyakushuu (japan)">
+		<description>yu yu hakusho - horobishimono no gyakushuu (japan)</description>
+		<rom name="yu yu hakusho - horobishimono no gyakushuu (japan).gg" size="524288" crc="88ebbf9e"/>
+	</machine>
+</datafile>

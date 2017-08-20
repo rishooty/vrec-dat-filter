@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki GameBoy Advance</name>
+		<description>Recommended GameBoy Advance games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="advance guardian heroes (usa)">
+		<description>advance guardian heroes (usa)</description>
+		<rom name="advance guardian heroes (usa).gba" size="8388608" crc="c501917f"/>
+	</machine>
+	<machine name="advance wars (usa)">
+		<description>advance wars (usa)</description>
+		<rom name="advance wars (usa).gba" size="4194304" crc="dbef116c"/>
+	</machine>
+	<machine name="advance wars 2 - black hole rising (usa, australia)">
+		<description>advance wars 2 - black hole rising (usa, australia)</description>
+		<rom name="advance wars 2 - black hole rising (usa, australia).gba" size="8388608" crc="5ad0e571"/>
+	</machine>
+	<machine name="aladdin (usa) (en,fr,de,es)">
+		<description>aladdin (usa) (en,fr,de,es)</description>
+		<rom name="aladdin (usa) (en,fr,de,es).gba" size="4194304" crc="40b383f6"/>
+	</machine>
+	<machine name="alien hominid (europe) (en,fr,de,es,it)">
+		<description>alien hominid (europe) (en,fr,de,es,it)</description>
+		<rom name="alien hominid (europe) (en,fr,de,es,it).gba" size="8388608" crc="dff47236"/>
+	</machine>
+	<machine name="astro boy - omega factor (usa) (en,ja,fr,de,es,it)">
+		<description>astro boy - omega factor (usa) (en,ja,fr,de,es,it)</description>
+		<rom name="astro boy - omega factor (usa) (en,ja,fr,de,es,it).gba" size="8388608" crc="e8619031"/>
+	</machine>
+	<machine name="banjo-kazooie - grunty's revenge (usa, europe)">
+		<description>banjo-kazooie - grunty's revenge (usa, europe)</description>
+		<rom name="banjo-kazooie - grunty's revenge (usa, europe).gba" size="8388608" crc="dfb5aba3"/>
+	</machine>
+	<machine name="banjo-pilot (usa)">
+		<description>banjo-pilot (usa)</description>
+		<rom name="banjo-pilot (usa).gba" size="16777216" crc="6e4030a1"/>
+	</machine>
+	<machine name="bit generations - boundish (japan) (en)">
+		<description>bit generations - boundish (japan) (en)</description>
+		<rom name="bit generations - boundish (japan) (en).gba" size="4194304" crc="904b55d4"/>
+	</machine>
+	<machine name="bit generations - coloris (japan) (en)">
+		<description>bit generations - coloris (japan) (en)</description>
+		<rom name="bit generations - coloris (japan) (en).gba" size="16777216" crc="a04be1ed"/>
+	</machine>
+	<machine name="bit generations - dialhex (japan) (en)">
+		<description>bit generations - dialhex (japan) (en)</description>
+		<rom name="bit generations - dialhex (japan) (en).gba" size="16777216" crc="812ef3a9"/>
+	</machine>
+	<machine name="bit generations - digidrive (japan) (en)">
+		<description>bit generations - digidrive (japan) (en)</description>
+		<rom name="bit generations - digidrive (japan) (en).gba" size="16777216" crc="0867dc29"/>
+	</machine>
+	<machine name="bit generations - dotstream (japan) (en)">
+		<description>bit generations - dotstream (japan) (en)</description>
+		<rom name="bit generations - dotstream (japan) (en).gba" size="16777216" crc="f0760400"/>
+	</machine>
+	<machine name="bit generations - orbital (japan) (en)">
+		<description>bit generations - orbital (japan) (en)</description>
+		<rom name="bit generations - orbital (japan) (en).gba" size="16777216" crc="d5d43b4b"/>
+	</machine>
+	<machine name="bit generations - soundvoyager (japan) (en)">
+		<description>bit generations - soundvoyager (japan) (en)</description>
+		<rom name="bit generations - soundvoyager (japan) (en).gba" size="16777216" crc="b32e0839"/>
+	</machine>
+	<machine name="boktai - the sun is in your hand (usa)">
+		<description>boktai - the sun is in your hand (usa)</description>
+		<rom name="boktai - the sun is in your hand (usa).gba" size="16777216" crc="e715ac45"/>
+	</machine>
+	<machine name="boktai 2 - solar boy django (usa)">
+		<description>boktai 2 - solar boy django (usa)</description>
+		<rom name="boktai 2 - solar boy django (usa).gba" size="16777216" crc="e1ffb2d1"/>
+	</machine>
+	<machine name="bomber man jetters - densetsu no bomber man (japan)">
+		<description>bomber man jetters - densetsu no bomber man (japan)</description>
+		<rom name="bomber man jetters - densetsu no bomber man (japan).gba" size="8388608" crc="70c423b8"/>
+	</machine>
+	<machine name="bomberman max 2 - blue advance (usa)">
+		<description>bomberman max 2 - blue advance (usa)</description>
+		<rom name="bomberman max 2 - blue advance (usa).gba" size="8388608" crc="94c620f3"/>
+	</machine>
+	<machine name="bomberman max 2 - red advance (usa)">
+		<description>bomberman max 2 - red advance (usa)</description>
+		<rom name="bomberman max 2 - red advance (usa).gba" size="8388608" crc="4db517c1"/>
+	</machine>
+	<machine name="boulder dash ex (usa)">
+		<description>boulder dash ex (usa)</description>
+		<rom name="boulder dash ex (usa).gba" size="4194304" crc="b355365a"/>
+	</machine>
+	<machine name="breath of fire (usa)">
+		<description>breath of fire (usa)</description>
+		<rom name="breath of fire (usa).gba" size="4194304" crc="f06422a8"/>
+	</machine>
+	<machine name="breath of fire ii (usa)">
+		<description>breath of fire ii (usa)</description>
+		<rom name="breath of fire ii (usa).gba" size="4194304" crc="6f098da3"/>
+	</machine>
+	<machine name="bubble bobble - old &amp; new (usa)">
+		<description>bubble bobble - old &amp; new (usa)</description>
+		<rom name="bubble bobble - old &amp; new (usa).gba" size="4194304" crc="feec503c"/>
+	</machine>
+	<machine name="crash bandicoot - the huge adventure (usa)">
+		<description>crash bandicoot - the huge adventure (usa)</description>
+		<rom name="crash bandicoot - the huge adventure (usa).gba" size="8388608" crc="034d2d4b"/>
+	</machine>
+	<machine name="crash bandicoot 2 - n-tranced (usa)">
+		<description>crash bandicoot 2 - n-tranced (usa)</description>
+		<rom name="crash bandicoot 2 - n-tranced (usa).gba" size="8388608" crc="2e16184a"/>
+	</machine>
+	<machine name="crayon shin-chan - arashi o yobu cinemaland no daibouken! (japan)">
+		<description>crayon shin-chan - arashi o yobu cinemaland no daibouken! (japan)</description>
+		<rom name="crayon shin-chan - arashi o yobu cinemaland no daibouken! (japan).gba" size="16777216" crc="6e936a54"/>
+	</machine>
+	<machine name="ct special forces - bioterror (europe) (en,fr,de,es,it,nl)">
+		<description>ct special forces - bioterror (europe) (en,fr,de,es,it,nl)</description>
+		<rom name="ct special forces - bioterror (europe) (en,fr,de,es,it,nl).gba" size="8388608" crc="7dc40eda"/>
+	</machine>
+	<machine name="ct special forces 2 - back in the trenches (usa) (en,fr,de,es,it,nl)">
+		<description>ct special forces 2 - back in the trenches (usa) (en,fr,de,es,it,nl)</description>
+		<rom name="ct special forces 2 - back in the trenches (usa) (en,fr,de,es,it,nl).gba" size="8388608" crc="d2b58a33"/>
+	</machine>
+	<machine name="custom robo gx (japan)">
+		<description>custom robo gx (japan)</description>
+		<rom name="custom robo gx (japan).gba" size="8388608" crc="f533dc13"/>
+	</machine>
+	<machine name="demikids - dark version (usa)">
+		<description>demikids - dark version (usa)</description>
+		<rom name="demikids - dark version (usa).gba" size="8388608" crc="1bab58bd"/>
+	</machine>
+	<machine name="demikids - light version (usa)">
+		<description>demikids - light version (usa)</description>
+		<rom name="demikids - light version (usa).gba" size="8388608" crc="dc4357c4"/>
+	</machine>
+	<machine name="densetsu no stafy (japan)">
+		<description>densetsu no stafy (japan)</description>
+		<rom name="densetsu no stafy (japan).gba" size="8388608" crc="fae94c8b"/>
+	</machine>
+	<machine name="densetsu no stafy 2 (japan)">
+		<description>densetsu no stafy 2 (japan)</description>
+		<rom name="densetsu no stafy 2 (japan).gba" size="16777216" crc="ea73eb54"/>
+	</machine>
+	<machine name="densetsu no stafy 3 (japan) (rev 1)">
+		<description>densetsu no stafy 3 (japan) (rev 1)</description>
+		<rom name="densetsu no stafy 3 (japan) (rev 1).gba" size="16777216" crc="2d6e4c3b"/>
+	</machine>
+	<machine name="digimon - battle spirit (usa)">
+		<description>digimon - battle spirit (usa)</description>
+		<rom name="digimon - battle spirit (usa).gba" size="4194304" crc="ceef2008"/>
+	</machine>
+	<machine name="dk - king of swing (usa, australia)">
+		<description>dk - king of swing (usa, australia)</description>
+		<rom name="dk - king of swing (usa, australia).gba" size="8388608" crc="d610b239"/>
+	</machine>
+	<machine name="donkey kong country (usa)">
+		<description>donkey kong country (usa)</description>
+		<rom name="donkey kong country (usa).gba" size="8388608" crc="12f7a968"/>
+	</machine>
+	<machine name="donkey kong country 2 (usa, australia)">
+		<description>donkey kong country 2 (usa, australia)</description>
+		<rom name="donkey kong country 2 (usa, australia).gba" size="8388608" crc="11417fc1"/>
+	</machine>
+	<machine name="donkey kong country 3 (usa, australia)">
+		<description>donkey kong country 3 (usa, australia)</description>
+		<rom name="donkey kong country 3 (usa, australia).gba" size="16777216" crc="fe03e5af"/>
+	</machine>
+	<machine name="double dragon advance (usa)">
+		<description>double dragon advance (usa)</description>
+		<rom name="double dragon advance (usa).gba" size="4194304" crc="764fafb5"/>
+	</machine>
+	<machine name="dragon ball - advanced adventure (usa)">
+		<description>dragon ball - advanced adventure (usa)</description>
+		<rom name="dragon ball - advanced adventure (usa).gba" size="16777216" crc="7d7306df"/>
+	</machine>
+	<machine name="dragon ball z - buu's fury (usa)">
+		<description>dragon ball z - buu's fury (usa)</description>
+		<rom name="dragon ball z - buu's fury (usa).gba" size="8388608" crc="01c1707f"/>
+	</machine>
+	<machine name="dragon ball z - supersonic warriors (usa)">
+		<description>dragon ball z - supersonic warriors (usa)</description>
+		<rom name="dragon ball z - supersonic warriors (usa).gba" size="16777216" crc="9a857a70"/>
+	</machine>
+	<machine name="dragon quest monsters - caravan heart (japan)">
+		<description>dragon quest monsters - caravan heart (japan)</description>
+		<rom name="dragon quest monsters - caravan heart (japan).gba" size="8388608" crc="3c24abcc"/>
+	</machine>
+	<machine name="drill dozer (usa)">
+		<description>drill dozer (usa)</description>
+		<rom name="drill dozer (usa).gba" size="8388608" crc="e60ec183"/>
+	</machine>
+	<machine name="egg mania (usa) (en,fr,es)">
+		<description>egg mania (usa) (en,fr,es)</description>
+		<rom name="egg mania (usa) (en,fr,es).gba" size="4194304" crc="e8b15678"/>
+	</machine>
+	<machine name="elemix! (japan)">
+		<description>elemix! (japan)</description>
+		<rom name="elemix! (japan).gba" size="4194304" crc="fa28bed8"/>
+	</machine>
+	<machine name="elevator action - old &amp; new (japan)">
+		<description>elevator action - old &amp; new (japan)</description>
+		<rom name="elevator action - old &amp; new (japan).gba" size="8388608" crc="2d88526a"/>
+	</machine>
+	<machine name="f-zero - climax (japan)">
+		<description>f-zero - climax (japan)</description>
+		<rom name="f-zero - climax (japan).gba" size="16777216" crc="dbdc71e3"/>
+	</machine>
+	<machine name="f-zero - gp legend (usa)">
+		<description>f-zero - gp legend (usa)</description>
+		<rom name="f-zero - gp legend (usa).gba" size="16777216" crc="781aab58"/>
+	</machine>
+	<machine name="f-zero - maximum velocity (usa, europe)">
+		<description>f-zero - maximum velocity (usa, europe)</description>
+		<rom name="f-zero - maximum velocity (usa, europe).gba" size="4194304" crc="bd5e9798"/>
+	</machine>
+	<machine name="final fantasy i &amp; ii - dawn of souls (usa, australia)">
+		<description>final fantasy i &amp; ii - dawn of souls (usa, australia)</description>
+		<rom name="final fantasy i &amp; ii - dawn of souls (usa, australia).gba" size="16777216" crc="1b39cdab"/>
+	</machine>
+	<machine name="final fantasy iv advance (usa, australia)">
+		<description>final fantasy iv advance (usa, australia)</description>
+		<rom name="final fantasy iv advance (usa, australia).gba" size="8388608" crc="feeebde4"/>
+	</machine>
+	<machine name="final fantasy tactics advance (usa, australia)">
+		<description>final fantasy tactics advance (usa, australia)</description>
+		<rom name="final fantasy tactics advance (usa, australia).gba" size="16777216" crc="5645e56c"/>
+	</machine>
+	<machine name="final fantasy v advance (usa)">
+		<description>final fantasy v advance (usa)</description>
+		<rom name="final fantasy v advance (usa).gba" size="8388608" crc="7a24ab0c"/>
+	</machine>
+	<machine name="final fantasy vi advance (usa)">
+		<description>final fantasy vi advance (usa)</description>
+		<rom name="final fantasy vi advance (usa).gba" size="8388608" crc="d708f5ab"/>
+	</machine>
+	<machine name="final fight one (usa)">
+		<description>final fight one (usa)</description>
+		<rom name="final fight one (usa).gba" size="4194304" crc="052c9997"/>
+	</machine>
+	<machine name="fire emblem (usa, australia)">
+		<description>fire emblem (usa, australia)</description>
+		<rom name="fire emblem (usa, australia).gba" size="16777216" crc="2a524221"/>
+	</machine>
+	<machine name="fire emblem - fuuin no tsurugi (japan)">
+		<description>fire emblem - fuuin no tsurugi (japan)</description>
+		<rom name="fire emblem - fuuin no tsurugi (japan).gba" size="8388608" crc="d38763e1"/>
+	</machine>
+	<machine name="fire emblem - the sacred stones (usa, australia)">
+		<description>fire emblem - the sacred stones (usa, australia)</description>
+		<rom name="fire emblem - the sacred stones (usa, australia).gba" size="16777216" crc="a47246ae"/>
+	</machine>
+	<machine name="fire pro wrestling (usa, europe)">
+		<description>fire pro wrestling (usa, europe)</description>
+		<rom name="fire pro wrestling (usa, europe).gba" size="8388608" crc="12aa524c"/>
+	</machine>
+	<machine name="fire pro wrestling 2 (usa)">
+		<description>fire pro wrestling 2 (usa)</description>
+		<rom name="fire pro wrestling 2 (usa).gba" size="8388608" crc="b9cfc1d3"/>
+	</machine>
+	<machine name="game &amp; watch gallery 4 (usa)">
+		<description>game &amp; watch gallery 4 (usa)</description>
+		<rom name="game &amp; watch gallery 4 (usa).gba" size="4194304" crc="7e90cea2"/>
+	</machine>
+	<machine name="gekido advance - kintaro's revenge (usa)">
+		<description>gekido advance - kintaro's revenge (usa)</description>
+		<rom name="gekido advance - kintaro's revenge (usa).gba" size="8388608" crc="6bbc5f4d"/>
+	</machine>
+	<machine name="godzilla - domination! (usa)">
+		<description>godzilla - domination! (usa)</description>
+		<rom name="godzilla - domination! (usa).gba" size="4194304" crc="eade083f"/>
+	</machine>
+	<machine name="golden sun (usa, europe)">
+		<description>golden sun (usa, europe)</description>
+		<rom name="golden sun (usa, europe).gba" size="8388608" crc="e1fb68e8"/>
+	</machine>
+	<machine name="golden sun - the lost age (usa, europe)">
+		<description>golden sun - the lost age (usa, europe)</description>
+		<rom name="golden sun - the lost age (usa, europe).gba" size="16777216" crc="606a1c4d"/>
+	</machine>
+	<machine name="gradius galaxies (usa)">
+		<description>gradius galaxies (usa)</description>
+		<rom name="gradius galaxies (usa).gba" size="4194304" crc="8103428d"/>
+	</machine>
+	<machine name="grand theft auto advance (usa)">
+		<description>grand theft auto advance (usa)</description>
+		<rom name="grand theft auto advance (usa).gba" size="16777216" crc="1fa131e8"/>
+	</machine>
+	<machine name="guilty gear x - advance edition (usa)">
+		<description>guilty gear x - advance edition (usa)</description>
+		<rom name="guilty gear x - advance edition (usa).gba" size="8388608" crc="70db3f96"/>
+	</machine>
+	<machine name="gunstar super heroes (usa)">
+		<description>gunstar super heroes (usa)</description>
+		<rom name="gunstar super heroes (usa).gba" size="8388608" crc="7cd86b02"/>
+	</machine>
+	<machine name="guru logic champ (japan)">
+		<description>guru logic champ (japan)</description>
+		<rom name="guru logic champ (japan).gba" size="4194304" crc="30d04ad9"/>
+	</machine>
+	<machine name="hajime no ippo - the fighting! (japan)">
+		<description>hajime no ippo - the fighting! (japan)</description>
+		<rom name="hajime no ippo - the fighting! (japan).gba" size="8388608" crc="782dc7eb"/>
+	</machine>
+	<machine name="hamtaro - ham-ham games (europe) (en,fr,de,es,it)">
+		<description>hamtaro - ham-ham games (europe) (en,fr,de,es,it)</description>
+		<rom name="hamtaro - ham-ham games (europe) (en,fr,de,es,it).gba" size="16777216" crc="d9341d9c"/>
+	</machine>
+	<machine name="hamtaro - ham-ham heartbreak (usa)">
+		<description>hamtaro - ham-ham heartbreak (usa)</description>
+		<rom name="hamtaro - ham-ham heartbreak (usa).gba" size="8388608" crc="cd48b673"/>
+	</machine>
+	<machine name="harvest moon - friends of mineral town (usa)">
+		<description>harvest moon - friends of mineral town (usa)</description>
+		<rom name="harvest moon - friends of mineral town (usa).gba" size="8388608" crc="8e923168"/>
+	</machine>
+	<machine name="harvest moon - more friends of mineral town (usa)">
+		<description>harvest moon - more friends of mineral town (usa)</description>
+		<rom name="harvest moon - more friends of mineral town (usa).gba" size="16777216" crc="1736b957"/>
+	</machine>
+	<machine name="hatena satena (japan)">
+		<description>hatena satena (japan)</description>
+		<rom name="hatena satena (japan).gba" size="4194304" crc="6139e34d"/>
+	</machine>
+	<machine name="iridion ii (usa)">
+		<description>iridion ii (usa)</description>
+		<rom name="iridion ii (usa).gba" size="8388608" crc="dd8a7104"/>
+	</machine>
+	<machine name="it's mr. pants (usa, europe)">
+		<description>it's mr. pants (usa, europe)</description>
+		<rom name="it's mr. pants (usa, europe).gba" size="4194304" crc="757a4efb"/>
+	</machine>
+	<machine name="justice league heroes - the flash (usa)">
+		<description>justice league heroes - the flash (usa)</description>
+		<rom name="justice league heroes - the flash (usa).gba" size="8388608" crc="87a4d12c"/>
+	</machine>
+	<machine name="kessaku sen! - ganbare goemon 1, 2 - yuki hime to magginesu (japan)">
+		<description>kessaku sen! - ganbare goemon 1, 2 - yuki hime to magginesu (japan)</description>
+		<rom name="kessaku sen! - ganbare goemon 1, 2 - yuki hime to magginesu (japan).gba" size="16777216" crc="3e7d9694"/>
+	</machine>
+	<machine name="kingdom hearts - chain of memories (usa)">
+		<description>kingdom hearts - chain of memories (usa)</description>
+		<rom name="kingdom hearts - chain of memories (usa).gba" size="33554432" crc="d031ce67"/>
+	</machine>
+	<machine name="kirby &amp; the amazing mirror (usa)">
+		<description>kirby &amp; the amazing mirror (usa)</description>
+		<rom name="kirby &amp; the amazing mirror (usa).gba" size="16777216" crc="9f2a3048"/>
+	</machine>
+	<machine name="kirby - nightmare in dream land (usa)">
+		<description>kirby - nightmare in dream land (usa)</description>
+		<rom name="kirby - nightmare in dream land (usa).gba" size="8388608" crc="20ef3f64"/>
+	</machine>
+	<machine name="klonoa - empire of dreams (usa)">
+		<description>klonoa - empire of dreams (usa)</description>
+		<rom name="klonoa - empire of dreams (usa).gba" size="4194304" crc="f74e1036"/>
+	</machine>
+	<machine name="klonoa 2 - dream champ tournament (usa)">
+		<description>klonoa 2 - dream champ tournament (usa)</description>
+		<rom name="klonoa 2 - dream champ tournament (usa).gba" size="4194304" crc="8bd23a7f"/>
+	</machine>
+	<machine name="klonoa heroes - densetsu no star medal (japan)">
+		<description>klonoa heroes - densetsu no star medal (japan)</description>
+		<rom name="klonoa heroes - densetsu no star medal (japan).gba" size="16777216" crc="e7eaddcc"/>
+	</machine>
+	<machine name="konami krazy racers (usa)">
+		<description>konami krazy racers (usa)</description>
+		<rom name="konami krazy racers (usa).gba" size="4194304" crc="c80d4f5c"/>
+	</machine>
+	<machine name="legend of zelda, the - a link to the past &amp; four swords (usa, australia)">
+		<description>legend of zelda, the - a link to the past &amp; four swords (usa, australia)</description>
+		<rom name="legend of zelda, the - a link to the past &amp; four swords (usa, australia).gba" size="8388608" crc="8e91cd13"/>
+	</machine>
+	<machine name="legend of zelda, the - the minish cap (usa)">
+		<description>legend of zelda, the - the minish cap (usa)</description>
+		<rom name="legend of zelda, the - the minish cap (usa).gba" size="16777216" crc="abcebbb1"/>
+	</machine>
+	<machine name="lode runner (japan)">
+		<description>lode runner (japan)</description>
+		<rom name="lode runner (japan).gba" size="4194304" crc="3e2cf3ff"/>
+	</machine>
+	<machine name="lunar legend (usa)">
+		<description>lunar legend (usa)</description>
+		<rom name="lunar legend (usa).gba" size="8388608" crc="885266a2"/>
+	</machine>
+	<machine name="mario &amp; luigi - superstar saga (usa, australia)">
+		<description>mario &amp; luigi - superstar saga (usa, australia)</description>
+		<rom name="mario &amp; luigi - superstar saga (usa, australia).gba" size="16777216" crc="e718d850"/>
+	</machine>
+	<machine name="mario golf - advance tour (usa)">
+		<description>mario golf - advance tour (usa)</description>
+		<rom name="mario golf - advance tour (usa).gba" size="16777216" crc="d56c2e54"/>
+	</machine>
+	<machine name="mario kart - super circuit (usa)">
+		<description>mario kart - super circuit (usa)</description>
+		<rom name="mario kart - super circuit (usa).gba" size="4194304" crc="ed316e37"/>
+	</machine>
+	<machine name="mario tennis advance (japan)">
+		<description>mario tennis advance (japan)</description>
+		<rom name="mario tennis advance (japan).gba" size="16777216" crc="975e8d98"/>
+	</machine>
+	<machine name="mario vs. donkey kong (usa, australia)">
+		<description>mario vs. donkey kong (usa, australia)</description>
+		<rom name="mario vs. donkey kong (usa, australia).gba" size="16777216" crc="25c394d1"/>
+	</machine>
+	<machine name="medabots - metabee (usa)">
+		<description>medabots - metabee (usa)</description>
+		<rom name="medabots - metabee (usa).gba" size="8388608" crc="59f208fc"/>
+	</machine>
+	<machine name="medabots - rokusho (usa)">
+		<description>medabots - rokusho (usa)</description>
+		<rom name="medabots - rokusho (usa).gba" size="8388608" crc="e144ded2"/>
+	</machine>
+	<machine name="medabots ax - metabee ver. (usa)">
+		<description>medabots ax - metabee ver. (usa)</description>
+		<rom name="medabots ax - metabee ver. (usa).gba" size="8388608" crc="03294511"/>
+	</machine>
+	<machine name="medabots ax - rokusho ver. (usa)">
+		<description>medabots ax - rokusho ver. (usa)</description>
+		<rom name="medabots ax - rokusho ver. (usa).gba" size="8388608" crc="92fdb8d6"/>
+	</machine>
+	<machine name="mega man &amp; bass (usa)">
+		<description>mega man &amp; bass (usa)</description>
+		<rom name="mega man &amp; bass (usa).gba" size="8388608" crc="eea68c2e"/>
+	</machine>
+	<machine name="mega man battle network (usa)">
+		<description>mega man battle network (usa)</description>
+		<rom name="mega man battle network (usa).gba" size="8388608" crc="1d347971"/>
+	</machine>
+	<machine name="mega man battle network 2 (usa)">
+		<description>mega man battle network 2 (usa)</description>
+		<rom name="mega man battle network 2 (usa).gba" size="8388608" crc="6d961f82"/>
+	</machine>
+	<machine name="mega man battle network 3 - blue version (usa)">
+		<description>mega man battle network 3 - blue version (usa)</description>
+		<rom name="mega man battle network 3 - blue version (usa).gba" size="8388608" crc="c0c780f9"/>
+	</machine>
+	<machine name="mega man battle network 3 - white version (usa)">
+		<description>mega man battle network 3 - white version (usa)</description>
+		<rom name="mega man battle network 3 - white version (usa).gba" size="8388608" crc="0be4410a"/>
+	</machine>
+	<machine name="mega man battle network 4 - blue moon (usa)">
+		<description>mega man battle network 4 - blue moon (usa)</description>
+		<rom name="mega man battle network 4 - blue moon (usa).gba" size="8388608" crc="758a46e9"/>
+	</machine>
+	<machine name="mega man battle network 4 - red sun (usa)">
+		<description>mega man battle network 4 - red sun (usa)</description>
+		<rom name="mega man battle network 4 - red sun (usa).gba" size="8388608" crc="2120695c"/>
+	</machine>
+	<machine name="mega man battle network 5 - team colonel (usa)">
+		<description>mega man battle network 5 - team colonel (usa)</description>
+		<rom name="mega man battle network 5 - team colonel (usa).gba" size="8388608" crc="a552f683"/>
+	</machine>
+	<machine name="mega man battle network 5 - team proto man (usa)">
+		<description>mega man battle network 5 - team proto man (usa)</description>
+		<rom name="mega man battle network 5 - team proto man (usa).gba" size="8388608" crc="a73e83a4"/>
+	</machine>
+	<machine name="mega man battle network 6 - cybeast falzar (usa)">
+		<description>mega man battle network 6 - cybeast falzar (usa)</description>
+		<rom name="mega man battle network 6 - cybeast falzar (usa).gba" size="8388608" crc="dee6f2a9"/>
+	</machine>
+	<machine name="mega man battle network 6 - cybeast gregar (usa)">
+		<description>mega man battle network 6 - cybeast gregar (usa)</description>
+		<rom name="mega man battle network 6 - cybeast gregar (usa).gba" size="8388608" crc="79452182"/>
+	</machine>
+	<machine name="mega man zero (usa, europe)">
+		<description>mega man zero (usa, europe)</description>
+		<rom name="mega man zero (usa, europe).gba" size="8388608" crc="9707d2a1"/>
+	</machine>
+	<machine name="mega man zero 2 (usa)">
+		<description>mega man zero 2 (usa)</description>
+		<rom name="mega man zero 2 (usa).gba" size="8388608" crc="ce1e37bb"/>
+	</machine>
+	<machine name="mega man zero 3 (usa)">
+		<description>mega man zero 3 (usa)</description>
+		<rom name="mega man zero 3 (usa).gba" size="8388608" crc="2784f3f2"/>
+	</machine>
+	<machine name="mega man zero 4 (usa)">
+		<description>mega man zero 4 (usa)</description>
+		<rom name="mega man zero 4 (usa).gba" size="16777216" crc="7ee24793"/>
+	</machine>
+	<machine name="metal slug advance (usa)">
+		<description>metal slug advance (usa)</description>
+		<rom name="metal slug advance (usa).gba" size="8388608" crc="09980880"/>
+	</machine>
+	<machine name="metalgun slinger (japan)">
+		<description>metalgun slinger (japan)</description>
+		<rom name="metalgun slinger (japan).gba" size="8388608" crc="8dfb7a2f"/>
+	</machine>
+	<machine name="metroid - zero mission (usa)">
+		<description>metroid - zero mission (usa)</description>
+		<rom name="metroid - zero mission (usa).gba" size="8388608" crc="5c61a844"/>
+	</machine>
+	<machine name="metroid fusion (usa, australia)">
+		<description>metroid fusion (usa, australia)</description>
+		<rom name="metroid fusion (usa, australia).gba" size="8388608" crc="6c75479c"/>
+	</machine>
+	<machine name="mobile suit gundam seed - battle assault (usa)">
+		<description>mobile suit gundam seed - battle assault (usa)</description>
+		<rom name="mobile suit gundam seed - battle assault (usa).gba" size="4194304" crc="180d1491"/>
+	</machine>
+	<machine name="monster gate (japan)">
+		<description>monster gate (japan)</description>
+		<rom name="monster gate (japan).gba" size="8388608" crc="5b8aaa03"/>
+	</machine>
+	<machine name="monster gate - ooinaru dungeon - fuuin no orb (japan)">
+		<description>monster gate - ooinaru dungeon - fuuin no orb (japan)</description>
+		<rom name="monster gate - ooinaru dungeon - fuuin no orb (japan).gba" size="8388608" crc="05ac7685"/>
+	</machine>
+	<machine name="monster house (usa) (en,fr)">
+		<description>monster house (usa) (en,fr)</description>
+		<rom name="monster house (usa) (en,fr).gba" size="8388608" crc="148b5072"/>
+	</machine>
+	<machine name="monster rancher advance 2 (usa)">
+		<description>monster rancher advance 2 (usa)</description>
+		<rom name="monster rancher advance 2 (usa).gba" size="8388608" crc="1d695b1b"/>
+	</machine>
+	<machine name="mother 1+2 (japan)">
+		<description>mother 1+2 (japan)</description>
+		<rom name="mother 1+2 (japan).gba" size="16777216" crc="0a44569c"/>
+	</machine>
+	<machine name="mother 3 (japan)">
+		<description>mother 3 (japan)</description>
+		<rom name="mother 3 (japan).gba" size="33554432" crc="42ac9cb9"/>
+	</machine>
+	<machine name="mr. driller 2 (usa)">
+		<description>mr. driller 2 (usa)</description>
+		<rom name="mr. driller 2 (usa).gba" size="4194304" crc="02f51696"/>
+	</machine>
+	<machine name="mr. driller a - fushigi na pacteria (japan)">
+		<description>mr. driller a - fushigi na pacteria (japan)</description>
+		<rom name="mr. driller a - fushigi na pacteria (japan).gba" size="8388608" crc="529f06a4"/>
+	</machine>
+	<machine name="napoleon (japan)">
+		<description>napoleon (japan)</description>
+		<rom name="napoleon (japan).gba" size="8388608" crc="fa016764"/>
+	</machine>
+	<machine name="naruto - ninja council (usa)">
+		<description>naruto - ninja council (usa)</description>
+		<rom name="naruto - ninja council (usa).gba" size="8388608" crc="c402878c"/>
+	</machine>
+	<machine name="ninja five-0 (usa)">
+		<description>ninja five-0 (usa)</description>
+		<rom name="ninja five-0 (usa).gba" size="4194304" crc="eb3954c6"/>
+	</machine>
+	<machine name="one piece (usa)">
+		<description>one piece (usa)</description>
+		<rom name="one piece (usa).gba" size="8388608" crc="7d2cf2a1"/>
+	</machine>
+	<machine name="phalanx (usa)">
+		<description>phalanx (usa)</description>
+		<rom name="phalanx (usa).gba" size="4194304" crc="eb733713"/>
+	</machine>
+	<machine name="pinball of the dead, the (usa)">
+		<description>pinball of the dead, the (usa)</description>
+		<rom name="pinball of the dead, the (usa).gba" size="8388608" crc="0a09c517"/>
+	</machine>
+	<machine name="pokemon - emerald version (usa, europe)">
+		<description>pokemon - emerald version (usa, europe)</description>
+		<rom name="pokemon - emerald version (usa, europe).gba" size="16777216" crc="1f1c08fb"/>
+	</machine>
+	<machine name="pokemon - firered version (usa, europe) (rev 1)">
+		<description>pokemon - firered version (usa, europe) (rev 1)</description>
+		<rom name="pokemon - firered version (usa, europe) (rev 1).gba" size="16777216" crc="84ee4776"/>
+	</machine>
+	<machine name="pokemon - leafgreen version (usa, europe) (rev 1)">
+		<description>pokemon - leafgreen version (usa, europe) (rev 1)</description>
+		<rom name="pokemon - leafgreen version (usa, europe) (rev 1).gba" size="16777216" crc="daffecec"/>
+	</machine>
+	<machine name="pokemon - ruby version (usa, europe) (rev 2)">
+		<description>pokemon - ruby version (usa, europe) (rev 2)</description>
+		<rom name="pokemon - ruby version (usa, europe) (rev 2).gba" size="16777216" crc="aeac73e6"/>
+	</machine>
+	<machine name="pokemon - sapphire version (usa, europe) (rev 2)">
+		<description>pokemon - sapphire version (usa, europe) (rev 2)</description>
+		<rom name="pokemon - sapphire version (usa, europe) (rev 2).gba" size="16777216" crc="9cc4410e"/>
+	</machine>
+	<machine name="pokemon mystery dungeon - red rescue team (usa, australia)">
+		<description>pokemon mystery dungeon - red rescue team (usa, australia)</description>
+		<rom name="pokemon mystery dungeon - red rescue team (usa, australia).gba" size="33554432" crc="dd0ac86c"/>
+	</machine>
+	<machine name="pokemon pinball - ruby &amp; sapphire (usa)">
+		<description>pokemon pinball - ruby &amp; sapphire (usa)</description>
+		<rom name="pokemon pinball - ruby &amp; sapphire (usa).gba" size="8388608" crc="b992a3c0"/>
+	</machine>
+	<machine name="prince of persia - the sands of time (usa) (en,fr,es)">
+		<description>prince of persia - the sands of time (usa) (en,fr,es)</description>
+		<rom name="prince of persia - the sands of time (usa) (en,fr,es).gba" size="8388608" crc="0c043ba6"/>
+	</machine>
+	<machine name="puyo pop (usa) (en,ja)">
+		<description>puyo pop (usa) (en,ja)</description>
+		<rom name="puyo pop (usa) (en,ja).gba" size="8388608" crc="0901be49"/>
+	</machine>
+	<machine name="puyo pop fever (europe) (en,fr,de,es,it)">
+		<description>puyo pop fever (europe) (en,fr,de,es,it)</description>
+		<rom name="puyo pop fever (europe) (en,fr,de,es,it).gba" size="8388608" crc="6e5880ed"/>
+	</machine>
+	<machine name="r-type iii - the third lightning (usa)">
+		<description>r-type iii - the third lightning (usa)</description>
+		<rom name="r-type iii - the third lightning (usa).gba" size="4194304" crc="ea863f4d"/>
+	</machine>
+	<machine name="racing gears advance (usa)">
+		<description>racing gears advance (usa)</description>
+		<rom name="racing gears advance (usa).gba" size="8388608" crc="bf648e5c"/>
+	</machine>
+	<machine name="rayman advance (usa) (en,fr,de,es,it)">
+		<description>rayman advance (usa) (en,fr,de,es,it)</description>
+		<rom name="rayman advance (usa) (en,fr,de,es,it).gba" size="8388608" crc="8aba5ab8"/>
+	</machine>
+	<machine name="rebelstar - tactical command (usa)">
+		<description>rebelstar - tactical command (usa)</description>
+		<rom name="rebelstar - tactical command (usa).gba" size="4194304" crc="fb6c590f"/>
+	</machine>
+	<machine name="rhythm tengoku (japan)">
+		<description>rhythm tengoku (japan)</description>
+		<rom name="rhythm tengoku (japan).gba" size="16777216" crc="349d7025"/>
+	</machine>
+	<machine name="river city ransom ex (usa)">
+		<description>river city ransom ex (usa)</description>
+		<rom name="river city ransom ex (usa).gba" size="4194304" crc="8686436e"/>
+	</machine>
+	<machine name="riviera - the promised land (usa)">
+		<description>riviera - the promised land (usa)</description>
+		<rom name="riviera - the promised land (usa).gba" size="33554432" crc="4fb6958d"/>
+	</machine>
+	<machine name="robopon 2 - cross version (usa)">
+		<description>robopon 2 - cross version (usa)</description>
+		<rom name="robopon 2 - cross version (usa).gba" size="8388608" crc="68d3023a"/>
+	</machine>
+	<machine name="robopon 2 - ring version (usa)">
+		<description>robopon 2 - ring version (usa)</description>
+		<rom name="robopon 2 - ring version (usa).gba" size="8388608" crc="ca73e17a"/>
+	</machine>
+	<machine name="sabre wulf (usa)">
+		<description>sabre wulf (usa)</description>
+		<rom name="sabre wulf (usa).gba" size="8388608" crc="73787a16"/>
+	</machine>
+	<machine name="scurge - hive (usa) (en,fr,es)">
+		<description>scurge - hive (usa) (en,fr,es)</description>
+		<rom name="scurge - hive (usa) (en,fr,es).gba" size="16777216" crc="1ae38ac0"/>
+	</machine>
+	<machine name="shaman king - master of spirits 2 (usa)">
+		<description>shaman king - master of spirits 2 (usa)</description>
+		<rom name="shaman king - master of spirits 2 (usa).gba" size="16777216" crc="201e3412"/>
+	</machine>
+	<machine name="shin megami tensei (japan)">
+		<description>shin megami tensei (japan)</description>
+		<rom name="shin megami tensei (japan).gba" size="8388608" crc="b857c3c5"/>
+	</machine>
+	<machine name="shin megami tensei ii (japan)">
+		<description>shin megami tensei ii (japan)</description>
+		<rom name="shin megami tensei ii (japan).gba" size="8388608" crc="af40cc99"/>
+	</machine>
+	<machine name="shining force - resurrection of the dark dragon (usa)">
+		<description>shining force - resurrection of the dark dragon (usa)</description>
+		<rom name="shining force - resurrection of the dark dragon (usa).gba" size="8388608" crc="563aa3a0"/>
+	</machine>
+	<machine name="shining soul ii (usa)">
+		<description>shining soul ii (usa)</description>
+		<rom name="shining soul ii (usa).gba" size="16777216" crc="4038e282"/>
+	</machine>
+	<machine name="sigma star saga (usa, europe)">
+		<description>sigma star saga (usa, europe)</description>
+		<rom name="sigma star saga (usa, europe).gba" size="8388608" crc="a8b80a7c"/>
+	</machine>
+	<machine name="slime morimori dragon quest - shougeki no shippo dan (japan)">
+		<description>slime morimori dragon quest - shougeki no shippo dan (japan)</description>
+		<rom name="slime morimori dragon quest - shougeki no shippo dan (japan).gba" size="8388608" crc="1194d33b"/>
+	</machine>
+	<machine name="sonic advance (usa) (en,ja)">
+		<description>sonic advance (usa) (en,ja)</description>
+		<rom name="sonic advance (usa) (en,ja).gba" size="8388608" crc="63f70fd8"/>
+	</machine>
+	<machine name="sonic advance 2 (usa) (en,ja,fr,de,es,it)">
+		<description>sonic advance 2 (usa) (en,ja,fr,de,es,it)</description>
+		<rom name="sonic advance 2 (usa) (en,ja,fr,de,es,it).gba" size="16777216" crc="7efee7f7"/>
+	</machine>
+	<machine name="sonic advance 3 (usa) (en,ja,fr,de,es,it)">
+		<description>sonic advance 3 (usa) (en,ja,fr,de,es,it)</description>
+		<rom name="sonic advance 3 (usa) (en,ja,fr,de,es,it).gba" size="16777216" crc="49dda5e6"/>
+	</machine>
+	<machine name="sonic battle (usa) (en,ja,fr,de,es,it)">
+		<description>sonic battle (usa) (en,ja,fr,de,es,it)</description>
+		<rom name="sonic battle (usa) (en,ja,fr,de,es,it).gba" size="16777216" crc="9ec9d86f"/>
+	</machine>
+	<machine name="sonic pinball party (usa) (en,ja,fr,de,es,it)">
+		<description>sonic pinball party (usa) (en,ja,fr,de,es,it)</description>
+		<rom name="sonic pinball party (usa) (en,ja,fr,de,es,it).gba" size="8388608" crc="08794743"/>
+	</machine>
+	<machine name="spider-man - mysterio's menace (usa, europe)">
+		<description>spider-man - mysterio's menace (usa, europe)</description>
+		<rom name="spider-man - mysterio's menace (usa, europe).gba" size="8388608" crc="6e135b4d"/>
+	</machine>
+	<machine name="spyro - attack of the rhynocs (usa)">
+		<description>spyro - attack of the rhynocs (usa)</description>
+		<rom name="spyro - attack of the rhynocs (usa).gba" size="8388608" crc="13f10a1e"/>
+	</machine>
+	<machine name="street fighter alpha 3 (usa)">
+		<description>street fighter alpha 3 (usa)</description>
+		<rom name="street fighter alpha 3 (usa).gba" size="8388608" crc="80b707c2"/>
+	</machine>
+	<machine name="summon night - swordcraft story (usa)">
+		<description>summon night - swordcraft story (usa)</description>
+		<rom name="summon night - swordcraft story (usa).gba" size="8388608" crc="3ea860c2"/>
+	</machine>
+	<machine name="summon night - swordcraft story 2 (usa)">
+		<description>summon night - swordcraft story 2 (usa)</description>
+		<rom name="summon night - swordcraft story 2 (usa).gba" size="16777216" crc="1eac1f48"/>
+	</machine>
+	<machine name="super dodge ball advance (usa)">
+		<description>super dodge ball advance (usa)</description>
+		<rom name="super dodge ball advance (usa).gba" size="4194304" crc="1d31dc6b"/>
+	</machine>
+	<machine name="super ghouls'n ghosts (usa, europe)">
+		<description>super ghouls'n ghosts (usa, europe)</description>
+		<rom name="super ghouls'n ghosts (usa, europe).gba" size="4194304" crc="1ef2acf3"/>
+	</machine>
+	<machine name="super mario advance (usa, europe)">
+		<description>super mario advance (usa, europe)</description>
+		<rom name="super mario advance (usa, europe).gba" size="4194304" crc="1e4c6d6a"/>
+	</machine>
+	<machine name="super mario advance 2 - super mario world (usa, australia)">
+		<description>super mario advance 2 - super mario world (usa, australia)</description>
+		<rom name="super mario advance 2 - super mario world (usa, australia).gba" size="4194304" crc="5206880a"/>
+	</machine>
+	<machine name="super mario advance 3 - yoshi's island (usa)">
+		<description>super mario advance 3 - yoshi's island (usa)</description>
+		<rom name="super mario advance 3 - yoshi's island (usa).gba" size="4194304" crc="40a48276"/>
+	</machine>
+	<machine name="super mario advance 4 - super mario bros. 3 (usa, australia) (rev 1)">
+		<description>super mario advance 4 - super mario bros. 3 (usa, australia) (rev 1)</description>
+		<rom name="super mario advance 4 - super mario bros. 3 (usa, australia) (rev 1).gba" size="4194304" crc="88dab27f"/>
+	</machine>
+	<machine name="super monkey ball jr. (usa)">
+		<description>super monkey ball jr. (usa)</description>
+		<rom name="super monkey ball jr. (usa).gba" size="4194304" crc="0a8031f0"/>
+	</machine>
+	<machine name="super puzzle fighter ii turbo (usa)">
+		<description>super puzzle fighter ii turbo (usa)</description>
+		<rom name="super puzzle fighter ii turbo (usa).gba" size="8388608" crc="9cd25c7e"/>
+	</machine>
+	<machine name="super robot taisen - original generation 2 (usa)">
+		<description>super robot taisen - original generation 2 (usa)</description>
+		<rom name="super robot taisen - original generation 2 (usa).gba" size="16777216" crc="2aee0380"/>
+	</machine>
+	<machine name="sword of mana (usa, australia)">
+		<description>sword of mana (usa, australia)</description>
+		<rom name="sword of mana (usa, australia).gba" size="16777216" crc="7f1eac75"/>
+	</machine>
+	<machine name="tales of the world - narikiri dungeon 2 (japan)">
+		<description>tales of the world - narikiri dungeon 2 (japan)</description>
+		<rom name="tales of the world - narikiri dungeon 2 (japan).gba" size="8388608" crc="231b9fca"/>
+	</machine>
+	<machine name="tales of the world - narikiri dungeon 3 (japan)">
+		<description>tales of the world - narikiri dungeon 3 (japan)</description>
+		<rom name="tales of the world - narikiri dungeon 3 (japan).gba" size="16777216" crc="1867ccef"/>
+	</machine>
+	<machine name="tmnt (usa) (en,fr,es)">
+		<description>tmnt (usa) (en,fr,es)</description>
+		<rom name="tmnt (usa) (en,fr,es).gba" size="8388608" crc="916db9d5"/>
+	</machine>
+	<machine name="tony hawk's pro skater 2 (usa, europe)">
+		<description>tony hawk's pro skater 2 (usa, europe)</description>
+		<rom name="tony hawk's pro skater 2 (usa, europe).gba" size="8388608" crc="812dc57a"/>
+	</machine>
+	<machine name="tower sp, the (usa)">
+		<description>tower sp, the (usa)</description>
+		<rom name="tower sp, the (usa).gba" size="8388608" crc="95e05895"/>
+	</machine>
+	<machine name="wade hixton's counter punch (usa, europe)">
+		<description>wade hixton's counter punch (usa, europe)</description>
+		<rom name="wade hixton's counter punch (usa, europe).gba" size="8388608" crc="47b49060"/>
+	</machine>
+	<machine name="wario land 4 (usa, europe)">
+		<description>wario land 4 (usa, europe)</description>
+		<rom name="wario land 4 (usa, europe).gba" size="8388608" crc="d6141609"/>
+	</machine>
+	<machine name="warioware - twisted! (usa)">
+		<description>warioware - twisted! (usa)</description>
+		<rom name="warioware - twisted! (usa).gba" size="16777216" crc="cb4e844b"/>
+	</machine>
+	<machine name="warioware, inc. - mega microgame$! (usa)">
+		<description>warioware, inc. - mega microgame$! (usa)</description>
+		<rom name="warioware, inc. - mega microgame$! (usa).gba" size="8388608" crc="785d8b8c"/>
+	</machine>
+	<machine name="zone of the enders - the fist of mars (usa)">
+		<description>zone of the enders - the fist of mars (usa)</description>
+		<rom name="zone of the enders - the fist of mars (usa).gba" size="8388608" crc="24244415"/>
+	</machine>
+</datafile>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki TurboGrafx-16</name>
+		<description>Recommended TurboGrafx games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="1943 kai (japan)">
+		<description>1943 kai (japan)</description>
+		<rom name="1943 kai (japan).pce" size="524288" crc="fde08d6d"/>
+	</machine>
+	<machine name="air zonk (usa)">
+		<description>air zonk (usa)</description>
+		<rom name="air zonk (usa).pce" size="524288" crc="933d5bcc"/>
+	</machine>
+	<machine name="alien crush (usa)">
+		<description>alien crush (usa)</description>
+		<rom name="alien crush (usa).pce" size="262144" crc="ea488494"/>
+	</machine>
+	<machine name="aoi blink (japan)">
+		<description>aoi blink (japan)</description>
+		<rom name="aoi blink (japan).pce" size="393216" crc="08a09b9a"/>
+	</machine>
+	<machine name="atomic robo-kid special (japan)">
+		<description>atomic robo-kid special (japan)</description>
+		<rom name="atomic robo-kid special (japan).pce" size="524288" crc="dd175efd"/>
+	</machine>
+	<machine name="battle lode runner (japan)">
+		<description>battle lode runner (japan)</description>
+		<rom name="battle lode runner (japan).pce" size="262144" crc="59e44f45"/>
+	</machine>
+	<machine name="blazing lazers (usa)">
+		<description>blazing lazers (usa)</description>
+		<rom name="blazing lazers (usa).pce" size="393216" crc="b4a1b0f6"/>
+	</machine>
+	<machine name="bloody wolf (usa)">
+		<description>bloody wolf (usa)</description>
+		<rom name="bloody wolf (usa).pce" size="524288" crc="37baf6bc"/>
+	</machine>
+	<machine name="bomberman '93 (usa)">
+		<description>bomberman '93 (usa)</description>
+		<rom name="bomberman '93 (usa).pce" size="524288" crc="56171c1c"/>
+	</machine>
+	<machine name="bomberman '94 (japan)">
+		<description>bomberman '94 (japan)</description>
+		<rom name="bomberman '94 (japan).pce" size="1048576" crc="05362516"/>
+	</machine>
+	<machine name="bomberman (usa)">
+		<description>bomberman (usa)</description>
+		<rom name="bomberman (usa).pce" size="262144" crc="5f6f3c2a"/>
+	</machine>
+	<machine name="bomberman - users battle (japan)">
+		<description>bomberman - users battle (japan)</description>
+		<rom name="bomberman - users battle (japan).pce" size="262144" crc="1489fa51"/>
+	</machine>
+	<machine name="bonk iii - bonk's big adventure (usa)">
+		<description>bonk iii - bonk's big adventure (usa)</description>
+		<rom name="bonk iii - bonk's big adventure (usa).pce" size="1048576" crc="5a3f76d8"/>
+	</machine>
+	<machine name="bonk's adventure (usa)">
+		<description>bonk's adventure (usa)</description>
+		<rom name="bonk's adventure (usa).pce" size="393216" crc="599ead9b"/>
+	</machine>
+	<machine name="bonk's revenge (usa)">
+		<description>bonk's revenge (usa)</description>
+		<rom name="bonk's revenge (usa).pce" size="524288" crc="14250f9a"/>
+	</machine>
+	<machine name="cadash (usa)">
+		<description>cadash (usa)</description>
+		<rom name="cadash (usa).pce" size="524288" crc="bb0b3aef"/>
+	</machine>
+	<machine name="chew man fu (usa)">
+		<description>chew man fu (usa)</description>
+		<rom name="chew man fu (usa).pce" size="262144" crc="8cd13e9a"/>
+	</machine>
+	<machine name="columns (japan)">
+		<description>columns (japan)</description>
+		<rom name="columns (japan).pce" size="131072" crc="99f7a572"/>
+	</machine>
+	<machine name="coryoon - child of dragon (japan)">
+		<description>coryoon - child of dragon (japan)</description>
+		<rom name="coryoon - child of dragon (japan).pce" size="524288" crc="b4d29e3b"/>
+	</machine>
+	<machine name="detana!! twinbee (japan)">
+		<description>detana!! twinbee (japan)</description>
+		<rom name="detana!! twinbee (japan).pce" size="524288" crc="5cf59d80"/>
+	</machine>
+	<machine name="devil's crush (usa)">
+		<description>devil's crush (usa)</description>
+		<rom name="devil's crush (usa).pce" size="393216" crc="157b4492"/>
+	</machine>
+	<machine name="dragon's curse (usa)">
+		<description>dragon's curse (usa)</description>
+		<rom name="dragon's curse (usa).pce" size="262144" crc="7d2c4b09"/>
+	</machine>
+	<machine name="druaga no tou (japan)">
+		<description>druaga no tou (japan)</description>
+		<rom name="druaga no tou (japan).pce" size="524288" crc="72e00bc4"/>
+	</machine>
+	<machine name="dungeon explorer (usa)">
+		<description>dungeon explorer (usa)</description>
+		<rom name="dungeon explorer (usa).pce" size="393216" crc="4ff01515"/>
+	</machine>
+	<machine name="fantasy zone (usa)">
+		<description>fantasy zone (usa)</description>
+		<rom name="fantasy zone (usa).pce" size="262144" crc="e8c3573d"/>
+	</machine>
+	<machine name="final soldier (japan) (en) (special version)">
+		<description>final soldier (japan) (en) (special version)</description>
+		<rom name="final soldier (japan) (en) (special version).pce" size="524288" crc="02a578c5"/>
+	</machine>
+	<machine name="gekisha boy (japan)">
+		<description>gekisha boy (japan)</description>
+		<rom name="gekisha boy (japan).pce" size="524288" crc="e8702d51"/>
+	</machine>
+	<machine name="genji tsuushin agedama (japan)">
+		<description>genji tsuushin agedama (japan)</description>
+		<rom name="genji tsuushin agedama (japan).pce" size="524288" crc="ad450dfc"/>
+	</machine>
+	<machine name="gomola speed (japan)">
+		<description>gomola speed (japan)</description>
+		<rom name="gomola speed (japan).pce" size="393216" crc="9a353afd"/>
+	</machine>
+	<machine name="gradius (japan)">
+		<description>gradius (japan)</description>
+		<rom name="gradius (japan).pce" size="262144" crc="0517da65"/>
+	</machine>
+	<machine name="j.j. &amp; jeff (usa)">
+		<description>j.j. &amp; jeff (usa)</description>
+		<rom name="j.j. &amp; jeff (usa).pce" size="262144" crc="e01c5127"/>
+	</machine>
+	<machine name="legendary axe ii, the (usa)">
+		<description>legendary axe ii, the (usa)</description>
+		<rom name="legendary axe ii, the (usa).pce" size="262144" crc="220ebf91"/>
+	</machine>
+	<machine name="legendary axe, the (usa)">
+		<description>legendary axe, the (usa)</description>
+		<rom name="legendary axe, the (usa).pce" size="262144" crc="2d211007"/>
+	</machine>
+	<machine name="magical chase (usa)">
+		<description>magical chase (usa)</description>
+		<rom name="magical chase (usa).pce" size="524288" crc="95cd2979"/>
+	</machine>
+	<machine name="military madness (usa)">
+		<description>military madness (usa)</description>
+		<rom name="military madness (usa).pce" size="393216" crc="93f316f7"/>
+	</machine>
+	<machine name="mizubaku adventure (japan)">
+		<description>mizubaku adventure (japan)</description>
+		<rom name="mizubaku adventure (japan).pce" size="524288" crc="b2ef558d"/>
+	</machine>
+	<machine name="momotarou katsugeki (japan)">
+		<description>momotarou katsugeki (japan)</description>
+		<rom name="momotarou katsugeki (japan).pce" size="524288" crc="345f43e9"/>
+	</machine>
+	<machine name="neutopia (usa)">
+		<description>neutopia (usa)</description>
+		<rom name="neutopia (usa).pce" size="393216" crc="a9a94e1b"/>
+	</machine>
+	<machine name="neutopia ii (usa)">
+		<description>neutopia ii (usa)</description>
+		<rom name="neutopia ii (usa).pce" size="786432" crc="c4ed4307"/>
+	</machine>
+	<machine name="new adventure island (usa)">
+		<description>new adventure island (usa)</description>
+		<rom name="new adventure island (usa).pce" size="524288" crc="756a1802"/>
+	</machine>
+	<machine name="ninja ryuuken den (japan) (en,ja,zh)">
+		<description>ninja ryuuken den (japan) (en,ja,zh)</description>
+		<rom name="ninja ryuuken den (japan) (en,ja,zh).pce" size="524288" crc="67573bac"/>
+	</machine>
+	<machine name="ninja spirit (usa)">
+		<description>ninja spirit (usa)</description>
+		<rom name="ninja spirit (usa).pce" size="524288" crc="de8af1c1"/>
+	</machine>
+	<machine name="order of the griffon (usa)">
+		<description>order of the griffon (usa)</description>
+		<rom name="order of the griffon (usa).pce" size="524288" crc="fae0fc60"/>
+	</machine>
+	<machine name="parasol stars - the story of bubble bobble iii (usa)">
+		<description>parasol stars - the story of bubble bobble iii (usa)</description>
+		<rom name="parasol stars - the story of bubble bobble iii (usa).pce" size="393216" crc="e6458212"/>
+	</machine>
+	<machine name="parodius da! - shinwa kara owarai e (japan)">
+		<description>parodius da! - shinwa kara owarai e (japan)</description>
+		<rom name="parodius da! - shinwa kara owarai e (japan).pce" size="1048576" crc="647718f9"/>
+	</machine>
+	<machine name="r-type (usa)">
+		<description>r-type (usa)</description>
+		<rom name="r-type (usa).pce" size="524288" crc="91ce5156"/>
+	</machine>
+	<machine name="raiden (usa)">
+		<description>raiden (usa)</description>
+		<rom name="raiden (usa).pce" size="786432" crc="bc59c31e"/>
+	</machine>
+	<machine name="salamander (japan)">
+		<description>salamander (japan)</description>
+		<rom name="salamander (japan).pce" size="262144" crc="faecce20"/>
+	</machine>
+	<machine name="silent debuggers (usa)">
+		<description>silent debuggers (usa)</description>
+		<rom name="silent debuggers (usa).pce" size="524288" crc="fa7e5d66"/>
+	</machine>
+	<machine name="soldier blade (usa)">
+		<description>soldier blade (usa)</description>
+		<rom name="soldier blade (usa).pce" size="524288" crc="4bb68b13"/>
+	</machine>
+	<machine name="somer assault (usa)">
+		<description>somer assault (usa)</description>
+		<rom name="somer assault (usa).pce" size="524288" crc="8fcaf2e9"/>
+	</machine>
+	<machine name="son son ii (japan)">
+		<description>son son ii (japan)</description>
+		<rom name="son son ii (japan).pce" size="262144" crc="d7921df2"/>
+	</machine>
+	<machine name="space harrier (usa)">
+		<description>space harrier (usa)</description>
+		<rom name="space harrier (usa).pce" size="524288" crc="43b05eb8"/>
+	</machine>
+	<machine name="splatterhouse (usa)">
+		<description>splatterhouse (usa)</description>
+		<rom name="splatterhouse (usa).pce" size="524288" crc="d00ca74f"/>
+	</machine>
+	<machine name="super star soldier (usa)">
+		<description>super star soldier (usa)</description>
+		<rom name="super star soldier (usa).pce" size="524288" crc="db29486f"/>
+	</machine>
+	<machine name="turrican (usa)">
+		<description>turrican (usa)</description>
+		<rom name="turrican (usa).pce" size="262144" crc="eb045edf"/>
+	</machine>
+	<machine name="valkyrie no densetsu (japan)">
+		<description>valkyrie no densetsu (japan)</description>
+		<rom name="valkyrie no densetsu (japan).pce" size="524288" crc="a3303978"/>
+	</machine>
+</datafile>

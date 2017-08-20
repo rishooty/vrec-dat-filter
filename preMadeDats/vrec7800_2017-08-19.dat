@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Atari 7800</name>
+		<description>Recommended 7800 games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="dark chambers (usa)">
+		<description>dark chambers (usa)</description>
+		<rom name="dark chambers (usa).a78" size="131200" crc="b5a87d19"/>
+	</machine>
+	<machine name="desert falcon (usa)">
+		<description>desert falcon (usa)</description>
+		<rom name="desert falcon (usa).a78" size="49280" crc="a6a62e78"/>
+	</machine>
+	<machine name="donkey kong (usa)">
+		<description>donkey kong (usa)</description>
+		<rom name="donkey kong (usa).a78" size="49280" crc="d7a55f95"/>
+	</machine>
+	<machine name="galaga (usa)">
+		<description>galaga (usa)</description>
+		<rom name="galaga (usa).a78" size="32896" crc="cffaa1b7"/>
+	</machine>
+	<machine name="mario bros. (usa)">
+		<description>mario bros. (usa)</description>
+		<rom name="mario bros. (usa).a78" size="49280" crc="4d072a3e"/>
+	</machine>
+	<machine name="midnight mutants (usa)">
+		<description>midnight mutants (usa)</description>
+		<rom name="midnight mutants (usa).a78" size="131200" crc="e7157222"/>
+	</machine>
+	<machine name="ninja golf (usa)">
+		<description>ninja golf (usa)</description>
+		<rom name="ninja golf (usa).a78" size="131200" crc="9e5d3625"/>
+	</machine>
+	<machine name="robotron - 2084 (usa)">
+		<description>robotron - 2084 (usa)</description>
+		<rom name="robotron - 2084 (usa).a78" size="32896" crc="ab7bc9ce"/>
+	</machine>
+</datafile>

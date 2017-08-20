@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Super Nintendo</name>
+		<description>Recommended SNES games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="actraiser (usa)">
+		<description>actraiser (usa)</description>
+		<rom name="actraiser (usa).sfc" size="1048576" crc="eac3358d"/>
+	</machine>
+	<machine name="actraiser 2 (usa)">
+		<description>actraiser 2 (usa)</description>
+		<rom name="actraiser 2 (usa).sfc" size="1572864" crc="4901f718"/>
+	</machine>
+	<machine name="adventures of batman &amp; robin, the (usa)">
+		<description>adventures of batman &amp; robin, the (usa)</description>
+		<rom name="adventures of batman &amp; robin, the (usa).sfc" size="2097152" crc="b3ef81f5"/>
+	</machine>
+	<machine name="aero fighters (usa)">
+		<description>aero fighters (usa)</description>
+		<rom name="aero fighters (usa).sfc" size="1310720" crc="f194d00a"/>
+	</machine>
+	<machine name="arabian nights - sabaku no seirei ou (japan)">
+		<description>arabian nights - sabaku no seirei ou (japan)</description>
+		<rom name="arabian nights - sabaku no seirei ou (japan).sfc" size="2621440" crc="b6dbf57b"/>
+	</machine>
+	<machine name="arcana (usa)">
+		<description>arcana (usa)</description>
+		<rom name="arcana (usa).sfc" size="1048576" crc="c891b297"/>
+	</machine>
+	<machine name="arkanoid - doh it again (usa)">
+		<description>arkanoid - doh it again (usa)</description>
+		<rom name="arkanoid - doh it again (usa).sfc" size="524288" crc="b50503a0"/>
+	</machine>
+	<machine name="axelay (usa)">
+		<description>axelay (usa)</description>
+		<rom name="axelay (usa).sfc" size="1048576" crc="f812b533"/>
+	</machine>
+	<machine name="bahamut lagoon (japan)">
+		<description>bahamut lagoon (japan)</description>
+		<rom name="bahamut lagoon (japan).sfc" size="3145728" crc="1b83c440"/>
+	</machine>
+	<machine name="batman returns (usa)">
+		<description>batman returns (usa)</description>
+		<rom name="batman returns (usa).sfc" size="1048576" crc="e87dfdf6"/>
+	</machine>
+	<machine name="battletoads in battlemaniacs (usa)">
+		<description>battletoads in battlemaniacs (usa)</description>
+		<rom name="battletoads in battlemaniacs (usa).sfc" size="1048576" crc="617ac925"/>
+	</machine>
+	<machine name="biker mice from mars (usa)">
+		<description>biker mice from mars (usa)</description>
+		<rom name="biker mice from mars (usa).sfc" size="1048576" crc="4e8b2ecb"/>
+	</machine>
+	<machine name="bishoujo senshi sailor moon - another story (japan)">
+		<description>bishoujo senshi sailor moon - another story (japan)</description>
+		<rom name="bishoujo senshi sailor moon - another story (japan).sfc" size="3145728" crc="02a442b8"/>
+	</machine>
+	<machine name="blackthorne (usa)">
+		<description>blackthorne (usa)</description>
+		<rom name="blackthorne (usa).sfc" size="1048576" crc="856beab1"/>
+	</machine>
+	<machine name="brain lord (usa)">
+		<description>brain lord (usa)</description>
+		<rom name="brain lord (usa).sfc" size="1572864" crc="ac443d87"/>
+	</machine>
+	<machine name="breath of fire (usa)">
+		<description>breath of fire (usa)</description>
+		<rom name="breath of fire (usa).sfc" size="1572864" crc="c788b696"/>
+	</machine>
+	<machine name="breath of fire ii (usa)">
+		<description>breath of fire ii (usa)</description>
+		<rom name="breath of fire ii (usa).sfc" size="3145728" crc="67cdacc5"/>
+	</machine>
+	<machine name="castlevania - dracula x (usa)">
+		<description>castlevania - dracula x (usa)</description>
+		<rom name="castlevania - dracula x (usa).sfc" size="2097152" crc="7c4887e1"/>
+	</machine>
+	<machine name="chou mahou tairiku wozz (japan)">
+		<description>chou mahou tairiku wozz (japan)</description>
+		<rom name="chou mahou tairiku wozz (japan).sfc" size="3145728" crc="b3258f38"/>
+	</machine>
+	<machine name="chrono trigger (usa)">
+		<description>chrono trigger (usa)</description>
+		<rom name="chrono trigger (usa).sfc" size="4194304" crc="2d206bf7"/>
+	</machine>
+	<machine name="clock tower (japan)">
+		<description>clock tower (japan)</description>
+		<rom name="clock tower (japan).sfc" size="3145728" crc="cbcd0dad"/>
+	</machine>
+	<machine name="congo's caper (usa)">
+		<description>congo's caper (usa)</description>
+		<rom name="congo's caper (usa).sfc" size="524288" crc="8a24fba8"/>
+	</machine>
+	<machine name="contra iii - the alien wars (usa)">
+		<description>contra iii - the alien wars (usa)</description>
+		<rom name="contra iii - the alien wars (usa).sfc" size="1048576" crc="84da7cfe"/>
+	</machine>
+	<machine name="cyber knight (japan)">
+		<description>cyber knight (japan)</description>
+		<rom name="cyber knight (japan).sfc" size="1048576" crc="64034b07"/>
+	</machine>
+	<machine name="cyber knight ii - chikyuu teikoku no yabou (japan)">
+		<description>cyber knight ii - chikyuu teikoku no yabou (japan)</description>
+		<rom name="cyber knight ii - chikyuu teikoku no yabou (japan).sfc" size="2097152" crc="ed8bcbf4"/>
+	</machine>
+	<machine name="cybernator (usa)">
+		<description>cybernator (usa)</description>
+		<rom name="cybernator (usa).sfc" size="1048576" crc="4dfa05b3"/>
+	</machine>
+	<machine name="daikaijuu monogatari (japan) (rev 1)">
+		<description>daikaijuu monogatari (japan) (rev 1)</description>
+		<rom name="daikaijuu monogatari (japan) (rev 1).sfc" size="3145728" crc="5b09f3ad"/>
+	</machine>
+	<machine name="daikaijuu monogatari ii (japan)">
+		<description>daikaijuu monogatari ii (japan)</description>
+		<rom name="daikaijuu monogatari ii (japan).sfc" size="5242880" crc="a6c98ffe"/>
+	</machine>
+	<machine name="dark half (japan)">
+		<description>dark half (japan)</description>
+		<rom name="dark half (japan).sfc" size="3145728" crc="7b9793b1"/>
+	</machine>
+	<machine name="dark law - meaning of death (japan)">
+		<description>dark law - meaning of death (japan)</description>
+		<rom name="dark law - meaning of death (japan).sfc" size="4194304" crc="125a0c22"/>
+	</machine>
+	<machine name="deae tonosama - appare ichiban (japan)">
+		<description>deae tonosama - appare ichiban (japan)</description>
+		<rom name="deae tonosama - appare ichiban (japan).sfc" size="1572864" crc="6e42d71b"/>
+	</machine>
+	<machine name="demon's crest (usa)">
+		<description>demon's crest (usa)</description>
+		<rom name="demon's crest (usa).sfc" size="2097152" crc="e8236ad2"/>
+	</machine>
+	<machine name="do-re-mi fantasy - milon no dokidoki daibouken (japan)">
+		<description>do-re-mi fantasy - milon no dokidoki daibouken (japan)</description>
+		<rom name="do-re-mi fantasy - milon no dokidoki daibouken (japan).sfc" size="2097152" crc="9f2c2633"/>
+	</machine>
+	<machine name="donkey kong country (usa) (rev 2)">
+		<description>donkey kong country (usa) (rev 2)</description>
+		<rom name="donkey kong country (usa) (rev 2).sfc" size="4194304" crc="762af827"/>
+	</machine>
+	<machine name="donkey kong country 2 - diddy's kong quest (usa) (en,fr) (rev 1)">
+		<description>donkey kong country 2 - diddy's kong quest (usa) (en,fr) (rev 1)</description>
+		<rom name="donkey kong country 2 - diddy's kong quest (usa) (en,fr) (rev 1).sfc" size="4194304" crc="4e2d90f4"/>
+	</machine>
+	<machine name="donkey kong country 3 - dixie kong's double trouble! (usa) (en,fr)">
+		<description>donkey kong country 3 - dixie kong's double trouble! (usa) (en,fr)</description>
+		<rom name="donkey kong country 3 - dixie kong's double trouble! (usa) (en,fr).sfc" size="4194304" crc="448eec19"/>
+	</machine>
+	<machine name="doom troopers - mutant chronicles (usa)">
+		<description>doom troopers - mutant chronicles (usa)</description>
+		<rom name="doom troopers - mutant chronicles (usa).sfc" size="2097152" crc="1889feef"/>
+	</machine>
+	<machine name="dragon ball z - hyper dimension (japan)">
+		<description>dragon ball z - hyper dimension (japan)</description>
+		<rom name="dragon ball z - hyper dimension (japan).sfc" size="3145728" crc="f4ab1557"/>
+	</machine>
+	<machine name="dream maze - kigurumi daibouken (japan)">
+		<description>dream maze - kigurumi daibouken (japan)</description>
+		<rom name="dream maze - kigurumi daibouken (japan).sfc" size="1048576" crc="4b17a200"/>
+	</machine>
+	<machine name="e.v.o. - search for eden (usa)">
+		<description>e.v.o. - search for eden (usa)</description>
+		<rom name="e.v.o. - search for eden (usa).sfc" size="1572864" crc="dd49911e"/>
+	</machine>
+	<machine name="earthbound (usa)">
+		<description>earthbound (usa)</description>
+		<rom name="earthbound (usa).sfc" size="3145728" crc="dc9bb451"/>
+	</machine>
+	<machine name="earthworm jim (usa)">
+		<description>earthworm jim (usa)</description>
+		<rom name="earthworm jim (usa).sfc" size="3145728" crc="3a4a47eb"/>
+	</machine>
+	<machine name="edono kiba (japan)">
+		<description>edono kiba (japan)</description>
+		<rom name="edono kiba (japan).sfc" size="1048576" crc="eec5a5b1"/>
+	</machine>
+	<machine name="emerald dragon (japan)">
+		<description>emerald dragon (japan)</description>
+		<rom name="emerald dragon (japan).sfc" size="2097152" crc="9d0f5f98"/>
+	</machine>
+	<machine name="energy breaker (japan)">
+		<description>energy breaker (japan)</description>
+		<rom name="energy breaker (japan).sfc" size="3145728" crc="74d89d96"/>
+	</machine>
+	<machine name="f-zero (usa)">
+		<description>f-zero (usa)</description>
+		<rom name="f-zero (usa).sfc" size="524288" crc="aa0e31de"/>
+	</machine>
+	<machine name="famicom tantei club part ii - ushiro ni tatsu shoujo (japan) (rev 1) (np)">
+		<description>famicom tantei club part ii - ushiro ni tatsu shoujo (japan) (rev 1) (np)</description>
+		<rom name="famicom tantei club part ii - ushiro ni tatsu shoujo (japan) (rev 1) (np).sfc" size="3145728" crc="2ce70b92"/>
+	</machine>
+	<machine name="feda - the emblem of justice (japan)">
+		<description>feda - the emblem of justice (japan)</description>
+		<rom name="feda - the emblem of justice (japan).sfc" size="2621440" crc="eda70f8a"/>
+	</machine>
+	<machine name="final fantasy - mystic quest (usa) (rev 1)">
+		<description>final fantasy - mystic quest (usa) (rev 1)</description>
+		<rom name="final fantasy - mystic quest (usa) (rev 1).sfc" size="524288" crc="2c52c792"/>
+	</machine>
+	<machine name="final fantasy ii (usa) (rev 1)">
+		<description>final fantasy ii (usa) (rev 1)</description>
+		<rom name="final fantasy ii (usa) (rev 1).sfc" size="1048576" crc="23084fcd"/>
+	</machine>
+	<machine name="final fantasy iii (usa) (rev 1)">
+		<description>final fantasy iii (usa) (rev 1)</description>
+		<rom name="final fantasy iii (usa) (rev 1).sfc" size="3145728" crc="c0fa0464"/>
+	</machine>
+	<machine name="final fantasy v (japan)">
+		<description>final fantasy v (japan)</description>
+		<rom name="final fantasy v (japan).sfc" size="2097152" crc="c1bc267d"/>
+	</machine>
+	<machine name="final fight 2 (usa)">
+		<description>final fight 2 (usa)</description>
+		<rom name="final fight 2 (usa).sfc" size="1310720" crc="8c37ff55"/>
+	</machine>
+	<machine name="final fight 3 (usa)">
+		<description>final fight 3 (usa)</description>
+		<rom name="final fight 3 (usa).sfc" size="3145728" crc="a916e708"/>
+	</machine>
+	<machine name="fire emblem - seisen no keifu (japan)">
+		<description>fire emblem - seisen no keifu (japan)</description>
+		<rom name="fire emblem - seisen no keifu (japan).sfc" size="4194304" crc="dc0d8cf9"/>
+	</machine>
+	<machine name="firemen, the (europe) (en,fr,de)">
+		<description>firemen, the (europe) (en,fr,de)</description>
+		<rom name="firemen, the (europe) (en,fr,de).sfc" size="1048576" crc="def665af"/>
+	</machine>
+	<machine name="front mission series - gun hazard (japan)">
+		<description>front mission series - gun hazard (japan)</description>
+		<rom name="front mission series - gun hazard (japan).sfc" size="3145728" crc="fd3fdbac"/>
+	</machine>
+	<machine name="ganbare goemon 2 - kiteretsu shougun magginesu (japan)">
+		<description>ganbare goemon 2 - kiteretsu shougun magginesu (japan)</description>
+		<rom name="ganbare goemon 2 - kiteretsu shougun magginesu (japan).sfc" size="2097152" crc="ca4c0219"/>
+	</machine>
+	<machine name="ganbare goemon 3 - shishi juurokubee no karakuri manjigatame (japan) (rev 2)">
+		<description>ganbare goemon 3 - shishi juurokubee no karakuri manjigatame (japan) (rev 2)</description>
+		<rom name="ganbare goemon 3 - shishi juurokubee no karakuri manjigatame (japan) (rev 2).sfc" size="2097152" crc="af984bc1"/>
+	</machine>
+	<machine name="ganbare goemon kirakira douchuu - boku ga dancer ni natta wake (japan) (rev 2)">
+		<description>ganbare goemon kirakira douchuu - boku ga dancer ni natta wake (japan) (rev 2)</description>
+		<rom name="ganbare goemon kirakira douchuu - boku ga dancer ni natta wake (japan) (rev 2).sfc" size="3145728" crc="c20720c2"/>
+	</machine>
+	<machine name="ganbare! daiku no gen-san (japan)">
+		<description>ganbare! daiku no gen-san (japan)</description>
+		<rom name="ganbare! daiku no gen-san (japan).sfc" size="1048576" crc="206bd866"/>
+	</machine>
+	<machine name="ganpuru - gunman's proof (japan)">
+		<description>ganpuru - gunman's proof (japan)</description>
+		<rom name="ganpuru - gunman's proof (japan).sfc" size="3145728" crc="af415c24"/>
+	</machine>
+	<machine name="ghost chaser densei (japan)">
+		<description>ghost chaser densei (japan)</description>
+		<rom name="ghost chaser densei (japan).sfc" size="2097152" crc="dfd6385d"/>
+	</machine>
+	<machine name="goof troop (usa)">
+		<description>goof troop (usa)</description>
+		<rom name="goof troop (usa).sfc" size="524288" crc="4aafa462"/>
+	</machine>
+	<machine name="gradius iii (usa)">
+		<description>gradius iii (usa)</description>
+		<rom name="gradius iii (usa).sfc" size="524288" crc="cd973979"/>
+	</machine>
+	<machine name="great circus mystery starring mickey &amp; minnie, the (usa)">
+		<description>great circus mystery starring mickey &amp; minnie, the (usa)</description>
+		<rom name="great circus mystery starring mickey &amp; minnie, the (usa).sfc" size="1572864" crc="1903ea89"/>
+	</machine>
+	<machine name="gs mikami - joreishi wa nice body (japan)">
+		<description>gs mikami - joreishi wa nice body (japan)</description>
+		<rom name="gs mikami - joreishi wa nice body (japan).sfc" size="1048576" crc="444c9962"/>
+	</machine>
+	<machine name="hagane - the final conflict (usa)">
+		<description>hagane - the final conflict (usa)</description>
+		<rom name="hagane - the final conflict (usa).sfc" size="2097152" crc="8e0a7034"/>
+	</machine>
+	<machine name="harvest moon (usa)">
+		<description>harvest moon (usa)</description>
+		<rom name="harvest moon (usa).sfc" size="2097152" crc="f829129e"/>
+	</machine>
+	<machine name="heisei shin onigashima - kouhen (japan)">
+		<description>heisei shin onigashima - kouhen (japan)</description>
+		<rom name="heisei shin onigashima - kouhen (japan).sfc" size="3145728" crc="0e4c28fe"/>
+	</machine>
+	<machine name="heisei shin onigashima - zenpen (japan)">
+		<description>heisei shin onigashima - zenpen (japan)</description>
+		<rom name="heisei shin onigashima - zenpen (japan).sfc" size="3145728" crc="1725e556"/>
+	</machine>
+	<machine name="heracles no eikou iii - kamigami no chinmoku (japan)">
+		<description>heracles no eikou iii - kamigami no chinmoku (japan)</description>
+		<rom name="heracles no eikou iii - kamigami no chinmoku (japan).sfc" size="1048576" crc="61939546"/>
+	</machine>
+	<machine name="heracles no eikou iv - kamigami kara no okurimono (japan)">
+		<description>heracles no eikou iv - kamigami kara no okurimono (japan)</description>
+		<rom name="heracles no eikou iv - kamigami kara no okurimono (japan).sfc" size="2097152" crc="920a738e"/>
+	</machine>
+	<machine name="holy umbrella - dondera no mubou!! (japan)">
+		<description>holy umbrella - dondera no mubou!! (japan)</description>
+		<rom name="holy umbrella - dondera no mubou!! (japan).sfc" size="2621440" crc="f0a9dead"/>
+	</machine>
+	<machine name="hourai gakuen no bouken! - tenkousei scramble (japan)">
+		<description>hourai gakuen no bouken! - tenkousei scramble (japan)</description>
+		<rom name="hourai gakuen no bouken! - tenkousei scramble (japan).sfc" size="2097152" crc="6299fb1c"/>
+	</machine>
+	<machine name="illusion of gaia (usa)">
+		<description>illusion of gaia (usa)</description>
+		<rom name="illusion of gaia (usa).sfc" size="2097152" crc="1c3848c0"/>
+	</machine>
+	<machine name="iron commando - koutetsu no senshi (japan)">
+		<description>iron commando - koutetsu no senshi (japan)</description>
+		<rom name="iron commando - koutetsu no senshi (japan).sfc" size="1310720" crc="828b5f07"/>
+	</machine>
+	<machine name="jetsons, the - invasion of the planet pirates (usa)">
+		<description>jetsons, the - invasion of the planet pirates (usa)</description>
+		<rom name="jetsons, the - invasion of the planet pirates (usa).sfc" size="1048576" crc="3e3073ce"/>
+	</machine>
+	<machine name="jim power - the lost dimension in 3d (usa)">
+		<description>jim power - the lost dimension in 3d (usa)</description>
+		<rom name="jim power - the lost dimension in 3d (usa).sfc" size="1048576" crc="c469f8f0"/>
+	</machine>
+	<machine name="joe &amp; mac (usa)">
+		<description>joe &amp; mac (usa)</description>
+		<rom name="joe &amp; mac (usa).sfc" size="1048576" crc="3a2b6167"/>
+	</machine>
+	<machine name="joe &amp; mac - caveman ninja (europe) (en,fr,de,es,it,nl)">
+		<description>joe &amp; mac - caveman ninja (europe) (en,fr,de,es,it,nl)</description>
+		<rom name="joe &amp; mac - caveman ninja (europe) (en,fr,de,es,it,nl).sfc" size="1048576" crc="a423a9d8"/>
+	</machine>
+	<machine name="joe &amp; mac 2 - lost in the tropics (usa)">
+		<description>joe &amp; mac 2 - lost in the tropics (usa)</description>
+		<rom name="joe &amp; mac 2 - lost in the tropics (usa).sfc" size="1048576" crc="0c3b4201"/>
+	</machine>
+	<machine name="joe &amp; mac 3 - lost in the tropics (europe) (en,fr,de)">
+		<description>joe &amp; mac 3 - lost in the tropics (europe) (en,fr,de)</description>
+		<rom name="joe &amp; mac 3 - lost in the tropics (europe) (en,fr,de).sfc" size="1048576" crc="b9d6269d"/>
+	</machine>
+	<machine name="judge dredd (usa)">
+		<description>judge dredd (usa)</description>
+		<rom name="judge dredd (usa).sfc" size="2097152" crc="0a3f0288"/>
+	</machine>
+	<machine name="jutei senki (japan)">
+		<description>jutei senki (japan)</description>
+		<rom name="jutei senki (japan).sfc" size="1572864" crc="1d151d45"/>
+	</machine>
+	<machine name="keeper (japan)">
+		<description>keeper (japan)</description>
+		<rom name="keeper (japan).sfc" size="524288" crc="8676126b"/>
+	</machine>
+	<machine name="killer instinct (usa) (rev 1)">
+		<description>killer instinct (usa) (rev 1)</description>
+		<rom name="killer instinct (usa) (rev 1).sfc" size="4194304" crc="09e9a04e"/>
+	</machine>
+	<machine name="king arthur's world (usa)">
+		<description>king arthur's world (usa)</description>
+		<rom name="king arthur's world (usa).sfc" size="524288" crc="99bd1fe1"/>
+	</machine>
+	<machine name="king of dragons, the (japan)">
+		<description>king of dragons, the (japan)</description>
+		<rom name="king of dragons, the (japan).sfc" size="2097152" crc="68b09b12"/>
+	</machine>
+	<machine name="kirby super star (usa)">
+		<description>kirby super star (usa)</description>
+		<rom name="kirby super star (usa).sfc" size="4194304" crc="89d0f7dc"/>
+	</machine>
+	<machine name="kirby's avalanche (usa)">
+		<description>kirby's avalanche (usa)</description>
+		<rom name="kirby's avalanche (usa).sfc" size="1048576" crc="21e658b8"/>
+	</machine>
+	<machine name="kirby's dream course (usa)">
+		<description>kirby's dream course (usa)</description>
+		<rom name="kirby's dream course (usa).sfc" size="1048576" crc="df8153d9"/>
+	</machine>
+	<machine name="kirby's dream land 3 (usa)">
+		<description>kirby's dream land 3 (usa)</description>
+		<rom name="kirby's dream land 3 (usa).sfc" size="4194304" crc="ec8a48f6"/>
+	</machine>
+	<machine name="knights of the round (usa)">
+		<description>knights of the round (usa)</description>
+		<rom name="knights of the round (usa).sfc" size="1572864" crc="aaa82126"/>
+	</machine>
+	<machine name="langrisser, der (japan) (rev 1)">
+		<description>langrisser, der (japan) (rev 1)</description>
+		<rom name="langrisser, der (japan) (rev 1).sfc" size="2097152" crc="35f9eecc"/>
+	</machine>
+	<machine name="legend of the mystical ninja, the (usa)">
+		<description>legend of the mystical ninja, the (usa)</description>
+		<rom name="legend of the mystical ninja, the (usa).sfc" size="1048576" crc="82479d6a"/>
+	</machine>
+	<machine name="legend of zelda, the - a link to the past (usa)">
+		<description>legend of zelda, the - a link to the past (usa)</description>
+		<rom name="legend of zelda, the - a link to the past (usa).sfc" size="1048576" crc="777aac2f"/>
+	</machine>
+	<machine name="live a live (japan)">
+		<description>live a live (japan)</description>
+		<rom name="live a live (japan).sfc" size="2097152" crc="6291ee08"/>
+	</machine>
+	<machine name="lost vikings 2 (usa)">
+		<description>lost vikings 2 (usa)</description>
+		<rom name="lost vikings 2 (usa).sfc" size="1048576" crc="3aa01dbd"/>
+	</machine>
+	<machine name="lost vikings, the (usa)">
+		<description>lost vikings, the (usa)</description>
+		<rom name="lost vikings, the (usa).sfc" size="1048576" crc="6838be08"/>
+	</machine>
+	<machine name="lufia ii - rise of the sinistrals (usa)">
+		<description>lufia ii - rise of the sinistrals (usa)</description>
+		<rom name="lufia ii - rise of the sinistrals (usa).sfc" size="2621440" crc="20f2ac29"/>
+	</machine>
+	<machine name="magical pop'n (japan)">
+		<description>magical pop'n (japan)</description>
+		<rom name="magical pop'n (japan).sfc" size="2097152" crc="c49d28a4"/>
+	</machine>
+	<machine name="magical quest starring mickey mouse, the (usa)">
+		<description>magical quest starring mickey mouse, the (usa)</description>
+		<rom name="magical quest starring mickey mouse, the (usa).sfc" size="1048576" crc="10874c70"/>
+	</machine>
+	<machine name="majuu ou (japan)">
+		<description>majuu ou (japan)</description>
+		<rom name="majuu ou (japan).sfc" size="1572864" crc="4737370b"/>
+	</machine>
+	<machine name="marvel super heroes in war of the gems (usa)">
+		<description>marvel super heroes in war of the gems (usa)</description>
+		<rom name="marvel super heroes in war of the gems (usa).sfc" size="2097152" crc="00af56e8"/>
+	</machine>
+	<machine name="marvelous - mouhitotsu no takara-jima (japan)">
+		<description>marvelous - mouhitotsu no takara-jima (japan)</description>
+		<rom name="marvelous - mouhitotsu no takara-jima (japan).sfc" size="3145728" crc="cedf3ba7"/>
+	</machine>
+	<machine name="maui mallard in cold shadow (usa)">
+		<description>maui mallard in cold shadow (usa)</description>
+		<rom name="maui mallard in cold shadow (usa).sfc" size="3145728" crc="2d3b9662"/>
+	</machine>
+	<machine name="mega man 7 (usa)">
+		<description>mega man 7 (usa)</description>
+		<rom name="mega man 7 (usa).sfc" size="2097152" crc="2d947536"/>
+	</machine>
+	<machine name="mega man x (usa) (rev 1)">
+		<description>mega man x (usa) (rev 1)</description>
+		<rom name="mega man x (usa) (rev 1).sfc" size="1572864" crc="ded53c64"/>
+	</machine>
+	<machine name="mega man x2 (usa)">
+		<description>mega man x2 (usa)</description>
+		<rom name="mega man x2 (usa).sfc" size="1572864" crc="947b0355"/>
+	</machine>
+	<machine name="mega man x3 (usa)">
+		<description>mega man x3 (usa)</description>
+		<rom name="mega man x3 (usa).sfc" size="2097152" crc="fa0fe671"/>
+	</machine>
+	<machine name="metal max returns (japan)">
+		<description>metal max returns (japan)</description>
+		<rom name="metal max returns (japan).sfc" size="4194304" crc="4396a35b"/>
+	</machine>
+	<machine name="metal warriors (usa)">
+		<description>metal warriors (usa)</description>
+		<rom name="metal warriors (usa).sfc" size="2097152" crc="f2ab92d4"/>
+	</machine>
+	<machine name="michael jordan - chaos in the windy city (usa)">
+		<description>michael jordan - chaos in the windy city (usa)</description>
+		<rom name="michael jordan - chaos in the windy city (usa).sfc" size="1310720" crc="f57dba3b"/>
+	</machine>
+	<machine name="mickey no tokyo disneyland daibouken (japan)">
+		<description>mickey no tokyo disneyland daibouken (japan)</description>
+		<rom name="mickey no tokyo disneyland daibouken (japan).sfc" size="1572864" crc="e235f0c6"/>
+	</machine>
+	<machine name="mickey to donald - magical adventure 3 (japan)">
+		<description>mickey to donald - magical adventure 3 (japan)</description>
+		<rom name="mickey to donald - magical adventure 3 (japan).sfc" size="2097152" crc="32eea1e9"/>
+	</machine>
+	<machine name="might and magic ii (europe)">
+		<description>might and magic ii (europe)</description>
+		<rom name="might and magic ii (europe).sfc" size="1048576" crc="4062244b"/>
+	</machine>
+	<machine name="mighty morphin power rangers - the fighting edition (usa)">
+		<description>mighty morphin power rangers - the fighting edition (usa)</description>
+		<rom name="mighty morphin power rangers - the fighting edition (usa).sfc" size="1572864" crc="460b0a60"/>
+	</machine>
+	<machine name="mortal kombat (usa)">
+		<description>mortal kombat (usa)</description>
+		<rom name="mortal kombat (usa).sfc" size="2097152" crc="def42945"/>
+	</machine>
+	<machine name="mortal kombat ii (usa) (rev 1)">
+		<description>mortal kombat ii (usa) (rev 1)</description>
+		<rom name="mortal kombat ii (usa) (rev 1).sfc" size="3145728" crc="70bb5513"/>
+	</machine>
+	<machine name="ninjawarriors (usa)">
+		<description>ninjawarriors (usa)</description>
+		<rom name="ninjawarriors (usa).sfc" size="1572864" crc="7537d8d7"/>
+	</machine>
+	<machine name="nosferatu (usa)">
+		<description>nosferatu (usa)</description>
+		<rom name="nosferatu (usa).sfc" size="2097152" crc="de762764"/>
+	</machine>
+	<machine name="ogre battle - the march of the black queen (usa)">
+		<description>ogre battle - the march of the black queen (usa)</description>
+		<rom name="ogre battle - the march of the black queen (usa).sfc" size="1572864" crc="acfdb7b8"/>
+	</machine>
+	<machine name="parodius (europe)">
+		<description>parodius (europe)</description>
+		<rom name="parodius (europe).sfc" size="1048576" crc="6ffa308c"/>
+	</machine>
+	<machine name="parodius da! - shinwa kara owarai e (japan)">
+		<description>parodius da! - shinwa kara owarai e (japan)</description>
+		<rom name="parodius da! - shinwa kara owarai e (japan).sfc" size="1048576" crc="876dfd97"/>
+	</machine>
+	<machine name="phalanx - the enforce fighter a-144 (japan) (en)">
+		<description>phalanx - the enforce fighter a-144 (japan) (en)</description>
+		<rom name="phalanx - the enforce fighter a-144 (japan) (en).sfc" size="1048576" crc="561aeb8f"/>
+	</machine>
+	<machine name="phantom 2040 (usa)">
+		<description>phantom 2040 (usa)</description>
+		<rom name="phantom 2040 (usa).sfc" size="2097152" crc="35e8fb28"/>
+	</machine>
+	<machine name="plok (usa)">
+		<description>plok (usa)</description>
+		<rom name="plok (usa).sfc" size="1048576" crc="bbd678f6"/>
+	</machine>
+	<machine name="pocky &amp; rocky (usa)">
+		<description>pocky &amp; rocky (usa)</description>
+		<rom name="pocky &amp; rocky (usa).sfc" size="1048576" crc="2b0e7ea3"/>
+	</machine>
+	<machine name="pocky &amp; rocky 2 (usa)">
+		<description>pocky &amp; rocky 2 (usa)</description>
+		<rom name="pocky &amp; rocky 2 (usa).sfc" size="1572864" crc="fc00bb1b"/>
+	</machine>
+	<machine name="pop'n twinbee (europe)">
+		<description>pop'n twinbee (europe)</description>
+		<rom name="pop'n twinbee (europe).sfc" size="1048576" crc="588a9707"/>
+	</machine>
+	<machine name="pop'n twinbee - rainbow bell adventures (europe)">
+		<description>pop'n twinbee - rainbow bell adventures (europe)</description>
+		<rom name="pop'n twinbee - rainbow bell adventures (europe).sfc" size="1048576" crc="91a03035"/>
+	</machine>
+	<machine name="prince of persia (usa)">
+		<description>prince of persia (usa)</description>
+		<rom name="prince of persia (usa).sfc" size="1048576" crc="891bb2bb"/>
+	</machine>
+	<machine name="r-type iii - the third lightning (japan) (en)">
+		<description>r-type iii - the third lightning (japan) (en)</description>
+		<rom name="r-type iii - the third lightning (japan) (en).sfc" size="2097152" crc="1e1ff9fe"/>
+	</machine>
+	<machine name="rendering ranger r2 (japan) (en)">
+		<description>rendering ranger r2 (japan) (en)</description>
+		<rom name="rendering ranger r2 (japan) (en).sfc" size="2097152" crc="8fb5ac86"/>
+	</machine>
+	<machine name="return of double dragon (japan)">
+		<description>return of double dragon (japan)</description>
+		<rom name="return of double dragon (japan).sfc" size="1048576" crc="10470b58"/>
+	</machine>
+	<machine name="rock n' roll racing (usa)">
+		<description>rock n' roll racing (usa)</description>
+		<rom name="rock n' roll racing (usa).sfc" size="1048576" crc="7d06f473"/>
+	</machine>
+	<machine name="rockman &amp; forte (japan)">
+		<description>rockman &amp; forte (japan)</description>
+		<rom name="rockman &amp; forte (japan).sfc" size="4194304" crc="5047e0d4"/>
+	</machine>
+	<machine name="romancing sa-ga (japan) (rev 1)">
+		<description>romancing sa-ga (japan) (rev 1)</description>
+		<rom name="romancing sa-ga (japan) (rev 1).sfc" size="1048576" crc="9684526d"/>
+	</machine>
+	<machine name="romancing sa-ga 2 (japan)">
+		<description>romancing sa-ga 2 (japan)</description>
+		<rom name="romancing sa-ga 2 (japan).sfc" size="2097152" crc="54a585bc"/>
+	</machine>
+	<machine name="romancing sa-ga 3 (japan) (rev 1)">
+		<description>romancing sa-ga 3 (japan) (rev 1)</description>
+		<rom name="romancing sa-ga 3 (japan) (rev 1).sfc" size="4194304" crc="6c50c2cf"/>
+	</machine>
+	<machine name="rudra no hihou (japan)">
+		<description>rudra no hihou (japan)</description>
+		<rom name="rudra no hihou (japan).sfc" size="4194304" crc="5d8cb7ac"/>
+	</machine>
+	<machine name="run saber (usa)">
+		<description>run saber (usa)</description>
+		<rom name="run saber (usa).sfc" size="1048576" crc="8708e5bb"/>
+	</machine>
+	<machine name="sanrio world smash ball! (japan)">
+		<description>sanrio world smash ball! (japan)</description>
+		<rom name="sanrio world smash ball! (japan).sfc" size="262144" crc="0e318416"/>
+	</machine>
+	<machine name="secret of evermore (usa)">
+		<description>secret of evermore (usa)</description>
+		<rom name="secret of evermore (usa).sfc" size="3145728" crc="a5c0045e"/>
+	</machine>
+	<machine name="secret of mana (usa)">
+		<description>secret of mana (usa)</description>
+		<rom name="secret of mana (usa).sfc" size="2097152" crc="d0176b24"/>
+	</machine>
+	<machine name="seiken densetsu 3 (japan)">
+		<description>seiken densetsu 3 (japan)</description>
+		<rom name="seiken densetsu 3 (japan).sfc" size="4194304" crc="863ed0b8"/>
+	</machine>
+	<machine name="shadowrun (usa)">
+		<description>shadowrun (usa)</description>
+		<rom name="shadowrun (usa).sfc" size="1048576" crc="3f34dff0"/>
+	</machine>
+	<machine name="shin kidou senki gundam w - endless duel (japan)">
+		<description>shin kidou senki gundam w - endless duel (japan)</description>
+		<rom name="shin kidou senki gundam w - endless duel (japan).sfc" size="2097152" crc="c0aecdca"/>
+	</machine>
+	<machine name="shin megami tensei (japan) (rev 1)">
+		<description>shin megami tensei (japan) (rev 1)</description>
+		<rom name="shin megami tensei (japan) (rev 1).sfc" size="1572864" crc="a3d40a74"/>
+	</machine>
+	<machine name="shin megami tensei ii (japan) (rev 2)">
+		<description>shin megami tensei ii (japan) (rev 2)</description>
+		<rom name="shin megami tensei ii (japan) (rev 2).sfc" size="2097152" crc="e38228a7"/>
+	</machine>
+	<machine name="shin nekketsu kouha - kunio-tachi no banka (japan)">
+		<description>shin nekketsu kouha - kunio-tachi no banka (japan)</description>
+		<rom name="shin nekketsu kouha - kunio-tachi no banka (japan).sfc" size="2097152" crc="31be696c"/>
+	</machine>
+	<machine name="shodai nekketsu kouha kunio-kun (japan)">
+		<description>shodai nekketsu kouha kunio-kun (japan)</description>
+		<rom name="shodai nekketsu kouha kunio-kun (japan).sfc" size="1048576" crc="56c05339"/>
+	</machine>
+	<machine name="shounen ashibe - goma-chan no yuuenchi daibouken (japan)">
+		<description>shounen ashibe - goma-chan no yuuenchi daibouken (japan)</description>
+		<rom name="shounen ashibe - goma-chan no yuuenchi daibouken (japan).sfc" size="524288" crc="d01ab6a8"/>
+	</machine>
+	<machine name="simcity (usa)">
+		<description>simcity (usa)</description>
+		<rom name="simcity (usa).sfc" size="524288" crc="8aedd3a1"/>
+	</machine>
+	<machine name="skyblazer (usa)">
+		<description>skyblazer (usa)</description>
+		<rom name="skyblazer (usa).sfc" size="1048576" crc="f13b00b0"/>
+	</machine>
+	<machine name="sonic blast man ii (usa)">
+		<description>sonic blast man ii (usa)</description>
+		<rom name="sonic blast man ii (usa).sfc" size="1572864" crc="24229a34"/>
+	</machine>
+	<machine name="soul blazer (usa)">
+		<description>soul blazer (usa)</description>
+		<rom name="soul blazer (usa).sfc" size="1048576" crc="31b965db"/>
+	</machine>
+	<machine name="sparkster (usa)">
+		<description>sparkster (usa)</description>
+		<rom name="sparkster (usa).sfc" size="1048576" crc="40d11c94"/>
+	</machine>
+	<machine name="star fox (usa) (rev 2)">
+		<description>star fox (usa) (rev 2)</description>
+		<rom name="star fox (usa) (rev 2).sfc" size="1048576" crc="8fc4e6d0"/>
+	</machine>
+	<machine name="star fox 2 (japan) (proto 2)">
+		<description>star fox 2 (japan) (proto 2)</description>
+		<rom name="star fox 2 (japan) (proto 2).sfc" size="1048576" crc="79f3433d"/>
+	</machine>
+	<machine name="star ocean (japan)">
+		<description>star ocean (japan)</description>
+		<rom name="star ocean (japan).sfc" size="6291456" crc="3dbdfdbf"/>
+	</machine>
+	<machine name="sunset riders (usa)">
+		<description>sunset riders (usa)</description>
+		<rom name="sunset riders (usa).sfc" size="1048576" crc="52ada404"/>
+	</machine>
+	<machine name="super adventure island ii (usa)">
+		<description>super adventure island ii (usa)</description>
+		<rom name="super adventure island ii (usa).sfc" size="1572864" crc="52fe16fd"/>
+	</machine>
+	<machine name="super bomber man - panic bomber w (japan)">
+		<description>super bomber man - panic bomber w (japan)</description>
+		<rom name="super bomber man - panic bomber w (japan).sfc" size="1048576" crc="fc633ecb"/>
+	</machine>
+	<machine name="super bomber man 4 (japan)">
+		<description>super bomber man 4 (japan)</description>
+		<rom name="super bomber man 4 (japan).sfc" size="2097152" crc="3bbaeb19"/>
+	</machine>
+	<machine name="super bomber man 5 (japan)">
+		<description>super bomber man 5 (japan)</description>
+		<rom name="super bomber man 5 (japan).sfc" size="2097152" crc="06b1f0f5"/>
+	</machine>
+	<machine name="super bomberman (usa)">
+		<description>super bomberman (usa)</description>
+		<rom name="super bomberman (usa).sfc" size="524288" crc="63a8e2c6"/>
+	</machine>
+	<machine name="super bomberman 2 (usa)">
+		<description>super bomberman 2 (usa)</description>
+		<rom name="super bomberman 2 (usa).sfc" size="1048576" crc="9c1f11e4"/>
+	</machine>
+	<machine name="super bomberman 3 (europe)">
+		<description>super bomberman 3 (europe)</description>
+		<rom name="super bomberman 3 (europe).sfc" size="1572864" crc="a096a6e5"/>
+	</machine>
+	<machine name="super castlevania iv (usa)">
+		<description>super castlevania iv (usa)</description>
+		<rom name="super castlevania iv (usa).sfc" size="1048576" crc="b64ffb12"/>
+	</machine>
+	<machine name="super double dragon (usa)">
+		<description>super double dragon (usa)</description>
+		<rom name="super double dragon (usa).sfc" size="1048576" crc="09ed12a5"/>
+	</machine>
+	<machine name="super ghouls'n ghosts (usa)">
+		<description>super ghouls'n ghosts (usa)</description>
+		<rom name="super ghouls'n ghosts (usa).sfc" size="1048576" crc="6aaba901"/>
+	</machine>
+	<machine name="super jinsei game (japan) (rev 1)">
+		<description>super jinsei game (japan) (rev 1)</description>
+		<rom name="super jinsei game (japan) (rev 1).sfc" size="1310720" crc="5b1837be"/>
+	</machine>
+	<machine name="super mario all-stars + super mario world (usa)">
+		<description>super mario all-stars + super mario world (usa)</description>
+		<rom name="super mario all-stars + super mario world (usa).sfc" size="2621440" crc="f84305b1"/>
+	</machine>
+	<machine name="super mario kart (usa)">
+		<description>super mario kart (usa)</description>
+		<rom name="super mario kart (usa).sfc" size="524288" crc="cd80db86"/>
+	</machine>
+	<machine name="super mario rpg - legend of the seven stars (usa)">
+		<description>super mario rpg - legend of the seven stars (usa)</description>
+		<rom name="super mario rpg - legend of the seven stars (usa).sfc" size="4194304" crc="1b8a0625"/>
+	</machine>
+	<machine name="super mario world 2 - yoshi's island (usa) (rev 1)">
+		<description>super mario world 2 - yoshi's island (usa) (rev 1)</description>
+		<rom name="super mario world 2 - yoshi's island (usa) (rev 1).sfc" size="2097152" crc="cf98ddaa"/>
+	</machine>
+	<machine name="super metroid (japan, usa) (en,ja)">
+		<description>super metroid (japan, usa) (en,ja)</description>
+		<rom name="super metroid (japan, usa) (en,ja).sfc" size="3145728" crc="d63ed5f8"/>
+	</machine>
+	<machine name="super morph (europe)">
+		<description>super morph (europe)</description>
+		<rom name="super morph (europe).sfc" size="1048576" crc="388f6daa"/>
+	</machine>
+	<machine name="super nova (usa)">
+		<description>super nova (usa)</description>
+		<rom name="super nova (usa).sfc" size="1048576" crc="460def25"/>
+	</machine>
+	<machine name="super punch-out!! (usa)">
+		<description>super punch-out!! (usa)</description>
+		<rom name="super punch-out!! (usa).sfc" size="2097152" crc="e2f92f84"/>
+	</machine>
+	<machine name="super smash t.v. (usa)">
+		<description>super smash t.v. (usa)</description>
+		<rom name="super smash t.v. (usa).sfc" size="524288" crc="2d0b20d0"/>
+	</machine>
+	<machine name="super star wars - return of the jedi (usa) (rev 1)">
+		<description>super star wars - return of the jedi (usa) (rev 1)</description>
+		<rom name="super star wars - return of the jedi (usa) (rev 1).sfc" size="2097152" crc="4a5f30d8"/>
+	</machine>
+	<machine name="super star wars - the empire strikes back (usa) (rev 1)">
+		<description>super star wars - the empire strikes back (usa) (rev 1)</description>
+		<rom name="super star wars - the empire strikes back (usa) (rev 1).sfc" size="1572864" crc="1e7ea62c"/>
+	</machine>
+	<machine name="super street fighter ii (usa)">
+		<description>super street fighter ii (usa)</description>
+		<rom name="super street fighter ii (usa).sfc" size="4194304" crc="f16d5ce9"/>
+	</machine>
+	<machine name="super widget (usa)">
+		<description>super widget (usa)</description>
+		<rom name="super widget (usa).sfc" size="1048576" crc="7dd199ec"/>
+	</machine>
+	<machine name="sutte hakkun (japan)">
+		<description>sutte hakkun (japan)</description>
+		<rom name="sutte hakkun (japan).sfc" size="3145728" crc="dc173550"/>
+	</machine>
+	<machine name="tactics ogre - let us cling together (japan) (rev 2)">
+		<description>tactics ogre - let us cling together (japan) (rev 2)</description>
+		<rom name="tactics ogre - let us cling together (japan) (rev 2).sfc" size="3145728" crc="12f0a699"/>
+	</machine>
+	<machine name="tales of phantasia (japan)">
+		<description>tales of phantasia (japan)</description>
+		<rom name="tales of phantasia (japan).sfc" size="6291456" crc="e9946b84"/>
+	</machine>
+	<machine name="tecmo super bowl (usa)">
+		<description>tecmo super bowl (usa)</description>
+		<rom name="tecmo super bowl (usa).sfc" size="1572864" crc="cde3746b"/>
+	</machine>
+	<machine name="teenage mutant ninja turtles iv - turtles in time (usa)">
+		<description>teenage mutant ninja turtles iv - turtles in time (usa)</description>
+		<rom name="teenage mutant ninja turtles iv - turtles in time (usa).sfc" size="1048576" crc="5940bd99"/>
+	</machine>
+	<machine name="terranigma (europe)">
+		<description>terranigma (europe)</description>
+		<rom name="terranigma (europe).sfc" size="4194304" crc="974523ff"/>
+	</machine>
+	<machine name="tetris attack (usa) (en,ja)">
+		<description>tetris attack (usa) (en,ja)</description>
+		<rom name="tetris attack (usa) (en,ja).sfc" size="1048576" crc="6c128210"/>
+	</machine>
+	<machine name="top gear (usa)">
+		<description>top gear (usa)</description>
+		<rom name="top gear (usa).sfc" size="524288" crc="d34c49b7"/>
+	</machine>
+	<machine name="top gear 2 (usa)">
+		<description>top gear 2 (usa)</description>
+		<rom name="top gear 2 (usa).sfc" size="1048576" crc="2b88bee8"/>
+	</machine>
+	<machine name="top gear 3000 (usa)">
+		<description>top gear 3000 (usa)</description>
+		<rom name="top gear 3000 (usa).sfc" size="1048576" crc="a20be998"/>
+	</machine>
+	<machine name="u.n. squadron (usa)">
+		<description>u.n. squadron (usa)</description>
+		<rom name="u.n. squadron (usa).sfc" size="1048576" crc="231f0f67"/>
+	</machine>
+	<machine name="ultimate mortal kombat 3 (usa)">
+		<description>ultimate mortal kombat 3 (usa)</description>
+		<rom name="ultimate mortal kombat 3 (usa).sfc" size="4194304" crc="f5bfe41e"/>
+	</machine>
+	<machine name="umihara kawase (japan)">
+		<description>umihara kawase (japan)</description>
+		<rom name="umihara kawase (japan).sfc" size="1048576" crc="393ccca2"/>
+	</machine>
+	<machine name="uncharted waters (usa)">
+		<description>uncharted waters (usa)</description>
+		<rom name="uncharted waters (usa).sfc" size="1048576" crc="95724a2f"/>
+	</machine>
+	<machine name="undercover cops (japan)">
+		<description>undercover cops (japan)</description>
+		<rom name="undercover cops (japan).sfc" size="2097152" crc="b574c939"/>
+	</machine>
+	<machine name="uniracers (usa)">
+		<description>uniracers (usa)</description>
+		<rom name="uniracers (usa).sfc" size="2097152" crc="383858c7"/>
+	</machine>
+	<machine name="wild guns (usa)">
+		<description>wild guns (usa)</description>
+		<rom name="wild guns (usa).sfc" size="1048576" crc="085d8d14"/>
+	</machine>
+	<machine name="wizardry vi - kindan no mahitsu (japan)">
+		<description>wizardry vi - kindan no mahitsu (japan)</description>
+		<rom name="wizardry vi - kindan no mahitsu (japan).sfc" size="3145728" crc="c17ecba5"/>
+	</machine>
+	<machine name="x-men - mutant apocalypse (usa)">
+		<description>x-men - mutant apocalypse (usa)</description>
+		<rom name="x-men - mutant apocalypse (usa).sfc" size="2097152" crc="5e34822a"/>
+	</machine>
+	<machine name="yoshi's safari (usa)">
+		<description>yoshi's safari (usa)</description>
+		<rom name="yoshi's safari (usa).sfc" size="1048576" crc="59490ce8"/>
+	</machine>
+	<machine name="ys iv - mask of the sun (japan)">
+		<description>ys iv - mask of the sun (japan)</description>
+		<rom name="ys iv - mask of the sun (japan).sfc" size="1572864" crc="ca7b4db9"/>
+	</machine>
+	<machine name="zombies ate my neighbors (usa)">
+		<description>zombies ate my neighbors (usa)</description>
+		<rom name="zombies ate my neighbors (usa).sfc" size="1048576" crc="7cfc0c7c"/>
+	</machine>
+</datafile>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Atari Jaguar</name>
+		<description>Recommended Jaguar games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="alien vs predator (world)">
+		<description>alien vs predator (world)</description>
+		<rom name="alien vs predator (world).j64" size="4194304" crc="dc187f82"/>
+	</machine>
+	<machine name="attack of the mutant penguins (world)">
+		<description>attack of the mutant penguins (world)</description>
+		<rom name="attack of the mutant penguins (world).j64" size="2097152" crc="cd5bf827"/>
+	</machine>
+	<machine name="brutal sports football (world)">
+		<description>brutal sports football (world)</description>
+		<rom name="brutal sports football (world).j64" size="2097152" crc="bcb1a4bf"/>
+	</machine>
+	<machine name="cannon fodder (world)">
+		<description>cannon fodder (world)</description>
+		<rom name="cannon fodder (world).j64" size="2097152" crc="bda405c6"/>
+	</machine>
+	<machine name="defender 2000 (world)">
+		<description>defender 2000 (world)</description>
+		<rom name="defender 2000 (world).j64" size="4194304" crc="27594c6a"/>
+	</machine>
+	<machine name="doom (world)">
+		<description>doom (world)</description>
+		<rom name="doom (world).j64" size="4194304" crc="5e2cdbc0"/>
+	</machine>
+	<machine name="fight for life (world)">
+		<description>fight for life (world)</description>
+		<rom name="fight for life (world).j64" size="4194304" crc="b14c4753"/>
+	</machine>
+	<machine name="flashback - the quest for identity (world) (en,fr)">
+		<description>flashback - the quest for identity (world) (en,fr)</description>
+		<rom name="flashback - the quest for identity (world) (en,fr).j64" size="2097152" crc="de55dcc7"/>
+	</machine>
+	<machine name="iron soldier (world) (v1.04)">
+		<description>iron soldier (world) (v1.04)</description>
+		<rom name="iron soldier (world) (v1.04).j64" size="2097152" crc="08f15576"/>
+	</machine>
+	<machine name="pinball fantasies (world)">
+		<description>pinball fantasies (world)</description>
+		<rom name="pinball fantasies (world).j64" size="2097152" crc="5cff14ab"/>
+	</machine>
+	<machine name="pitfall - the mayan adventure (world)">
+		<description>pitfall - the mayan adventure (world)</description>
+		<rom name="pitfall - the mayan adventure (world).j64" size="4194304" crc="817a2273"/>
+	</machine>
+	<machine name="raiden (world)">
+		<description>raiden (world)</description>
+		<rom name="raiden (world).j64" size="2097152" crc="0509c85e"/>
+	</machine>
+	<machine name="rayman (world)">
+		<description>rayman (world)</description>
+		<rom name="rayman (world).j64" size="4194304" crc="a9f8a00e"/>
+	</machine>
+	<machine name="sensible soccer - international edition (world)">
+		<description>sensible soccer - international edition (world)</description>
+		<rom name="sensible soccer - international edition (world).j64" size="2097152" crc="5a101212"/>
+	</machine>
+	<machine name="skyhammer (world)">
+		<description>skyhammer (world)</description>
+		<rom name="skyhammer (world).j64" size="4194304" crc="3c044941"/>
+	</machine>
+	<machine name="super burnout (world)">
+		<description>super burnout (world)</description>
+		<rom name="super burnout (world).j64" size="2097152" crc="6f8b2547"/>
+	</machine>
+	<machine name="tempest 2000 (world)">
+		<description>tempest 2000 (world)</description>
+		<rom name="tempest 2000 (world).j64" size="2097152" crc="6b2b95ad"/>
+	</machine>
+	<machine name="worms (world)">
+		<description>worms (world)</description>
+		<rom name="worms (world).j64" size="2097152" crc="6eb774eb"/>
+	</machine>
+</datafile>

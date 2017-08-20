@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Sega Master System</name>
+		<description>Recommended Master System games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="after burner (world)">
+		<description>after burner (world)</description>
+		<rom name="after burner (world).sms" size="524288" crc="1c951f8e"/>
+	</machine>
+	<machine name="air rescue (europe)">
+		<description>air rescue (europe)</description>
+		<rom name="air rescue (europe).sms" size="262144" crc="8b43d21d"/>
+	</machine>
+	<machine name="aladdin (europe)">
+		<description>aladdin (europe)</description>
+		<rom name="aladdin (europe).sms" size="524288" crc="c8718d40"/>
+	</machine>
+	<machine name="alex kidd in miracle world (usa, europe) (rev 1)">
+		<description>alex kidd in miracle world (usa, europe) (rev 1)</description>
+		<rom name="alex kidd in miracle world (usa, europe) (rev 1).sms" size="131072" crc="aed9aac4"/>
+	</machine>
+	<machine name="alex kidd in miracle world 2">
+		<description>alex kidd in miracle world 2</description>
+		<rom name="alex kidd in miracle world 2.sms" size="524288" crc="7de172ff"/>
+	</machine>
+	<machine name="alex kidd in shinobi world (usa, europe)">
+		<description>alex kidd in shinobi world (usa, europe)</description>
+		<rom name="alex kidd in shinobi world (usa, europe).sms" size="262144" crc="d2417ed7"/>
+	</machine>
+	<machine name="argos no juujiken (japan)">
+		<description>argos no juujiken (japan)</description>
+		<rom name="argos no juujiken (japan).sms" size="131072" crc="bae75805"/>
+	</machine>
+	<machine name="assault city (europe)">
+		<description>assault city (europe)</description>
+		<rom name="assault city (europe).sms" size="262144" crc="0bd8da96"/>
+	</machine>
+	<machine name="asterix (europe) (en,fr) (rev 1)">
+		<description>asterix (europe) (en,fr) (rev 1)</description>
+		<rom name="asterix (europe) (en,fr) (rev 1).sms" size="524288" crc="8c9d5be8"/>
+	</machine>
+	<machine name="asterix and the secret mission (europe) (en,fr,de)">
+		<description>asterix and the secret mission (europe) (en,fr,de)</description>
+		<rom name="asterix and the secret mission (europe) (en,fr,de).sms" size="524288" crc="def9b14e"/>
+	</machine>
+	<machine name="astro warrior (japan, usa)">
+		<description>astro warrior (japan, usa)</description>
+		<rom name="astro warrior (japan, usa).sms" size="131072" crc="299cbb74"/>
+	</machine>
+	<machine name="aztec adventure - the golden road to paradise (world)">
+		<description>aztec adventure - the golden road to paradise (world)</description>
+		<rom name="aztec adventure - the golden road to paradise (world).sms" size="131072" crc="ff614eb3"/>
+	</machine>
+	<machine name="baku baku animal (brazil)">
+		<description>baku baku animal (brazil)</description>
+		<rom name="baku baku animal (brazil).sms" size="262144" crc="35d84dc2"/>
+	</machine>
+	<machine name="basket ball nightmare (europe)">
+		<description>basket ball nightmare (europe)</description>
+		<rom name="basket ball nightmare (europe).sms" size="262144" crc="0df8597f"/>
+	</machine>
+	<machine name="battle out run (europe)">
+		<description>battle out run (europe)</description>
+		<rom name="battle out run (europe).sms" size="262144" crc="c19430ce"/>
+	</machine>
+	<machine name="black belt (usa, europe)">
+		<description>black belt (usa, europe)</description>
+		<rom name="black belt (usa, europe).sms" size="131072" crc="da3a2f57"/>
+	</machine>
+	<machine name="bomber raid (world)">
+		<description>bomber raid (world)</description>
+		<rom name="bomber raid (world).sms" size="262144" crc="3084cf11"/>
+	</machine>
+	<machine name="bonanza bros. (europe)">
+		<description>bonanza bros. (europe)</description>
+		<rom name="bonanza bros. (europe).sms" size="262144" crc="caea8002"/>
+	</machine>
+	<machine name="bubble bobble (europe)">
+		<description>bubble bobble (europe)</description>
+		<rom name="bubble bobble (europe).sms" size="262144" crc="e843ba7e"/>
+	</machine>
+	<machine name="buggy run (europe)">
+		<description>buggy run (europe)</description>
+		<rom name="buggy run (europe).sms" size="524288" crc="b0fc4577"/>
+	</machine>
+	<machine name="california games (usa, europe)">
+		<description>california games (usa, europe)</description>
+		<rom name="california games (usa, europe).sms" size="262144" crc="ac6009a7"/>
+	</machine>
+	<machine name="captain silver (usa)">
+		<description>captain silver (usa)</description>
+		<rom name="captain silver (usa).sms" size="131072" crc="b81f6fa5"/>
+	</machine>
+	<machine name="castle of illusion starring mickey mouse (usa)">
+		<description>castle of illusion starring mickey mouse (usa)</description>
+		<rom name="castle of illusion starring mickey mouse (usa).sms" size="262144" crc="b9db4282"/>
+	</machine>
+	<machine name="columns (usa, europe)">
+		<description>columns (usa, europe)</description>
+		<rom name="columns (usa, europe).sms" size="131072" crc="665fda92"/>
+	</machine>
+	<machine name="cyborg hunter (usa, europe)">
+		<description>cyborg hunter (usa, europe)</description>
+		<rom name="cyborg hunter (usa, europe).sms" size="131072" crc="908e7524"/>
+	</machine>
+	<machine name="daffy duck in hollywood (europe) (en,fr,de,es,it)">
+		<description>daffy duck in hollywood (europe) (en,fr,de,es,it)</description>
+		<rom name="daffy duck in hollywood (europe) (en,fr,de,es,it).sms" size="524288" crc="71abef27"/>
+	</machine>
+	<machine name="danan - the jungle fighter (europe)">
+		<description>danan - the jungle fighter (europe)</description>
+		<rom name="danan - the jungle fighter (europe).sms" size="262144" crc="ae4a28d7"/>
+	</machine>
+	<machine name="deep duck trouble starring donald duck (europe)">
+		<description>deep duck trouble starring donald duck (europe)</description>
+		<rom name="deep duck trouble starring donald duck (europe).sms" size="524288" crc="42fc3a6e"/>
+	</machine>
+	<machine name="double dragon (world)">
+		<description>double dragon (world)</description>
+		<rom name="double dragon (world).sms" size="262144" crc="a55d89f3"/>
+	</machine>
+	<machine name="dragon crystal (europe)">
+		<description>dragon crystal (europe)</description>
+		<rom name="dragon crystal (europe).sms" size="131072" crc="9549fce4"/>
+	</machine>
+	<machine name="dynamite duke (europe)">
+		<description>dynamite duke (europe)</description>
+		<rom name="dynamite duke (europe).sms" size="262144" crc="07306947"/>
+	</machine>
+	<machine name="dynamite dux (europe)">
+		<description>dynamite dux (europe)</description>
+		<rom name="dynamite dux (europe).sms" size="262144" crc="0e1cc1e0"/>
+	</machine>
+	<machine name="dynamite headdy (brazil)">
+		<description>dynamite headdy (brazil)</description>
+		<rom name="dynamite headdy (brazil).sms" size="524288" crc="7db5b0fa"/>
+	</machine>
+	<machine name="enduro racer (usa, europe)">
+		<description>enduro racer (usa, europe)</description>
+		<rom name="enduro racer (usa, europe).sms" size="131072" crc="00e73541"/>
+	</machine>
+	<machine name="fantasy zone (world) (rev 2)">
+		<description>fantasy zone (world) (rev 2)</description>
+		<rom name="fantasy zone (world) (rev 2).sms" size="131072" crc="65d7e4e0"/>
+	</machine>
+	<machine name="fantasy zone ii - the tears of opa-opa (usa, europe)">
+		<description>fantasy zone ii - the tears of opa-opa (usa, europe)</description>
+		<rom name="fantasy zone ii - the tears of opa-opa (usa, europe).sms" size="262144" crc="b8b141f9"/>
+	</machine>
+	<machine name="forgotten worlds (europe)">
+		<description>forgotten worlds (europe)</description>
+		<rom name="forgotten worlds (europe).sms" size="262144" crc="38c53916"/>
+	</machine>
+	<machine name="gain ground (europe)">
+		<description>gain ground (europe)</description>
+		<rom name="gain ground (europe).sms" size="262144" crc="3ec5e627"/>
+	</machine>
+	<machine name="galactic protector (japan)">
+		<description>galactic protector (japan)</description>
+		<rom name="galactic protector (japan).sms" size="131072" crc="a6fa42d0"/>
+	</machine>
+	<machine name="gangster town (usa, europe)">
+		<description>gangster town (usa, europe)</description>
+		<rom name="gangster town (usa, europe).sms" size="131072" crc="5fc74d2a"/>
+	</machine>
+	<machine name="gauntlet (europe)">
+		<description>gauntlet (europe)</description>
+		<rom name="gauntlet (europe).sms" size="131072" crc="d9190956"/>
+	</machine>
+	<machine name="ghouls'n ghosts (usa, europe)">
+		<description>ghouls'n ghosts (usa, europe)</description>
+		<rom name="ghouls'n ghosts (usa, europe).sms" size="262144" crc="7a92eba6"/>
+	</machine>
+	<machine name="golden axe warrior (usa, europe)">
+		<description>golden axe warrior (usa, europe)</description>
+		<rom name="golden axe warrior (usa, europe).sms" size="262144" crc="c7ded988"/>
+	</machine>
+	<machine name="golvellius (usa, europe)">
+		<description>golvellius (usa, europe)</description>
+		<rom name="golvellius (usa, europe).sms" size="262144" crc="a51376fe"/>
+	</machine>
+	<machine name="hoshi wo sagasite... (japan)">
+		<description>hoshi wo sagasite... (japan)</description>
+		<rom name="hoshi wo sagasite... (japan).sms" size="262144" crc="955a009e"/>
+	</machine>
+	<machine name="impossible mission (europe)">
+		<description>impossible mission (europe)</description>
+		<rom name="impossible mission (europe).sms" size="131072" crc="64d6af3b"/>
+	</machine>
+	<machine name="kenseiden (usa, europe)">
+		<description>kenseiden (usa, europe)</description>
+		<rom name="kenseiden (usa, europe).sms" size="262144" crc="516ed32e"/>
+	</machine>
+	<machine name="king's quest - quest for the crown (usa)">
+		<description>king's quest - quest for the crown (usa)</description>
+		<rom name="king's quest - quest for the crown (usa).sms" size="131072" crc="f8d33bc4"/>
+	</machine>
+	<machine name="land of illusion starring mickey mouse (europe)">
+		<description>land of illusion starring mickey mouse (europe)</description>
+		<rom name="land of illusion starring mickey mouse (europe).sms" size="524288" crc="24e97200"/>
+	</machine>
+	<machine name="laser ghost (europe)">
+		<description>laser ghost (europe)</description>
+		<rom name="laser ghost (europe).sms" size="262144" crc="0ca95637"/>
+	</machine>
+	<machine name="lemmings (europe)">
+		<description>lemmings (europe)</description>
+		<rom name="lemmings (europe).sms" size="262144" crc="f369b2d8"/>
+	</machine>
+	<machine name="lord of the sword (usa, europe)">
+		<description>lord of the sword (usa, europe)</description>
+		<rom name="lord of the sword (usa, europe).sms" size="262144" crc="e8511b08"/>
+	</machine>
+	<machine name="lucky dime caper starring donald duck, the (europe)">
+		<description>lucky dime caper starring donald duck, the (europe)</description>
+		<rom name="lucky dime caper starring donald duck, the (europe).sms" size="262144" crc="a1710f13"/>
+	</machine>
+	<machine name="marble madness (europe)">
+		<description>marble madness (europe)</description>
+		<rom name="marble madness (europe).sms" size="262144" crc="bf6f3e5f"/>
+	</machine>
+	<machine name="master of darkness (europe)">
+		<description>master of darkness (europe)</description>
+		<rom name="master of darkness (europe).sms" size="262144" crc="96fb4d4b"/>
+	</machine>
+	<machine name="michael jackson's moonwalker (usa, europe)">
+		<description>michael jackson's moonwalker (usa, europe)</description>
+		<rom name="michael jackson's moonwalker (usa, europe).sms" size="262144" crc="56cc906b"/>
+	</machine>
+	<machine name="miracle warriors - seal of the dark lord (usa, europe)">
+		<description>miracle warriors - seal of the dark lord (usa, europe)</description>
+		<rom name="miracle warriors - seal of the dark lord (usa, europe).sms" size="262144" crc="0e333b6e"/>
+	</machine>
+	<machine name="montezuma's revenge featuring panama joe (usa)">
+		<description>montezuma's revenge featuring panama joe (usa)</description>
+		<rom name="montezuma's revenge featuring panama joe (usa).sms" size="131072" crc="82fda895"/>
+	</machine>
+	<machine name="new zealand story, the (europe)">
+		<description>new zealand story, the (europe)</description>
+		<rom name="new zealand story, the (europe).sms" size="262144" crc="c660ff34"/>
+	</machine>
+	<machine name="ninja gaiden (europe)">
+		<description>ninja gaiden (europe)</description>
+		<rom name="ninja gaiden (europe).sms" size="262144" crc="1b1d8cc2"/>
+	</machine>
+	<machine name="ninja, the (usa, europe)">
+		<description>ninja, the (usa, europe)</description>
+		<rom name="ninja, the (usa, europe).sms" size="131072" crc="66a15bd9"/>
+	</machine>
+	<machine name="out run (world)">
+		<description>out run (world)</description>
+		<rom name="out run (world).sms" size="262144" crc="5589d8d2"/>
+	</machine>
+	<machine name="penguin land (usa, europe)">
+		<description>penguin land (usa, europe)</description>
+		<rom name="penguin land (usa, europe).sms" size="131072" crc="f97e9875"/>
+	</machine>
+	<machine name="phantasy star (usa, europe) (rev 3)">
+		<description>phantasy star (usa, europe) (rev 3)</description>
+		<rom name="phantasy star (usa, europe) (rev 3).sms" size="524288" crc="00bef1d7"/>
+	</machine>
+	<machine name="power strike (usa, europe)">
+		<description>power strike (usa, europe)</description>
+		<rom name="power strike (usa, europe).sms" size="131072" crc="4077efd9"/>
+	</machine>
+	<machine name="power strike ii (europe)">
+		<description>power strike ii (europe)</description>
+		<rom name="power strike ii (europe).sms" size="524288" crc="a109a6fe"/>
+	</machine>
+	<machine name="prince of persia (europe)">
+		<description>prince of persia (europe)</description>
+		<rom name="prince of persia (europe).sms" size="262144" crc="7704287d"/>
+	</machine>
+	<machine name="psycho fox (usa, europe)">
+		<description>psycho fox (usa, europe)</description>
+		<rom name="psycho fox (usa, europe).sms" size="262144" crc="97993479"/>
+	</machine>
+	<machine name="r-type (world)">
+		<description>r-type (world)</description>
+		<rom name="r-type (world).sms" size="524288" crc="bb54b6b0"/>
+	</machine>
+	<machine name="rainbow islands - story of the bubble bobble 2 (europe)">
+		<description>rainbow islands - story of the bubble bobble 2 (europe)</description>
+		<rom name="rainbow islands - story of the bubble bobble 2 (europe).sms" size="262144" crc="c172a22c"/>
+	</machine>
+	<machine name="rambo - first blood part ii (usa)">
+		<description>rambo - first blood part ii (usa)</description>
+		<rom name="rambo - first blood part ii (usa).sms" size="131072" crc="bbda65f0"/>
+	</machine>
+	<machine name="rastan (usa, europe)">
+		<description>rastan (usa, europe)</description>
+		<rom name="rastan (usa, europe).sms" size="262144" crc="c547eb1b"/>
+	</machine>
+	<machine name="reggie jackson baseball (usa)">
+		<description>reggie jackson baseball (usa)</description>
+		<rom name="reggie jackson baseball (usa).sms" size="262144" crc="6d94bb0e"/>
+	</machine>
+	<machine name="sagaia (europe)">
+		<description>sagaia (europe)</description>
+		<rom name="sagaia (europe).sms" size="262144" crc="66388128"/>
+	</machine>
+	<machine name="shanghai (usa, europe)">
+		<description>shanghai (usa, europe)</description>
+		<rom name="shanghai (usa, europe).sms" size="131072" crc="aab67ec3"/>
+	</machine>
+	<machine name="shinobi (usa, europe)">
+		<description>shinobi (usa, europe)</description>
+		<rom name="shinobi (usa, europe).sms" size="262144" crc="0c6fac4e"/>
+	</machine>
+	<machine name="slap shot (usa)">
+		<description>slap shot (usa)</description>
+		<rom name="slap shot (usa).sms" size="262144" crc="702c3e98"/>
+	</machine>
+	<machine name="smurfs, the (europe) (en,fr,de,es)">
+		<description>smurfs, the (europe) (en,fr,de,es)</description>
+		<rom name="smurfs, the (europe) (en,fr,de,es).sms" size="262144" crc="3e63768a"/>
+	</machine>
+	<machine name="solomon no kagi - oujo rihita no namida (japan)">
+		<description>solomon no kagi - oujo rihita no namida (japan)</description>
+		<rom name="solomon no kagi - oujo rihita no namida (japan).sms" size="131072" crc="11645549"/>
+	</machine>
+	<machine name="sonic chaos (europe)">
+		<description>sonic chaos (europe)</description>
+		<rom name="sonic chaos (europe).sms" size="524288" crc="aedf3bdf"/>
+	</machine>
+	<machine name="sonic the hedgehog (usa, europe)">
+		<description>sonic the hedgehog (usa, europe)</description>
+		<rom name="sonic the hedgehog (usa, europe).sms" size="262144" crc="b519e833"/>
+	</machine>
+	<machine name="sonic the hedgehog 2 (europe) (rev 1)">
+		<description>sonic the hedgehog 2 (europe) (rev 1)</description>
+		<rom name="sonic the hedgehog 2 (europe) (rev 1).sms" size="524288" crc="d6f2bfca"/>
+	</machine>
+	<machine name="space harrier (japan, usa)">
+		<description>space harrier (japan, usa)</description>
+		<rom name="space harrier (japan, usa).sms" size="262144" crc="beddf80e"/>
+	</machine>
+	<machine name="special criminal investigation (europe)">
+		<description>special criminal investigation (europe)</description>
+		<rom name="special criminal investigation (europe).sms" size="262144" crc="fa8e4ca0"/>
+	</machine>
+	<machine name="speedball 2 (europe)">
+		<description>speedball 2 (europe)</description>
+		<rom name="speedball 2 (europe).sms" size="262144" crc="0c7366a0"/>
+	</machine>
+	<machine name="spellcaster (usa, europe)">
+		<description>spellcaster (usa, europe)</description>
+		<rom name="spellcaster (usa, europe).sms" size="524288" crc="4752cae7"/>
+	</machine>
+	<machine name="sukeban deka ii - shoujo tekkamen densetsu (japan)">
+		<description>sukeban deka ii - shoujo tekkamen densetsu (japan)</description>
+		<rom name="sukeban deka ii - shoujo tekkamen densetsu (japan).sms" size="131072" crc="b13df647"/>
+	</machine>
+	<machine name="time soldiers (usa, europe)">
+		<description>time soldiers (usa, europe)</description>
+		<rom name="time soldiers (usa, europe).sms" size="262144" crc="51bd14be"/>
+	</machine>
+	<machine name="transbot (usa, europe)">
+		<description>transbot (usa, europe)</description>
+		<rom name="transbot (usa, europe).sms" size="32768" crc="4bc42857"/>
+	</machine>
+	<machine name="ultima iv - quest of the avatar (europe)">
+		<description>ultima iv - quest of the avatar (europe)</description>
+		<rom name="ultima iv - quest of the avatar (europe).sms" size="524288" crc="b52d60c8"/>
+	</machine>
+	<machine name="wanted (usa, europe)">
+		<description>wanted (usa, europe)</description>
+		<rom name="wanted (usa, europe).sms" size="131072" crc="5359762d"/>
+	</machine>
+	<machine name="wimbledon ii (europe)">
+		<description>wimbledon ii (europe)</description>
+		<rom name="wimbledon ii (europe).sms" size="262144" crc="7f3afe58"/>
+	</machine>
+	<machine name="wonder boy iii - the dragon's trap (usa, europe)">
+		<description>wonder boy iii - the dragon's trap (usa, europe)</description>
+		<rom name="wonder boy iii - the dragon's trap (usa, europe).sms" size="262144" crc="679e1676"/>
+	</machine>
+	<machine name="wonder boy in monster land (usa, europe)">
+		<description>wonder boy in monster land (usa, europe)</description>
+		<rom name="wonder boy in monster land (usa, europe).sms" size="262144" crc="8cbef0c1"/>
+	</machine>
+	<machine name="ys - the vanished omens (usa, europe)">
+		<description>ys - the vanished omens (usa, europe)</description>
+		<rom name="ys - the vanished omens (usa, europe).sms" size="262144" crc="b33e2827"/>
+	</machine>
+	<machine name="zillion (usa) (rev 1)">
+		<description>zillion (usa) (rev 1)</description>
+		<rom name="zillion (usa) (rev 1).sms" size="131072" crc="5718762c"/>
+	</machine>
+	<machine name="zillion ii - the tri formation (world)">
+		<description>zillion ii - the tri formation (world)</description>
+		<rom name="zillion ii - the tri formation (world).sms" size="131072" crc="2f2e3bc9"/>
+	</machine>
+</datafile>

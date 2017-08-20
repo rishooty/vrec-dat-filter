@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki SuperGrafx</name>
+		<description>Recommended SuperGrafx games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<clrmamepro/>
+	</header>
+	<machine name="1941 - counter attack (japan)">
+		<description>1941 - counter attack (japan)</description>
+		<rom name="1941 - counter attack (japan).pce" size="1048576" crc="8c4588e2"/>
+	</machine>
+	<machine name="daimakai mura (japan)">
+		<description>daimakai mura (japan)</description>
+		<rom name="daimakai mura (japan).pce" size="1048576" crc="b486a8ed"/>
+	</machine>
+</datafile>

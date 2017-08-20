@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki MSX2</name>
+		<description>Recommended MSX2 games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="aleste (japan)">
+		<description>aleste (japan)</description>
+		<rom name="aleste (japan).rom" size="262144" crc="c29edd84"/>
+	</machine>
+	<machine name="ashguine story ii - kokuu no gajou (japan)">
+		<description>ashguine story ii - kokuu no gajou (japan)</description>
+		<rom name="ashguine story ii - kokuu no gajou (japan).rom" size="262144" crc="47a82d74"/>
+	</machine>
+	<machine name="dragon slayer iv - drasle family (japan)">
+		<description>dragon slayer iv - drasle family (japan)</description>
+		<rom name="dragon slayer iv - drasle family (japan).rom" size="262144" crc="98095852"/>
+	</machine>
+	<machine name="ganbare goemon! - karakuri douchuu (japan)">
+		<description>ganbare goemon! - karakuri douchuu (japan)</description>
+		<rom name="ganbare goemon! - karakuri douchuu (japan).rom" size="131072" crc="40e53ea3"/>
+	</machine>
+	<machine name="hai no majutsushi (japan)">
+		<description>hai no majutsushi (japan)</description>
+		<rom name="hai no majutsushi (japan).rom" size="131072" crc="e0e72736"/>
+	</machine>
+	<machine name="hinotori - houou hen (japan)">
+		<description>hinotori - houou hen (japan)</description>
+		<rom name="hinotori - houou hen (japan).rom" size="131072" crc="3ab5ae57"/>
+	</machine>
+	<machine name="king kong 2 - yomigaeru densetsu (japan)">
+		<description>king kong 2 - yomigaeru densetsu (japan)</description>
+		<rom name="king kong 2 - yomigaeru densetsu (japan).rom" size="131072" crc="23b78a2d"/>
+	</machine>
+	<machine name="metal gear (europe)">
+		<description>metal gear (europe)</description>
+		<rom name="metal gear (europe).rom" size="131072" crc="e85c5731"/>
+	</machine>
+	<machine name="metal gear 2 - solid snake (japan)">
+		<description>metal gear 2 - solid snake (japan)</description>
+		<rom name="metal gear 2 - solid snake (japan).rom" size="524288" crc="18b1f34b"/>
+	</machine>
+	<machine name="quarth (japan)">
+		<description>quarth (japan)</description>
+		<rom name="quarth (japan).rom" size="131072" crc="a0014e7f"/>
+	</machine>
+	<machine name="rastan saga (japan)">
+		<description>rastan saga (japan)</description>
+		<rom name="rastan saga (japan).rom" size="262144" crc="84461e73"/>
+	</machine>
+	<machine name="space manbow (japan)">
+		<description>space manbow (japan)</description>
+		<rom name="space manbow (japan).rom" size="262144" crc="27405eed"/>
+	</machine>
+	<machine name="treasure of usas, the (japan, europe)">
+		<description>treasure of usas, the (japan, europe)</description>
+		<rom name="treasure of usas, the (japan, europe).rom" size="131072" crc="30396650"/>
+	</machine>
+	<machine name="vampire killer (japan, europe)">
+		<description>vampire killer (japan, europe)</description>
+		<rom name="vampire killer (japan, europe).rom" size="131072" crc="5953d084"/>
+	</machine>
+</datafile>

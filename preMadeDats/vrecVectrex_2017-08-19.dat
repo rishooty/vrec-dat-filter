@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Vectrex</name>
+		<description>Recommended Vectrex games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="3d mine storm (usa)">
+		<description>3d mine storm (usa)</description>
+		<rom name="3d mine storm (usa).vec" size="8192" crc="b2313487"/>
+	</machine>
+	<machine name="all good things by john dondzila (2000) (pd)">
+		<description>all good things by john dondzila (2000) (pd)</description>
+		<rom name="all good things by john dondzila (2000) (pd).bin" size="16384" crc="e98ab5a2"/>
+	</machine>
+	<machine name="bedlam (usa, europe)">
+		<description>bedlam (usa, europe)</description>
+		<rom name="bedlam (usa, europe).vec" size="4096" crc="a2fa649b"/>
+	</machine>
+	<machine name="clean sweep (world)">
+		<description>clean sweep (world)</description>
+		<rom name="clean sweep (world).vec" size="4096" crc="f1b1de78"/>
+	</machine>
+	<machine name="cosmic chasm (world)">
+		<description>cosmic chasm (world)</description>
+		<rom name="cosmic chasm (world).vec" size="4096" crc="6c1afa52"/>
+	</machine>
+	<machine name="moonlander">
+		<description>moonlander</description>
+		<rom name="moonlander.bin" size="32768" crc="8617c304"/>
+	</machine>
+	<machine name="polar rescue (usa)">
+		<description>polar rescue (usa)</description>
+		<rom name="polar rescue (usa).vec" size="8192" crc="a7471784"/>
+	</machine>
+	<machine name="pole position (usa) (a00ed3d6)">
+		<description>pole position (usa) (a00ed3d6)</description>
+		<rom name="pole position (usa) (a00ed3d6).vec" size="8192" crc="a00ed3d6"/>
+	</machine>
+	<machine name="rip off (world)">
+		<description>rip off (world)</description>
+		<rom name="rip off (world).vec" size="4096" crc="34a98132"/>
+	</machine>
+	<machine name="scramble (usa, europe)">
+		<description>scramble (usa, europe)</description>
+		<rom name="scramble (usa, europe).vec" size="4096" crc="707c8ffe"/>
+	</machine>
+	<machine name="spacefrenzy.bin">
+		<description>spacefrenzy.bin</description>
+		<rom name="spacefrenzy.bin" size="27129" crc="4d05fda8"/>
+	</machine>
+	<machine name="spike (usa, europe)">
+		<description>spike (usa, europe)</description>
+		<rom name="spike (usa, europe).vec" size="8192" crc="62a61843"/>
+	</machine>
+	<machine name="spike hoppin' by john dondzila (1997) (pd)">
+		<description>spike hoppin' by john dondzila (1997) (pd)</description>
+		<rom name="spike hoppin' by john dondzila (1997) (pd).bin" size="16384" crc="1c6b030e"/>
+	</machine>
+	<machine name="star trek - the motion picture (usa)">
+		<description>star trek - the motion picture (usa)</description>
+		<rom name="star trek - the motion picture (usa).vec" size="4096" crc="3768d8c3"/>
+	</machine>
+	<machine name="thrust.bin">
+		<description>thrust.bin</description>
+		<rom name="thrust.bin" size="32497" crc="569b50e7"/>
+	</machine>
+	<machine name="vecmania part 1 by john dondzila (1999) (pd)">
+		<description>vecmania part 1 by john dondzila (1999) (pd)</description>
+		<rom name="vecmania part 1 by john dondzila (1999) (pd).bin" size="32768" crc="0eeb4805"/>
+	</machine>
+	<machine name="vecmania part 2 by john dondzila (1999) (pd)">
+		<description>vecmania part 2 by john dondzila (1999) (pd)</description>
+		<rom name="vecmania part 2 by john dondzila (1999) (pd).bin" size="32768" crc="8c915c4d"/>
+	</machine>
+	<machine name="vector21.bin">
+		<description>vector21.bin</description>
+		<rom name="vector21.bin" size="12289" crc="9d47924b"/>
+	</machine>
+</datafile>

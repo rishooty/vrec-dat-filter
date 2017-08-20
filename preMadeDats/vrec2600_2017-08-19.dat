@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Atari 2600</name>
+		<description>Recommended 2600 games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="adventure (usa)">
+		<description>adventure (usa)</description>
+		<rom name="adventure (usa).a26" size="4096" crc="a6db4b3a"/>
+	</machine>
+	<machine name="asteroids (usa)">
+		<description>asteroids (usa)</description>
+		<rom name="asteroids (usa).a26" size="8192" crc="c7d64c94"/>
+	</machine>
+	<machine name="atlantis (usa)">
+		<description>atlantis (usa)</description>
+		<rom name="atlantis (usa).a26" size="4096" crc="92560498"/>
+	</machine>
+	<machine name="berzerk (usa)">
+		<description>berzerk (usa)</description>
+		<rom name="berzerk (usa).a26" size="4096" crc="2e8b4b5f"/>
+	</machine>
+	<machine name="centipede (usa)">
+		<description>centipede (usa)</description>
+		<rom name="centipede (usa).a26" size="8192" crc="77396102"/>
+	</machine>
+	<machine name="chopper command (usa)">
+		<description>chopper command (usa)</description>
+		<rom name="chopper command (usa).a26" size="4096" crc="1dfa64df"/>
+	</machine>
+	<machine name="combat ~ tank-plus (usa)">
+		<description>combat ~ tank-plus (usa)</description>
+		<rom name="combat ~ tank-plus (usa).a26" size="2048" crc="9c326a97"/>
+	</machine>
+	<machine name="demon attack (usa) (rev 1)">
+		<description>demon attack (usa) (rev 1)</description>
+		<rom name="demon attack (usa) (rev 1).a26" size="4096" crc="31c9df5e"/>
+	</machine>
+	<machine name="dig dug (usa)">
+		<description>dig dug (usa)</description>
+		<rom name="dig dug (usa).a26" size="16384" crc="ee7b80d1"/>
+	</machine>
+	<machine name="donkey kong (usa)">
+		<description>donkey kong (usa)</description>
+		<rom name="donkey kong (usa).a26" size="4096" crc="f331b069"/>
+	</machine>
+	<machine name="dragonstomper (usa)">
+		<description>dragonstomper (usa)</description>
+		<rom name="dragonstomper (usa).a26" size="25344" crc="291f7f92"/>
+	</machine>
+	<machine name="e.t. - the extra-terrestrial (usa)">
+		<description>e.t. - the extra-terrestrial (usa)</description>
+		<rom name="e.t. - the extra-terrestrial (usa).a26" size="8192" crc="6d0a475f"/>
+	</machine>
+	<machine name="enduro (usa)">
+		<description>enduro (usa)</description>
+		<rom name="enduro (usa).a26" size="4096" crc="2ef17b2e"/>
+	</machine>
+	<machine name="escape from the mindmaster (usa)">
+		<description>escape from the mindmaster (usa)</description>
+		<rom name="escape from the mindmaster (usa).a26" size="33792" crc="fd0c8bfc"/>
+	</machine>
+	<machine name="fast food (usa)">
+		<description>fast food (usa)</description>
+		<rom name="fast food (usa).a26" size="4096" crc="62388455"/>
+	</machine>
+	<machine name="frogger (usa)">
+		<description>frogger (usa)</description>
+		<rom name="frogger (usa).a26" size="4096" crc="f5e1af92"/>
+	</machine>
+	<machine name="frostbite (usa)">
+		<description>frostbite (usa)</description>
+		<rom name="frostbite (usa).a26" size="4096" crc="b61be7a3"/>
+	</machine>
+	<machine name="h.e.r.o. (usa)">
+		<description>h.e.r.o. (usa)</description>
+		<rom name="h.e.r.o. (usa).a26" size="8192" crc="721e95b7"/>
+	</machine>
+	<machine name="halo2600_final">
+		<description>halo2600_final</description>
+		<rom name="halo2600_final.bin" size="4096" crc="3978a823"/>
+	</machine>
+	<machine name="haunted house (usa)">
+		<description>haunted house (usa)</description>
+		<rom name="haunted house (usa).a26" size="4096" crc="aa62d961"/>
+	</machine>
+	<machine name="jawbreaker (usa)">
+		<description>jawbreaker (usa)</description>
+		<rom name="jawbreaker (usa).a26" size="4096" crc="fc11bf67"/>
+	</machine>
+	<machine name="joust (usa)">
+		<description>joust (usa)</description>
+		<rom name="joust (usa).a26" size="8192" crc="a07b3304"/>
+	</machine>
+	<machine name="jr. pac-man (usa)">
+		<description>jr. pac-man (usa)</description>
+		<rom name="jr. pac-man (usa).a26" size="16384" crc="5c345bac"/>
+	</machine>
+	<machine name="jungle hunt (usa)">
+		<description>jungle hunt (usa)</description>
+		<rom name="jungle hunt (usa).a26" size="8192" crc="9c3e8734"/>
+	</machine>
+	<machine name="kaboom! (usa)">
+		<description>kaboom! (usa)</description>
+		<rom name="kaboom! (usa).a26" size="2048" crc="813f00f6"/>
+	</machine>
+	<machine name="kangaroo (usa)">
+		<description>kangaroo (usa)</description>
+		<rom name="kangaroo (usa).a26" size="8192" crc="b9ab57e6"/>
+	</machine>
+	<machine name="keystone kapers (usa)">
+		<description>keystone kapers (usa)</description>
+		<rom name="keystone kapers (usa).a26" size="4096" crc="3e55f3a1"/>
+	</machine>
+	<machine name="mario bros. (usa)">
+		<description>mario bros. (usa)</description>
+		<rom name="mario bros. (usa).a26" size="8192" crc="8fbf7e90"/>
+	</machine>
+	<machine name="millipede (usa)">
+		<description>millipede (usa)</description>
+		<rom name="millipede (usa).a26" size="16384" crc="ccc82dd0"/>
+	</machine>
+	<machine name="missile command (usa)">
+		<description>missile command (usa)</description>
+		<rom name="missile command (usa).a26" size="4096" crc="cff14904"/>
+	</machine>
+	<machine name="montezuma's revenge - featuring panama joe (usa)">
+		<description>montezuma's revenge - featuring panama joe (usa)</description>
+		<rom name="montezuma's revenge - featuring panama joe (usa).a26" size="8192" crc="e680a1c9"/>
+	</machine>
+	<machine name="official frogger, the (usa)">
+		<description>official frogger, the (usa)</description>
+		<rom name="official frogger, the (usa).a26" size="8448" crc="1228e48c"/>
+	</machine>
+	<machine name="pengo (usa)">
+		<description>pengo (usa)</description>
+		<rom name="pengo (usa).a26" size="8192" crc="7667e739"/>
+	</machine>
+	<machine name="pitfall ii - lost caverns (usa)">
+		<description>pitfall ii - lost caverns (usa)</description>
+		<rom name="pitfall ii - lost caverns (usa).a26" size="10495" crc="097ce7ad"/>
+	</machine>
+	<machine name="pitfall! - pitfall harry's jungle adventure (usa)">
+		<description>pitfall! - pitfall harry's jungle adventure (usa)</description>
+		<rom name="pitfall! - pitfall harry's jungle adventure (usa).a26" size="4096" crc="42ad47bf"/>
+	</machine>
+	<machine name="plaque attack (usa)">
+		<description>plaque attack (usa)</description>
+		<rom name="plaque attack (usa).a26" size="4096" crc="d5a5eb9e"/>
+	</machine>
+	<machine name="pressure cooker (usa)">
+		<description>pressure cooker (usa)</description>
+		<rom name="pressure cooker (usa).a26" size="8192" crc="ccf597d8"/>
+	</machine>
+	<machine name="princessrescue_final_ntsc">
+		<description>princessrescue_final_ntsc</description>
+		<rom name="princessrescue_final_ntsc.bin" size="32768" crc="560dac0c"/>
+	</machine>
+	<machine name="q-bert (usa)">
+		<description>q-bert (usa)</description>
+		<rom name="q-bert (usa).a26" size="4096" crc="54142e3e"/>
+	</machine>
+	<machine name="q-bert's qubes (usa)">
+		<description>q-bert's qubes (usa)</description>
+		<rom name="q-bert's qubes (usa).a26" size="8192" crc="d9f499c5"/>
+	</machine>
+	<machine name="river raid (usa)">
+		<description>river raid (usa)</description>
+		<rom name="river raid (usa).a26" size="4096" crc="c3eb7e1e"/>
+	</machine>
+	<machine name="solaris (usa)">
+		<description>solaris (usa)</description>
+		<rom name="solaris (usa).a26" size="16384" crc="2b87850e"/>
+	</machine>
+	<machine name="space invaders (usa)">
+		<description>space invaders (usa)</description>
+		<rom name="space invaders (usa).a26" size="4096" crc="a6e867b3"/>
+	</machine>
+	<machine name="tapper (usa)">
+		<description>tapper (usa)</description>
+		<rom name="tapper (usa).a26" size="8192" crc="d28afb2c"/>
+	</machine>
+	<machine name="vanguard (usa)">
+		<description>vanguard (usa)</description>
+		<rom name="vanguard (usa).a26" size="8192" crc="c4bec521"/>
+	</machine>
+	<machine name="video olympics - pong sports (usa)">
+		<description>video olympics - pong sports (usa)</description>
+		<rom name="video olympics - pong sports (usa).a26" size="2048" crc="e4bc89c4"/>
+	</machine>
+	<machine name="yars' revenge (usa)">
+		<description>yars' revenge (usa)</description>
+		<rom name="yars' revenge (usa).a26" size="4096" crc="dfa1c825"/>
+	</machine>
+</datafile>

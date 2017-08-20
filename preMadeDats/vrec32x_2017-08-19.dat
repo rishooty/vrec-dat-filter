@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Sega 32X</name>
+		<description>Recommended 32x games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="after burner complete ~ after burner (japan, usa)">
+		<description>after burner complete ~ after burner (japan, usa)</description>
+		<rom name="after burner complete ~ after burner (japan, usa).32x" size="2097152" crc="204044c4"/>
+	</machine>
+	<machine name="bc racers (usa)">
+		<description>bc racers (usa)</description>
+		<rom name="bc racers (usa).32x" size="3145728" crc="936c3d27"/>
+	</machine>
+	<machine name="blackthorne (usa)">
+		<description>blackthorne (usa)</description>
+		<rom name="blackthorne (usa).32x" size="3145728" crc="d1a60a47"/>
+	</machine>
+	<machine name="doom (japan, usa)">
+		<description>doom (japan, usa)</description>
+		<rom name="doom (japan, usa).32x" size="3145728" crc="208332fd"/>
+	</machine>
+	<machine name="knuckles' chaotix (europe)">
+		<description>knuckles' chaotix (europe)</description>
+		<rom name="knuckles' chaotix (europe).32x" size="3145728" crc="41d63572"/>
+	</machine>
+	<machine name="kolibri (usa, europe)">
+		<description>kolibri (usa, europe)</description>
+		<rom name="kolibri (usa, europe).32x" size="3145728" crc="20ca53ef"/>
+	</machine>
+	<machine name="metal head (japan, usa) (en,ja)">
+		<description>metal head (japan, usa) (en,ja)</description>
+		<rom name="metal head (japan, usa) (en,ja).32x" size="3145728" crc="ef5553ff"/>
+	</machine>
+	<machine name="mortal kombat ii (japan, usa)">
+		<description>mortal kombat ii (japan, usa)</description>
+		<rom name="mortal kombat ii (japan, usa).32x" size="4194304" crc="773c0a85"/>
+	</machine>
+	<machine name="nba jam - tournament edition (world)">
+		<description>nba jam - tournament edition (world)</description>
+		<rom name="nba jam - tournament edition (world).32x" size="4194304" crc="6b7994aa"/>
+	</machine>
+	<machine name="shadow squadron ~ stellar assault (usa, europe)">
+		<description>shadow squadron ~ stellar assault (usa, europe)</description>
+		<rom name="shadow squadron ~ stellar assault (usa, europe).32x" size="2097152" crc="60c49e4d"/>
+	</machine>
+	<machine name="space harrier (japan, usa)">
+		<description>space harrier (japan, usa)</description>
+		<rom name="space harrier (japan, usa).32x" size="2097152" crc="86e7f989"/>
+	</machine>
+	<machine name="tempo (japan, usa)">
+		<description>tempo (japan, usa)</description>
+		<rom name="tempo (japan, usa).32x" size="3145728" crc="14e5c575"/>
+	</machine>
+	<machine name="virtua fighter (japan, usa)">
+		<description>virtua fighter (japan, usa)</description>
+		<rom name="virtua fighter (japan, usa).32x" size="4194304" crc="b5de9626"/>
+	</machine>
+	<machine name="virtua racing deluxe (usa)">
+		<description>virtua racing deluxe (usa)</description>
+		<rom name="virtua racing deluxe (usa).32x" size="3145728" crc="7896b62e"/>
+	</machine>
+	<machine name="wwf wrestlemania - the arcade game (usa)">
+		<description>wwf wrestlemania - the arcade game (usa)</description>
+		<rom name="wwf wrestlemania - the arcade game (usa).32x" size="4194304" crc="61833503"/>
+	</machine>
+</datafile>

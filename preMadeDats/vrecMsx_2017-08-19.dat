@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki MSX</name>
+		<description>Recommended MSX games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="bubble bobble (korea) (unl)">
+		<description>bubble bobble (korea) (unl)</description>
+		<rom name="bubble bobble (korea) (unl).rom" size="32768" crc="6d1b1ee1"/>
+	</machine>
+	<machine name="castle excellent (japan)">
+		<description>castle excellent (japan)</description>
+		<rom name="castle excellent (japan).rom" size="32768" crc="90f38029"/>
+	</machine>
+	<machine name="comic bakery (japan)">
+		<description>comic bakery (japan)</description>
+		<rom name="comic bakery (japan).rom" size="16384" crc="a4097e41"/>
+	</machine>
+	<machine name="game master (europe)">
+		<description>game master (europe)</description>
+		<rom name="game master (europe).rom" size="16384" crc="160cfbd2"/>
+	</machine>
+	<machine name="game master ii (japan)">
+		<description>game master ii (japan)</description>
+		<rom name="game master ii (japan).rom" size="131072" crc="084c5803"/>
+	</machine>
+	<machine name="golvellius (japan)">
+		<description>golvellius (japan)</description>
+		<rom name="golvellius (japan).rom" size="131072" crc="5eac55df"/>
+	</machine>
+	<machine name="goonies, the (japan)">
+		<description>goonies, the (japan)</description>
+		<rom name="goonies, the (japan).rom" size="32768" crc="db327847"/>
+	</machine>
+	<machine name="king's valley (japan, europe)">
+		<description>king's valley (japan, europe)</description>
+		<rom name="king's valley (japan, europe).rom" size="16384" crc="dfac2125"/>
+	</machine>
+	<machine name="knightmare - majou densetsu (japan)">
+		<description>knightmare - majou densetsu (japan)</description>
+		<rom name="knightmare - majou densetsu (japan).rom" size="32768" crc="0db84205"/>
+	</machine>
+	<machine name="knightmare ii - the maze of galious (japan)">
+		<description>knightmare ii - the maze of galious (japan)</description>
+		<rom name="knightmare ii - the maze of galious (japan).rom" size="131072" crc="fe23d253"/>
+	</machine>
+	<machine name="knightmare iii - shalom (japan)">
+		<description>knightmare iii - shalom (japan)</description>
+		<rom name="knightmare iii - shalom (japan).rom" size="262144" crc="cf60fa7d"/>
+	</machine>
+	<machine name="konami's ping-pong (japan)">
+		<description>konami's ping-pong (japan)</description>
+		<rom name="konami's ping-pong (japan).rom" size="16384" crc="3f200491"/>
+	</machine>
+	<machine name="konami's tennis (japan)">
+		<description>konami's tennis (japan)</description>
+		<rom name="konami's tennis (japan).rom" size="16384" crc="61726be4"/>
+	</machine>
+	<machine name="meikyuu shinwa (japan)">
+		<description>meikyuu shinwa (japan)</description>
+		<rom name="meikyuu shinwa (japan).rom" size="131072" crc="2f8065eb"/>
+	</machine>
+	<machine name="nemesis 2 (japan, europe)">
+		<description>nemesis 2 (japan, europe)</description>
+		<rom name="nemesis 2 (japan, europe).rom" size="131072" crc="db847b2b"/>
+	</machine>
+	<machine name="nemesis 3 - the eve of destruction (japan, europe)">
+		<description>nemesis 3 - the eve of destruction (japan, europe)</description>
+		<rom name="nemesis 3 - the eve of destruction (japan, europe).rom" size="262144" crc="4b61ae91"/>
+	</machine>
+	<machine name="parodius (japan)">
+		<description>parodius (japan)</description>
+		<rom name="parodius (japan).rom" size="131072" crc="9bb308f5"/>
+	</machine>
+	<machine name="penguin adventure (japan, europe)">
+		<description>penguin adventure (japan, europe)</description>
+		<rom name="penguin adventure (japan, europe).rom" size="131072" crc="0f6418d3"/>
+	</machine>
+	<machine name="pippols (japan)">
+		<description>pippols (japan)</description>
+		<rom name="pippols (japan).rom" size="16384" crc="be6a5e19"/>
+	</machine>
+	<machine name="q-bert (japan)">
+		<description>q-bert (japan)</description>
+		<rom name="q-bert (japan).rom" size="32768" crc="0e988f0e"/>
+	</machine>
+	<machine name="salamander (japan)">
+		<description>salamander (japan)</description>
+		<rom name="salamander (japan).rom" size="131072" crc="c36f559d"/>
+	</machine>
+	<machine name="thexder (japan)">
+		<description>thexder (japan)</description>
+		<rom name="thexder (japan).rom" size="32768" crc="599aa9ac"/>
+	</machine>
+	<machine name="yie ar kung-fu (japan)">
+		<description>yie ar kung-fu (japan)</description>
+		<rom name="yie ar kung-fu (japan).rom" size="16384" crc="8a12ec4f"/>
+	</machine>
+	<machine name="yie ar kung-fu ii - the emperor yie-gah (japan)">
+		<description>yie ar kung-fu ii - the emperor yie-gah (japan)</description>
+		<rom name="yie ar kung-fu ii - the emperor yie-gah (japan).rom" size="32768" crc="d66034a9"/>
+	</machine>
+</datafile>

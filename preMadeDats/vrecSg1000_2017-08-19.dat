@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Sega SG-1000</name>
+		<description>Recommended SG-1000 games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="black onyx, the (japan)">
+		<description>black onyx, the (japan)</description>
+		<rom name="black onyx, the (japan).sg" size="32768" crc="26ecd094"/>
+	</machine>
+	<machine name="borderline (japan, europe)">
+		<description>borderline (japan, europe)</description>
+		<rom name="borderline (japan, europe).sg" size="16384" crc="0b4bca74"/>
+	</machine>
+	<machine name="dokidoki penguin land (japan)">
+		<description>dokidoki penguin land (japan)</description>
+		<rom name="dokidoki penguin land (japan).sg" size="32768" crc="346556b9"/>
+	</machine>
+	<machine name="dragon wang (japan)">
+		<description>dragon wang (japan)</description>
+		<rom name="dragon wang (japan).sg" size="32768" crc="99c3de21"/>
+	</machine>
+	<machine name="sindbad mystery (japan, europe)">
+		<description>sindbad mystery (japan, europe)</description>
+		<rom name="sindbad mystery (japan, europe).sg" size="32768" crc="01932df9"/>
+	</machine>
+	<machine name="star jacker (japan, europe) (rev 2)">
+		<description>star jacker (japan, europe) (rev 2)</description>
+		<rom name="star jacker (japan, europe) (rev 2).sg" size="32768" crc="3fe59505"/>
+	</machine>
+</datafile>

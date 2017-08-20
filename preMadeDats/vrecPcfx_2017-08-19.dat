@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki PCFX</name>
+		<description>Recommended PCFX games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="chip chan kick">
+		<description>chip chan kick</description>
+		<rom name="chip chan kick.bin" size="645732192" crc="4ca6edbc"/>
+		<rom name="chip chan kick.cue" size="1484" crc="b7c757b9"/>
+	</machine>
+	<machine name="der langrisser fx">
+		<description>der langrisser fx</description>
+		<rom name="der langrisser fx.bin" size="775880112" crc="d100052e"/>
+		<rom name="der langrisser fx.cue" size="207" crc="fd611f9a"/>
+	</machine>
+	<machine name="kishin douji zenki fx - vajura fight">
+		<description>kishin douji zenki fx - vajura fight</description>
+		<rom name="kishin douji zenki fx vajura fight.bin" size="773257632" crc="8acc456f"/>
+		<rom name="kishin douji zenki fx vajura fight.cue" size="921" crc="3c037c0a"/>
+	</machine>
+	<machine name="tyoushin heiki zeroigar">
+		<description>tyoushin heiki zeroigar</description>
+		<rom name="tyoushin heiki zeroigar.bin" size="632144688" crc="fc2a213c"/>
+		<rom name="tyoushin heiki zeroigar.cue" size="295" crc="f684a0c7"/>
+	</machine>
+</datafile>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Virtual Boy</name>
+		<description>Recommended Virtual Boy games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="3-d tetris (usa)">
+		<description>3-d tetris (usa)</description>
+		<rom name="3-d tetris (usa).vb" size="1048576" crc="bb71b522"/>
+	</machine>
+	<machine name="galactic pinball (japan, usa)">
+		<description>galactic pinball (japan, usa)</description>
+		<rom name="galactic pinball (japan, usa).vb" size="1048576" crc="c9710a36"/>
+	</machine>
+	<machine name="jack bros. (usa)">
+		<description>jack bros. (usa)</description>
+		<rom name="jack bros. (usa).vb" size="1048576" crc="a44de03c"/>
+	</machine>
+	<machine name="mario clash (japan, usa)">
+		<description>mario clash (japan, usa)</description>
+		<rom name="mario clash (japan, usa).vb" size="1048576" crc="a47de78c"/>
+	</machine>
+	<machine name="mario's tennis (japan, usa)">
+		<description>mario's tennis (japan, usa)</description>
+		<rom name="mario's tennis (japan, usa).vb" size="524288" crc="7ce7460d"/>
+	</machine>
+	<machine name="nester's funky bowling (usa)">
+		<description>nester's funky bowling (usa)</description>
+		<rom name="nester's funky bowling (usa).vb" size="2097152" crc="df4d56b4"/>
+	</machine>
+	<machine name="panic bomber (usa)">
+		<description>panic bomber (usa)</description>
+		<rom name="panic bomber (usa).vb" size="524288" crc="19bb2dfb"/>
+	</machine>
+	<machine name="red alarm (usa)">
+		<description>red alarm (usa)</description>
+		<rom name="red alarm (usa).vb" size="1048576" crc="aa10a7b4"/>
+	</machine>
+	<machine name="teleroboxer (japan, usa)">
+		<description>teleroboxer (japan, usa)</description>
+		<rom name="teleroboxer (japan, usa).vb" size="1048576" crc="36103000"/>
+	</machine>
+	<machine name="v-tetris (japan)">
+		<description>v-tetris (japan)</description>
+		<rom name="v-tetris (japan).vb" size="524288" crc="3ccb67ae"/>
+	</machine>
+	<machine name="vertical force (usa)">
+		<description>vertical force (usa)</description>
+		<rom name="vertical force (usa).vb" size="1048576" crc="4c32ba5e"/>
+	</machine>
+	<machine name="virtual boy wario land (japan, usa)">
+		<description>virtual boy wario land (japan, usa)</description>
+		<rom name="virtual boy wario land (japan, usa).vb" size="2097152" crc="133e9372"/>
+	</machine>
+	<machine name="virtual fishing (japan)">
+		<description>virtual fishing (japan)</description>
+		<rom name="virtual fishing (japan).vb" size="1048576" crc="526cc969"/>
+	</machine>
+</datafile>

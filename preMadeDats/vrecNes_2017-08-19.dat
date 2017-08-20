@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Nintendo Entertainment System</name>
+		<description>Recommended NES games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="1943 - the battle of midway (usa)">
+		<description>1943 - the battle of midway (usa)</description>
+		<rom name="1943 - the battle of midway (usa).nes" size="131088" crc="d131bf15"/>
+	</machine>
+	<machine name="abadox - the deadly inner war (usa)">
+		<description>abadox - the deadly inner war (usa)</description>
+		<rom name="abadox - the deadly inner war (usa).nes" size="262160" crc="dc87f63d"/>
+	</machine>
+	<machine name="adventure island 3 (usa)">
+		<description>adventure island 3 (usa)</description>
+		<rom name="adventure island 3 (usa).nes" size="262160" crc="952cdacf"/>
+	</machine>
+	<machine name="adventure island ii (usa)">
+		<description>adventure island ii (usa)</description>
+		<rom name="adventure island ii (usa).nes" size="262160" crc="5d8f80c7"/>
+	</machine>
+	<machine name="adventures of lolo (usa)">
+		<description>adventures of lolo (usa)</description>
+		<rom name="adventures of lolo (usa).nes" size="65552" crc="d9c4cbf7"/>
+	</machine>
+	<machine name="adventures of lolo 2 (usa)">
+		<description>adventures of lolo 2 (usa)</description>
+		<rom name="adventures of lolo 2 (usa).nes" size="65552" crc="862ab1e5"/>
+	</machine>
+	<machine name="adventures of lolo 3 (usa)">
+		<description>adventures of lolo 3 (usa)</description>
+		<rom name="adventures of lolo 3 (usa).nes" size="262160" crc="e06a060b"/>
+	</machine>
+	<machine name="adventures of rad gravity, the (usa)">
+		<description>adventures of rad gravity, the (usa)</description>
+		<rom name="adventures of rad gravity, the (usa).nes" size="262160" crc="b55d5747"/>
+	</machine>
+	<machine name="akumajou special - boku dracula-kun (japan)">
+		<description>akumajou special - boku dracula-kun (japan)</description>
+		<rom name="akumajou special - boku dracula-kun (japan).nes" size="262160" crc="f916d969"/>
+	</machine>
+	<machine name="asterix (europe) (en,fr,de,es,it)">
+		<description>asterix (europe) (en,fr,de,es,it)</description>
+		<rom name="asterix (europe) (en,fr,de,es,it).nes" size="131088" crc="de7e6767"/>
+	</machine>
+	<machine name="barker bill's trick shooting (usa)">
+		<description>barker bill's trick shooting (usa)</description>
+		<rom name="barker bill's trick shooting (usa).nes" size="196624" crc="c898e6c1"/>
+	</machine>
+	<machine name="batman - return of the joker (usa)">
+		<description>batman - return of the joker (usa)</description>
+		<rom name="batman - return of the joker (usa).nes" size="393232" crc="e14a7971"/>
+	</machine>
+	<machine name="batman - the video game (usa)">
+		<description>batman - the video game (usa)</description>
+		<rom name="batman - the video game (usa).nes" size="262160" crc="395569ec"/>
+	</machine>
+	<machine name="battlecity (japan)">
+		<description>battlecity (japan)</description>
+		<rom name="battlecity (japan).nes" size="24592" crc="f599a07e"/>
+	</machine>
+	<machine name="battletoads (usa)">
+		<description>battletoads (usa)</description>
+		<rom name="battletoads (usa).nes" size="262160" crc="ba9164e7"/>
+	</machine>
+	<machine name="battletoads-double dragon (usa)">
+		<description>battletoads-double dragon (usa)</description>
+		<rom name="battletoads-double dragon (usa).nes" size="262160" crc="53b02f3d"/>
+	</machine>
+	<machine name="bio miracle bokutte upa (japan)">
+		<description>bio miracle bokutte upa (japan)</description>
+		<rom name="bio miracle bokutte upa (japan).nes" size="262160" crc="e50ad737"/>
+	</machine>
+	<machine name="bionic commando (usa)">
+		<description>bionic commando (usa)</description>
+		<rom name="bionic commando (usa).nes" size="262160" crc="83be000c"/>
+	</machine>
+	<machine name="blades of steel (usa)">
+		<description>blades of steel (usa)</description>
+		<rom name="blades of steel (usa).nes" size="131088" crc="b9bcf910"/>
+	</machine>
+	<machine name="blaster master (usa)">
+		<description>blaster master (usa)</description>
+		<rom name="blaster master (usa).nes" size="262160" crc="52bcf64a"/>
+	</machine>
+	<machine name="bubble bobble (usa)">
+		<description>bubble bobble (usa)</description>
+		<rom name="bubble bobble (usa).nes" size="163856" crc="d3a91b41"/>
+	</machine>
+	<machine name="bucky o'hare (usa)">
+		<description>bucky o'hare (usa)</description>
+		<rom name="bucky o'hare (usa).nes" size="262160" crc="cb0de10e"/>
+	</machine>
+	<machine name="bugs bunny birthday blowout, the (usa)">
+		<description>bugs bunny birthday blowout, the (usa)</description>
+		<rom name="bugs bunny birthday blowout, the (usa).nes" size="262160" crc="38fdb7f4"/>
+	</machine>
+	<machine name="cabal (usa)">
+		<description>cabal (usa)</description>
+		<rom name="cabal (usa).nes" size="131088" crc="4d5f2eb0"/>
+	</machine>
+	<machine name="captain tsubasa vol. ii - super striker (japan)">
+		<description>captain tsubasa vol. ii - super striker (japan)</description>
+		<rom name="captain tsubasa vol. ii - super striker (japan).nes" size="393232" crc="14a366bb"/>
+	</machine>
+	<machine name="castlevania (usa) (rev a)">
+		<description>castlevania (usa) (rev a)</description>
+		<rom name="castlevania (usa) (rev a).nes" size="131088" crc="856114c8"/>
+	</machine>
+	<machine name="castlevania ii - simon's quest (usa)">
+		<description>castlevania ii - simon's quest (usa)</description>
+		<rom name="castlevania ii - simon's quest (usa).nes" size="262160" crc="a9c2c503"/>
+	</machine>
+	<machine name="castlevania iii - dracula's curse (usa)">
+		<description>castlevania iii - dracula's curse (usa)</description>
+		<rom name="castlevania iii - dracula's curse (usa).nes" size="393232" crc="7cc9c669"/>
+	</machine>
+	<machine name="chaos world (japan)">
+		<description>chaos world (japan)</description>
+		<rom name="chaos world (japan).nes" size="393232" crc="e2ae3e63"/>
+	</machine>
+	<machine name="chip 'n dale - rescue rangers (usa)">
+		<description>chip 'n dale - rescue rangers (usa)</description>
+		<rom name="chip 'n dale - rescue rangers (usa).nes" size="262160" crc="e641bd98"/>
+	</machine>
+	<machine name="chip 'n dale - rescue rangers 2 (usa)">
+		<description>chip 'n dale - rescue rangers 2 (usa)</description>
+		<rom name="chip 'n dale - rescue rangers 2 (usa).nes" size="262160" crc="91e4a289"/>
+	</machine>
+	<machine name="choujin sentai jetman (japan)">
+		<description>choujin sentai jetman (japan)</description>
+		<rom name="choujin sentai jetman (japan).nes" size="262160" crc="f899bf59"/>
+	</machine>
+	<machine name="clash at demonhead (usa)">
+		<description>clash at demonhead (usa)</description>
+		<rom name="clash at demonhead (usa).nes" size="262160" crc="ef1c8906"/>
+	</machine>
+	<machine name="cobra triangle (usa)">
+		<description>cobra triangle (usa)</description>
+		<rom name="cobra triangle (usa).nes" size="131088" crc="3802276d"/>
+	</machine>
+	<machine name="cocoron (japan)">
+		<description>cocoron (japan)</description>
+		<rom name="cocoron (japan).nes" size="262160" crc="1d6b80da"/>
+	</machine>
+	<machine name="contra (usa)">
+		<description>contra (usa)</description>
+		<rom name="contra (usa).nes" size="131088" crc="c50a8304"/>
+	</machine>
+	<machine name="cosmic epsilon (japan)">
+		<description>cosmic epsilon (japan)</description>
+		<rom name="cosmic epsilon (japan).nes" size="393232" crc="f817328a"/>
+	</machine>
+	<machine name="cowboy kid (usa)">
+		<description>cowboy kid (usa)</description>
+		<rom name="cowboy kid (usa).nes" size="524304" crc="b150ae9a"/>
+	</machine>
+	<machine name="crash 'n' the boys - street challenge (usa)">
+		<description>crash 'n' the boys - street challenge (usa)</description>
+		<rom name="crash 'n' the boys - street challenge (usa).nes" size="262160" crc="ed63ccc5"/>
+	</machine>
+	<machine name="crisis force (japan)">
+		<description>crisis force (japan)</description>
+		<rom name="crisis force (japan).nes" size="262160" crc="c4520781"/>
+	</machine>
+	<machine name="crystalis (usa)">
+		<description>crystalis (usa)</description>
+		<rom name="crystalis (usa).nes" size="393232" crc="1bd39032"/>
+	</machine>
+	<machine name="cyber stadium series - base wars (usa)">
+		<description>cyber stadium series - base wars (usa)</description>
+		<rom name="cyber stadium series - base wars (usa).nes" size="262160" crc="eed00ddf"/>
+	</machine>
+	<machine name="darkwing duck (usa)">
+		<description>darkwing duck (usa)</description>
+		<rom name="darkwing duck (usa).nes" size="262160" crc="307d0fc4"/>
+	</machine>
+	<machine name="david crane's a boy and his blob - trouble on blobolonia (usa)">
+		<description>david crane's a boy and his blob - trouble on blobolonia (usa)</description>
+		<rom name="david crane's a boy and his blob - trouble on blobolonia (usa).nes" size="262160" crc="20a9e4a2"/>
+	</machine>
+	<machine name="defender of the crown (usa)">
+		<description>defender of the crown (usa)</description>
+		<rom name="defender of the crown (usa).nes" size="262160" crc="79123682"/>
+	</machine>
+	<machine name="deja vu (usa)">
+		<description>deja vu (usa)</description>
+		<rom name="deja vu (usa).nes" size="393232" crc="4a432c5c"/>
+	</machine>
+	<machine name="destiny of an emperor (usa)">
+		<description>destiny of an emperor (usa)</description>
+		<rom name="destiny of an emperor (usa).nes" size="262160" crc="c0f73d85"/>
+	</machine>
+	<machine name="devil world (europe)">
+		<description>devil world (europe)</description>
+		<rom name="devil world (europe).nes" size="24592" crc="87e4a116"/>
+	</machine>
+	<machine name="dig dug (japan)">
+		<description>dig dug (japan)</description>
+		<rom name="dig dug (japan).nes" size="24592" crc="3ae8289a"/>
+	</machine>
+	<machine name="double dragon (usa)">
+		<description>double dragon (usa)</description>
+		<rom name="double dragon (usa).nes" size="262160" crc="62afe166"/>
+	</machine>
+	<machine name="double dragon ii - the revenge (usa) (rev a)">
+		<description>double dragon ii - the revenge (usa) (rev a)</description>
+		<rom name="double dragon ii - the revenge (usa) (rev a).nes" size="262160" crc="a0f7027d"/>
+	</machine>
+	<machine name="downtown special - kunio-kun no jidaigeki da yo zenin shuugou! (japan)">
+		<description>downtown special - kunio-kun no jidaigeki da yo zenin shuugou! (japan)</description>
+		<rom name="downtown special - kunio-kun no jidaigeki da yo zenin shuugou! (japan).nes" size="262160" crc="f6d6a014"/>
+	</machine>
+	<machine name="dr. mario (japan, usa) (rev a)">
+		<description>dr. mario (japan, usa) (rev a)</description>
+		<rom name="dr. mario (japan, usa) (rev a).nes" size="65552" crc="7623dffd"/>
+	</machine>
+	<machine name="dragon ball z - kyoushuu! saiya jin (japan)">
+		<description>dragon ball z - kyoushuu! saiya jin (japan)</description>
+		<rom name="dragon ball z - kyoushuu! saiya jin (japan).nes" size="524304" crc="62fa9f0a"/>
+	</machine>
+	<machine name="dragon ball z gaiden - saiya jin zetsumetsu keikaku (japan)">
+		<description>dragon ball z gaiden - saiya jin zetsumetsu keikaku (japan)</description>
+		<rom name="dragon ball z gaiden - saiya jin zetsumetsu keikaku (japan).nes" size="524304" crc="69ae6291"/>
+	</machine>
+	<machine name="dragon ball z ii - gekishin freeza!! (japan) (rev 1)">
+		<description>dragon ball z ii - gekishin freeza!! (japan) (rev 1)</description>
+		<rom name="dragon ball z ii - gekishin freeza!! (japan) (rev 1).nes" size="524304" crc="d396d28a"/>
+	</machine>
+	<machine name="dragon ball z iii - ressen jinzou ningen (japan)">
+		<description>dragon ball z iii - ressen jinzou ningen (japan)</description>
+		<rom name="dragon ball z iii - ressen jinzou ningen (japan).nes" size="524304" crc="a69079d4"/>
+	</machine>
+	<machine name="dragon warrior iv (usa)">
+		<description>dragon warrior iv (usa)</description>
+		<rom name="dragon warrior iv (usa).nes" size="524304" crc="f6b24806"/>
+	</machine>
+	<machine name="duck hunt (world)">
+		<description>duck hunt (world)</description>
+		<rom name="duck hunt (world).nes" size="24592" crc="4644085e"/>
+	</machine>
+	<machine name="ducktales (usa)">
+		<description>ducktales (usa)</description>
+		<rom name="ducktales (usa).nes" size="131088" crc="dcb94341"/>
+	</machine>
+	<machine name="ducktales 2 (usa)">
+		<description>ducktales 2 (usa)</description>
+		<rom name="ducktales 2 (usa).nes" size="131088" crc="40ce2fc0"/>
+	</machine>
+	<machine name="excitebike (japan, usa)">
+		<description>excitebike (japan, usa)</description>
+		<rom name="excitebike (japan, usa).nes" size="24592" crc="2bb33c69"/>
+	</machine>
+	<machine name="final fantasy (usa)">
+		<description>final fantasy (usa)</description>
+		<rom name="final fantasy (usa).nes" size="262160" crc="ab12ece6"/>
+	</machine>
+	<machine name="final fantasy ii (usa) (proto)">
+		<description>final fantasy ii (usa) (proto)</description>
+		<rom name="final fantasy ii (usa) (proto).nes" size="262160" crc="f60d282c"/>
+	</machine>
+	<machine name="final fantasy iii (japan)">
+		<description>final fantasy iii (japan)</description>
+		<rom name="final fantasy iii (japan).nes" size="524304" crc="170163f1"/>
+	</machine>
+	<machine name="fire 'n ice (usa)">
+		<description>fire 'n ice (usa)</description>
+		<rom name="fire 'n ice (usa).nes" size="262160" crc="ffa7c11c"/>
+	</machine>
+	<machine name="fire emblem - ankoku ryuu to hikari no tsurugi (japan)">
+		<description>fire emblem - ankoku ryuu to hikari no tsurugi (japan)</description>
+		<rom name="fire emblem - ankoku ryuu to hikari no tsurugi (japan).nes" size="393232" crc="3452e97c"/>
+	</machine>
+	<machine name="fire emblem gaiden (japan)">
+		<description>fire emblem gaiden (japan)</description>
+		<rom name="fire emblem gaiden (japan).nes" size="393232" crc="0a187cb4"/>
+	</machine>
+	<machine name="formula 1 sensation (europe)">
+		<description>formula 1 sensation (europe)</description>
+		<rom name="formula 1 sensation (europe).nes" size="262160" crc="3bb61b98"/>
+	</machine>
+	<machine name="fuzzical fighter (japan)">
+		<description>fuzzical fighter (japan)</description>
+		<rom name="fuzzical fighter (japan).nes" size="262160" crc="74b7e648"/>
+	</machine>
+	<machine name="g.i. joe - a real american hero (usa)">
+		<description>g.i. joe - a real american hero (usa)</description>
+		<rom name="g.i. joe - a real american hero (usa).nes" size="393232" crc="394fd25a"/>
+	</machine>
+	<machine name="g.i. joe - the atlantis factor (usa)">
+		<description>g.i. joe - the atlantis factor (usa)</description>
+		<rom name="g.i. joe - the atlantis factor (usa).nes" size="393232" crc="a8efac13"/>
+	</machine>
+	<machine name="gargoyle's quest ii (usa)">
+		<description>gargoyle's quest ii (usa)</description>
+		<rom name="gargoyle's quest ii (usa).nes" size="262160" crc="da7a9f89"/>
+	</machine>
+	<machine name="getsufuu maden (japan)">
+		<description>getsufuu maden (japan)</description>
+		<rom name="getsufuu maden (japan).nes" size="262160" crc="71ff1e76"/>
+	</machine>
+	<machine name="ghosts'n goblins (usa)">
+		<description>ghosts'n goblins (usa)</description>
+		<rom name="ghosts'n goblins (usa).nes" size="131088" crc="87ed54aa"/>
+	</machine>
+	<machine name="golgo 13 - top secret episode (usa)">
+		<description>golgo 13 - top secret episode (usa)</description>
+		<rom name="golgo 13 - top secret episode (usa).nes" size="262160" crc="9881d1b4"/>
+	</machine>
+	<machine name="goonies ii, the (usa)">
+		<description>goonies ii, the (usa)</description>
+		<rom name="goonies ii, the (usa).nes" size="131088" crc="aa9ca482"/>
+	</machine>
+	<machine name="gradius (usa)">
+		<description>gradius (usa)</description>
+		<rom name="gradius (usa).nes" size="65552" crc="7a269942"/>
+	</machine>
+	<machine name="gradius ii (japan)">
+		<description>gradius ii (japan)</description>
+		<rom name="gradius ii (japan).nes" size="262160" crc="d213aa0d"/>
+	</machine>
+	<machine name="guardian legend, the (usa)">
+		<description>guardian legend, the (usa)</description>
+		<rom name="guardian legend, the (usa).nes" size="131088" crc="c94ac75f"/>
+	</machine>
+	<machine name="gyruss (usa)">
+		<description>gyruss (usa)</description>
+		<rom name="gyruss (usa).nes" size="65552" crc="526ad690"/>
+	</machine>
+	<machine name="heavy barrel (usa)">
+		<description>heavy barrel (usa)</description>
+		<rom name="heavy barrel (usa).nes" size="262160" crc="1e79b8a6"/>
+	</machine>
+	<machine name="heracles no eikou ii - titan no metsubou (japan)">
+		<description>heracles no eikou ii - titan no metsubou (japan)</description>
+		<rom name="heracles no eikou ii - titan no metsubou (japan).nes" size="262160" crc="dfd9a811"/>
+	</machine>
+	<machine name="holy diver (japan)">
+		<description>holy diver (japan)</description>
+		<rom name="holy diver (japan).nes" size="262160" crc="c4cf0e8e"/>
+	</machine>
+	<machine name="hudson's adventure island (usa)">
+		<description>hudson's adventure island (usa)</description>
+		<rom name="hudson's adventure island (usa).nes" size="65552" crc="b78c09a2"/>
+	</machine>
+	<machine name="ironsword - wizards &amp; warriors ii (usa)">
+		<description>ironsword - wizards &amp; warriors ii (usa)</description>
+		<rom name="ironsword - wizards &amp; warriors ii (usa).nes" size="262160" crc="be2e7055"/>
+	</machine>
+	<machine name="jackal (usa)">
+		<description>jackal (usa)</description>
+		<rom name="jackal (usa).nes" size="131088" crc="2e52d091"/>
+	</machine>
+	<machine name="jackie chan's action kung fu (usa)">
+		<description>jackie chan's action kung fu (usa)</description>
+		<rom name="jackie chan's action kung fu (usa).nes" size="262160" crc="6f371f16"/>
+	</machine>
+	<machine name="journey to silius (usa)">
+		<description>journey to silius (usa)</description>
+		<rom name="journey to silius (usa).nes" size="262160" crc="8f77cce0"/>
+	</machine>
+	<machine name="joy mech fight (japan)">
+		<description>joy mech fight (japan)</description>
+		<rom name="joy mech fight (japan).nes" size="524304" crc="d6c81006"/>
+	</machine>
+	<machine name="kabuki - quantum fighter (usa)">
+		<description>kabuki - quantum fighter (usa)</description>
+		<rom name="kabuki - quantum fighter (usa).nes" size="262160" crc="5ee7a400"/>
+	</machine>
+	<machine name="kaijuu monogatari (japan)">
+		<description>kaijuu monogatari (japan)</description>
+		<rom name="kaijuu monogatari (japan).nes" size="262160" crc="ba99e90f"/>
+	</machine>
+	<machine name="kick master (usa)">
+		<description>kick master (usa)</description>
+		<rom name="kick master (usa).nes" size="262160" crc="7b978bac"/>
+	</machine>
+	<machine name="kickle cubicle (usa)">
+		<description>kickle cubicle (usa)</description>
+		<rom name="kickle cubicle (usa).nes" size="262160" crc="e783d470"/>
+	</machine>
+	<machine name="kid icarus (usa, europe)">
+		<description>kid icarus (usa, europe)</description>
+		<rom name="kid icarus (usa, europe).nes" size="131088" crc="0b30e036"/>
+	</machine>
+	<machine name="kirby's adventure (usa) (rev a)">
+		<description>kirby's adventure (usa) (rev a)</description>
+		<rom name="kirby's adventure (usa) (rev a).nes" size="786448" crc="9efd5757"/>
+	</machine>
+	<machine name="kiwi kraze - a bird-brained adventure! (usa)">
+		<description>kiwi kraze - a bird-brained adventure! (usa)</description>
+		<rom name="kiwi kraze - a bird-brained adventure! (usa).nes" size="262160" crc="8b34e78f"/>
+	</machine>
+	<machine name="kyonshiizu 2 (japan)">
+		<description>kyonshiizu 2 (japan)</description>
+		<rom name="kyonshiizu 2 (japan).nes" size="262160" crc="af17b4e0"/>
+	</machine>
+	<machine name="lagrange point (japan)">
+		<description>lagrange point (japan)</description>
+		<rom name="lagrange point (japan).nes" size="524304" crc="ead4dedc"/>
+	</machine>
+	<machine name="layla (japan)">
+		<description>layla (japan)</description>
+		<rom name="layla (japan).nes" size="131088" crc="d9381fe7"/>
+	</machine>
+	<machine name="legend of zelda, the (usa) (rev a)">
+		<description>legend of zelda, the (usa) (rev a)</description>
+		<rom name="legend of zelda, the (usa) (rev a).nes" size="131088" crc="02bb0c56"/>
+	</machine>
+	<machine name="life force (usa)">
+		<description>life force (usa)</description>
+		<rom name="life force (usa).nes" size="131088" crc="f7b55696"/>
+	</machine>
+	<machine name="little nemo - the dream master (usa)">
+		<description>little nemo - the dream master (usa)</description>
+		<rom name="little nemo - the dream master (usa).nes" size="262160" crc="71d868c4"/>
+	</machine>
+	<machine name="little samson (usa)">
+		<description>little samson (usa)</description>
+		<rom name="little samson (usa).nes" size="393232" crc="90f4b83c"/>
+	</machine>
+	<machine name="lode runner (usa)">
+		<description>lode runner (usa)</description>
+		<rom name="lode runner (usa).nes" size="24592" crc="cd4bf911"/>
+	</machine>
+	<machine name="mafat conspiracy, the (usa)">
+		<description>mafat conspiracy, the (usa)</description>
+		<rom name="mafat conspiracy, the (usa).nes" size="262160" crc="a0973444"/>
+	</machine>
+	<machine name="magic of scheherazade, the (usa)">
+		<description>magic of scheherazade, the (usa)</description>
+		<rom name="magic of scheherazade, the (usa).nes" size="262160" crc="ffaa505d"/>
+	</machine>
+	<machine name="magical kid's doropie (japan)">
+		<description>magical kid's doropie (japan)</description>
+		<rom name="magical kid's doropie (japan).nes" size="262160" crc="5455ffc9"/>
+	</machine>
+	<machine name="maniac mansion (usa)">
+		<description>maniac mansion (usa)</description>
+		<rom name="maniac mansion (usa).nes" size="262160" crc="68309d06"/>
+	</machine>
+	<machine name="mega man (usa)">
+		<description>mega man (usa)</description>
+		<rom name="mega man (usa).nes" size="131088" crc="5ded683e"/>
+	</machine>
+	<machine name="mega man 2 (usa)">
+		<description>mega man 2 (usa)</description>
+		<rom name="mega man 2 (usa).nes" size="262160" crc="5e268761"/>
+	</machine>
+	<machine name="mega man 3 (usa)">
+		<description>mega man 3 (usa)</description>
+		<rom name="mega man 3 (usa).nes" size="393232" crc="be6dbb5d"/>
+	</machine>
+	<machine name="mega man 4 (usa) (rev a)">
+		<description>mega man 4 (usa) (rev a)</description>
+		<rom name="mega man 4 (usa) (rev a).nes" size="524304" crc="9ed9d3af"/>
+	</machine>
+	<machine name="mega man 5 (usa)">
+		<description>mega man 5 (usa)</description>
+		<rom name="mega man 5 (usa).nes" size="524304" crc="5e023291"/>
+	</machine>
+	<machine name="mega man 6 (usa)">
+		<description>mega man 6 (usa)</description>
+		<rom name="mega man 6 (usa).nes" size="524304" crc="1efcac48"/>
+	</machine>
+	<machine name="metal storm (usa)">
+		<description>metal storm (usa)</description>
+		<rom name="metal storm (usa).nes" size="393232" crc="98cefa51"/>
+	</machine>
+	<machine name="metroid (usa)">
+		<description>metroid (usa)</description>
+		<rom name="metroid (usa).nes" size="131088" crc="a2c89cb9"/>
+	</machine>
+	<machine name="micro machines (usa) (unl)">
+		<description>micro machines (usa) (unl)</description>
+		<rom name="micro machines (usa) (unl).nes" size="262160" crc="f3fffc7a"/>
+	</machine>
+	<machine name="might &amp; magic - secret of the inner sanctum (usa)">
+		<description>might &amp; magic - secret of the inner sanctum (usa)</description>
+		<rom name="might &amp; magic - secret of the inner sanctum (usa).nes" size="524304" crc="f56c955e"/>
+	</machine>
+	<machine name="mighty final fight (usa)">
+		<description>mighty final fight (usa)</description>
+		<rom name="mighty final fight (usa).nes" size="262160" crc="15eb0bee"/>
+	</machine>
+	<machine name="mike tyson's punch-out!! (japan, usa) (rev a)">
+		<description>mike tyson's punch-out!! (japan, usa) (rev a)</description>
+		<rom name="mike tyson's punch-out!! (japan, usa) (rev a).nes" size="262160" crc="3df8e170"/>
+	</machine>
+	<machine name="mission impossible (usa)">
+		<description>mission impossible (usa)</description>
+		<rom name="mission impossible (usa).nes" size="262160" crc="c956b3af"/>
+	</machine>
+	<machine name="moai-kun (japan)">
+		<description>moai-kun (japan)</description>
+		<rom name="moai-kun (japan).nes" size="65552" crc="a3a19253"/>
+	</machine>
+	<machine name="moero!! pro yakyuu (japan) (rev 3)">
+		<description>moero!! pro yakyuu (japan) (rev 3)</description>
+		<rom name="moero!! pro yakyuu (japan) (rev 3).nes" size="196624" crc="6dc77d7c"/>
+	</machine>
+	<machine name="monster party (usa)">
+		<description>monster party (usa)</description>
+		<rom name="monster party (usa).nes" size="262160" crc="6f0ac6ec"/>
+	</machine>
+	<machine name="moon crystal (japan)">
+		<description>moon crystal (japan)</description>
+		<rom name="moon crystal (japan).nes" size="524304" crc="463d5c4c"/>
+	</machine>
+	<machine name="mother (japan)">
+		<description>mother (japan)</description>
+		<rom name="mother (japan).nes" size="393232" crc="282a5caa"/>
+	</machine>
+	<machine name="mr. gimmick (europe)">
+		<description>mr. gimmick (europe)</description>
+		<rom name="mr. gimmick (europe).nes" size="393232" crc="bf80b241"/>
+	</machine>
+	<machine name="nightshade (usa)">
+		<description>nightshade (usa)</description>
+		<rom name="nightshade (usa).nes" size="524304" crc="c6d266af"/>
+	</machine>
+	<machine name="ninja gaiden (usa)">
+		<description>ninja gaiden (usa)</description>
+		<rom name="ninja gaiden (usa).nes" size="262160" crc="11f953f6"/>
+	</machine>
+	<machine name="ninja gaiden ii - the dark sword of chaos (usa)">
+		<description>ninja gaiden ii - the dark sword of chaos (usa)</description>
+		<rom name="ninja gaiden ii - the dark sword of chaos (usa).nes" size="262160" crc="6a889953"/>
+	</machine>
+	<machine name="ninja gaiden iii - the ancient ship of doom (usa)">
+		<description>ninja gaiden iii - the ancient ship of doom (usa)</description>
+		<rom name="ninja gaiden iii - the ancient ship of doom (usa).nes" size="262160" crc="4d26fa27"/>
+	</machine>
+	<machine name="north and south (usa)">
+		<description>north and south (usa)</description>
+		<rom name="north and south (usa).nes" size="262160" crc="840c3b42"/>
+	</machine>
+	<machine name="over horizon (europe)">
+		<description>over horizon (europe)</description>
+		<rom name="over horizon (europe).nes" size="262160" crc="b8a4bcd5"/>
+	</machine>
+	<machine name="paperboy (usa)">
+		<description>paperboy (usa)</description>
+		<rom name="paperboy (usa).nes" size="65552" crc="eb171d77"/>
+	</machine>
+	<machine name="parodius (europe)">
+		<description>parodius (europe)</description>
+		<rom name="parodius (europe).nes" size="262160" crc="22ad4753"/>
+	</machine>
+	<machine name="power blade (usa)">
+		<description>power blade (usa)</description>
+		<rom name="power blade (usa).nes" size="262160" crc="76663e66"/>
+	</machine>
+	<machine name="power blade 2 (usa)">
+		<description>power blade 2 (usa)</description>
+		<rom name="power blade 2 (usa).nes" size="262160" crc="f8e0bc9b"/>
+	</machine>
+	<machine name="punisher, the (usa)">
+		<description>punisher, the (usa)</description>
+		<rom name="punisher, the (usa).nes" size="262160" crc="0d6bd840"/>
+	</machine>
+	<machine name="r.c. pro-am (usa) (rev a)">
+		<description>r.c. pro-am (usa) (rev a)</description>
+		<rom name="r.c. pro-am (usa) (rev a).nes" size="65552" crc="0296e5f4"/>
+	</machine>
+	<machine name="rad racer (usa)">
+		<description>rad racer (usa)</description>
+		<rom name="rad racer (usa).nes" size="131088" crc="595daa35"/>
+	</machine>
+	<machine name="radia senki - reimei hen (japan)">
+		<description>radia senki - reimei hen (japan)</description>
+		<rom name="radia senki - reimei hen (japan).nes" size="393232" crc="3bca1cd7"/>
+	</machine>
+	<machine name="rampage (usa)">
+		<description>rampage (usa)</description>
+		<rom name="rampage (usa).nes" size="196624" crc="628fe3c9"/>
+	</machine>
+	<machine name="river city ransom (usa)">
+		<description>river city ransom (usa)</description>
+		<rom name="river city ransom (usa).nes" size="262160" crc="c3508f7e"/>
+	</machine>
+	<machine name="rockin' kats (usa)">
+		<description>rockin' kats (usa)</description>
+		<rom name="rockin' kats (usa).nes" size="262160" crc="a3b4f5de"/>
+	</machine>
+	<machine name="rygar (usa) (rev a)">
+		<description>rygar (usa) (rev a)</description>
+		<rom name="rygar (usa) (rev a).nes" size="131088" crc="04cda7e1"/>
+	</machine>
+	<machine name="s.c.a.t. - special cybernetic attack team (usa)">
+		<description>s.c.a.t. - special cybernetic attack team (usa)</description>
+		<rom name="s.c.a.t. - special cybernetic attack team (usa).nes" size="262160" crc="19abbf3c"/>
+	</machine>
+	<machine name="section-z (usa)">
+		<description>section-z (usa)</description>
+		<rom name="section-z (usa).nes" size="131088" crc="3ce543e6"/>
+	</machine>
+	<machine name="shadow of the ninja (usa)">
+		<description>shadow of the ninja (usa)</description>
+		<rom name="shadow of the ninja (usa).nes" size="262160" crc="f74a04ab"/>
+	</machine>
+	<machine name="shadowgate (usa)">
+		<description>shadowgate (usa)</description>
+		<rom name="shadowgate (usa).nes" size="262160" crc="74caebe3"/>
+	</machine>
+	<machine name="shatterhand (usa)">
+		<description>shatterhand (usa)</description>
+		<rom name="shatterhand (usa).nes" size="262160" crc="80b3ffaf"/>
+	</machine>
+	<machine name="sky kid (usa)">
+		<description>sky kid (usa)</description>
+		<rom name="sky kid (usa).nes" size="163856" crc="8b190ddc"/>
+	</machine>
+	<machine name="smurfs, the (europe) (en,fr,de,es)">
+		<description>smurfs, the (europe) (en,fr,de,es)</description>
+		<rom name="smurfs, the (europe) (en,fr,de,es).nes" size="131088" crc="732b1a7a"/>
+	</machine>
+	<machine name="snake rattle n roll (usa)">
+		<description>snake rattle n roll (usa)</description>
+		<rom name="snake rattle n roll (usa).nes" size="65552" crc="558f9a33"/>
+	</machine>
+	<machine name="snake's revenge (usa)">
+		<description>snake's revenge (usa)</description>
+		<rom name="snake's revenge (usa).nes" size="262160" crc="255a25fe"/>
+	</machine>
+	<machine name="snow brothers (usa)">
+		<description>snow brothers (usa)</description>
+		<rom name="snow brothers (usa).nes" size="262160" crc="701f4326"/>
+	</machine>
+	<machine name="solar jetman - hunt for the golden warpship (usa)">
+		<description>solar jetman - hunt for the golden warpship (usa)</description>
+		<rom name="solar jetman - hunt for the golden warpship (usa).nes" size="262160" crc="1c17ce33"/>
+	</machine>
+	<machine name="solomon's key (usa)">
+		<description>solomon's key (usa)</description>
+		<rom name="solomon's key (usa).nes" size="65552" crc="99773bc4"/>
+	</machine>
+	<machine name="solstice - the quest for the staff of demnos (usa)">
+		<description>solstice - the quest for the staff of demnos (usa)</description>
+		<rom name="solstice - the quest for the staff of demnos (usa).nes" size="131088" crc="1d60732e"/>
+	</machine>
+	<machine name="spartan x 2 (japan)">
+		<description>spartan x 2 (japan)</description>
+		<rom name="spartan x 2 (japan).nes" size="262160" crc="09825979"/>
+	</machine>
+	<machine name="spelunker (usa)">
+		<description>spelunker (usa)</description>
+		<rom name="spelunker (usa).nes" size="40976" crc="7ea3404f"/>
+	</machine>
+	<machine name="splatter house - wanpaku graffiti (japan)">
+		<description>splatter house - wanpaku graffiti (japan)</description>
+		<rom name="splatter house - wanpaku graffiti (japan).nes" size="262160" crc="b7eeb48b"/>
+	</machine>
+	<machine name="sqoon (usa)">
+		<description>sqoon (usa)</description>
+		<rom name="sqoon (usa).nes" size="40976" crc="a3815bac"/>
+	</machine>
+	<machine name="startropics (usa)">
+		<description>startropics (usa)</description>
+		<rom name="startropics (usa).nes" size="524304" crc="2ed79b73"/>
+	</machine>
+	<machine name="summer carnival '92 - recca (japan)">
+		<description>summer carnival '92 - recca (japan)</description>
+		<rom name="summer carnival '92 - recca (japan).nes" size="262160" crc="d98ec487"/>
+	</machine>
+	<machine name="super c (usa)">
+		<description>super c (usa)</description>
+		<rom name="super c (usa).nes" size="262160" crc="1ac846f0"/>
+	</machine>
+	<machine name="super dodge ball (usa)">
+		<description>super dodge ball (usa)</description>
+		<rom name="super dodge ball (usa).nes" size="262160" crc="052a50d7"/>
+	</machine>
+	<machine name="super mario bros. (world)">
+		<description>super mario bros. (world)</description>
+		<rom name="super mario bros. (world).nes" size="40976" crc="3337ec46"/>
+	</machine>
+	<machine name="super mario bros. 2 (usa) (rev a)">
+		<description>super mario bros. 2 (usa) (rev a)</description>
+		<rom name="super mario bros. 2 (usa) (rev a).nes" size="262160" crc="17518181"/>
+	</machine>
+	<machine name="super mario bros. 3 (usa) (rev a)">
+		<description>super mario bros. 3 (usa) (rev a)</description>
+		<rom name="super mario bros. 3 (usa) (rev a).nes" size="393232" crc="0b742b33"/>
+	</machine>
+	<machine name="sweet home (japan)">
+		<description>sweet home (japan)</description>
+		<rom name="sweet home (japan).nes" size="262160" crc="40803bc5"/>
+	</machine>
+	<machine name="takahashi meijin no bouken-jima iv (japan)">
+		<description>takahashi meijin no bouken-jima iv (japan)</description>
+		<rom name="takahashi meijin no bouken-jima iv (japan).nes" size="393232" crc="5ecfd3dc"/>
+	</machine>
+	<machine name="tecmo super bowl (usa)">
+		<description>tecmo super bowl (usa)</description>
+		<rom name="tecmo super bowl (usa).nes" size="393232" crc="1f7c5660"/>
+	</machine>
+	<machine name="teenage mutant ninja turtles - tournament fighters (usa)">
+		<description>teenage mutant ninja turtles - tournament fighters (usa)</description>
+		<rom name="teenage mutant ninja turtles - tournament fighters (usa).nes" size="262160" crc="ac05464f"/>
+	</machine>
+	<machine name="teenage mutant ninja turtles ii - the arcade game (usa)">
+		<description>teenage mutant ninja turtles ii - the arcade game (usa)</description>
+		<rom name="teenage mutant ninja turtles ii - the arcade game (usa).nes" size="524304" crc="c9ffbbdb"/>
+	</machine>
+	<machine name="teenage mutant ninja turtles iii - the manhattan project (usa)">
+		<description>teenage mutant ninja turtles iii - the manhattan project (usa)</description>
+		<rom name="teenage mutant ninja turtles iii - the manhattan project (usa).nes" size="524304" crc="dbb3bc30"/>
+	</machine>
+	<machine name="tenchi o kurau ii - shokatsu koumei den (japan) (rev a)">
+		<description>tenchi o kurau ii - shokatsu koumei den (japan) (rev a)</description>
+		<rom name="tenchi o kurau ii - shokatsu koumei den (japan) (rev a).nes" size="524304" crc="f8a930ed"/>
+	</machine>
+	<machine name="tetris (usa)">
+		<description>tetris (usa)</description>
+		<rom name="tetris (usa).nes" size="49168" crc="6d72c53a"/>
+	</machine>
+	<machine name="tiny toon adventures (usa)">
+		<description>tiny toon adventures (usa)</description>
+		<rom name="tiny toon adventures (usa).nes" size="262160" crc="b34ed396"/>
+	</machine>
+	<machine name="tombs &amp; treasure (usa)">
+		<description>tombs &amp; treasure (usa)</description>
+		<rom name="tombs &amp; treasure (usa).nes" size="262160" crc="013bd19f"/>
+	</machine>
+	<machine name="ufouria - the saga (europe)">
+		<description>ufouria - the saga (europe)</description>
+		<rom name="ufouria - the saga (europe).nes" size="262160" crc="6453f65e"/>
+	</machine>
+	<machine name="ultima - quest of the avatar (usa)">
+		<description>ultima - quest of the avatar (usa)</description>
+		<rom name="ultima - quest of the avatar (usa).nes" size="262160" crc="c7f5b3d8"/>
+	</machine>
+	<machine name="ultimate stuntman, the (usa) (unl)">
+		<description>ultimate stuntman, the (usa) (unl)</description>
+		<rom name="ultimate stuntman, the (usa) (unl).nes" size="262160" crc="e8ee7ddc"/>
+	</machine>
+	<machine name="uninvited (usa)">
+		<description>uninvited (usa)</description>
+		<rom name="uninvited (usa).nes" size="262160" crc="8579fa86"/>
+	</machine>
+	<machine name="vice - project doom (usa)">
+		<description>vice - project doom (usa)</description>
+		<rom name="vice - project doom (usa).nes" size="262160" crc="5fa46034"/>
+	</machine>
+	<machine name="wagyan land (japan)">
+		<description>wagyan land (japan)</description>
+		<rom name="wagyan land (japan).nes" size="196624" crc="6eb4d2b8"/>
+	</machine>
+	<machine name="wai wai world (japan)">
+		<description>wai wai world (japan)</description>
+		<rom name="wai wai world (japan).nes" size="262160" crc="b27bcf3d"/>
+	</machine>
+	<machine name="wai wai world 2 - sos!! paseri jou (japan)">
+		<description>wai wai world 2 - sos!! paseri jou (japan)</description>
+		<rom name="wai wai world 2 - sos!! paseri jou (japan).nes" size="393232" crc="ebd96a66"/>
+	</machine>
+	<machine name="wario's woods (usa)">
+		<description>wario's woods (usa)</description>
+		<rom name="wario's woods (usa).nes" size="524304" crc="51dcc76f"/>
+	</machine>
+	<machine name="wily &amp; right no rockboard - that's paradise (japan)">
+		<description>wily &amp; right no rockboard - that's paradise (japan)</description>
+		<rom name="wily &amp; right no rockboard - that's paradise (japan).nes" size="262160" crc="353dda1f"/>
+	</machine>
+	<machine name="wizardry - knight of diamonds - the second scenario (usa)">
+		<description>wizardry - knight of diamonds - the second scenario (usa)</description>
+		<rom name="wizardry - knight of diamonds - the second scenario (usa).nes" size="262160" crc="7516b446"/>
+	</machine>
+	<machine name="wizardry - proving grounds of the mad overlord (usa)">
+		<description>wizardry - proving grounds of the mad overlord (usa)</description>
+		<rom name="wizardry - proving grounds of the mad overlord (usa).nes" size="262160" crc="804ef7f9"/>
+	</machine>
+	<machine name="wizardry iii - diamond no kishi (japan)">
+		<description>wizardry iii - diamond no kishi (japan)</description>
+		<rom name="wizardry iii - diamond no kishi (japan).nes" size="262160" crc="42c7b79e"/>
+	</machine>
+	<machine name="wizards &amp; warriors (usa) (rev a)">
+		<description>wizards &amp; warriors (usa) (rev a)</description>
+		<rom name="wizards &amp; warriors (usa) (rev a).nes" size="131088" crc="d6fc36aa"/>
+	</machine>
+	<machine name="wizards &amp; warriors iii - kuros...visions of power (usa)">
+		<description>wizards &amp; warriors iii - kuros...visions of power (usa)</description>
+		<rom name="wizards &amp; warriors iii - kuros...visions of power (usa).nes" size="262160" crc="4f505449"/>
+	</machine>
+	<machine name="yume penguin monogatari (japan)">
+		<description>yume penguin monogatari (japan)</description>
+		<rom name="yume penguin monogatari (japan).nes" size="262160" crc="e1686577"/>
+	</machine>
+	<machine name="zanac (usa)">
+		<description>zanac (usa)</description>
+		<rom name="zanac (usa).nes" size="131088" crc="2165c0c2"/>
+	</machine>
+	<machine name="zelda ii - the adventure of link (usa)">
+		<description>zelda ii - the adventure of link (usa)</description>
+		<rom name="zelda ii - the adventure of link (usa).nes" size="262160" crc="e3c788b0"/>
+	</machine>
+	<machine name="zoda's revenge - startropics ii (usa)">
+		<description>zoda's revenge - startropics ii (usa)</description>
+		<rom name="zoda's revenge - startropics ii (usa).nes" size="524304" crc="f8e6f5c8"/>
+	</machine>
+</datafile>

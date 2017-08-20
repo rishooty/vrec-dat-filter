@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Bandai Wonderswan Color</name>
+		<description>Recommended Wonderswan Color games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="blue wing blitz (japan)">
+		<description>blue wing blitz (japan)</description>
+		<rom name="blue wing blitz (japan).wsc" size="2097152" crc="99027238"/>
+	</machine>
+	<machine name="dicing knight. (japan)">
+		<description>dicing knight. (japan)</description>
+		<rom name="dicing knight. (japan).wsc" size="524288" crc="d28dc930"/>
+	</machine>
+	<machine name="digimon tamers - battle spirit ver. 1.5 (japan)">
+		<description>digimon tamers - battle spirit ver. 1.5 (japan)</description>
+		<rom name="digimon tamers - battle spirit ver. 1.5 (japan).wsc" size="8388608" crc="6caad4a2"/>
+	</machine>
+	<machine name="final fantasy (japan)">
+		<description>final fantasy (japan)</description>
+		<rom name="final fantasy (japan).wsc" size="4194304" crc="b7243e88"/>
+	</machine>
+	<machine name="final fantasy ii (japan)">
+		<description>final fantasy ii (japan)</description>
+		<rom name="final fantasy ii (japan).wsc" size="4194304" crc="f09e752f"/>
+	</machine>
+	<machine name="final fantasy iv (japan)">
+		<description>final fantasy iv (japan)</description>
+		<rom name="final fantasy iv (japan).wsc" size="4194304" crc="f699d6d1"/>
+	</machine>
+	<machine name="from tv animation one piece - chopper no daibouken (japan)">
+		<description>from tv animation one piece - chopper no daibouken (japan)</description>
+		<rom name="from tv animation one piece - chopper no daibouken (japan).wsc" size="4194304" crc="8e120b5a"/>
+	</machine>
+	<machine name="guilty gear petit (japan)">
+		<description>guilty gear petit (japan)</description>
+		<rom name="guilty gear petit (japan).wsc" size="2097152" crc="9750bc2a"/>
+	</machine>
+	<machine name="guilty gear petit 2 (japan)">
+		<description>guilty gear petit 2 (japan)</description>
+		<rom name="guilty gear petit 2 (japan).wsc" size="4194304" crc="d7a12bd5"/>
+	</machine>
+	<machine name="hataraku chocobo (japan)">
+		<description>hataraku chocobo (japan)</description>
+		<rom name="hataraku chocobo (japan).wsc" size="1048576" crc="7a29e9a6"/>
+	</machine>
+	<machine name="judgement silversword - rebirth edition (japan) (rev 5c21)">
+		<description>judgement silversword - rebirth edition (japan) (rev 5c21)</description>
+		<rom name="judgement silversword - rebirth edition (japan) (rev 5c21).wsc" size="524288" crc="4fce380d"/>
+	</machine>
+	<machine name="makai toushi sa-ga (japan)">
+		<description>makai toushi sa-ga (japan)</description>
+		<rom name="makai toushi sa-ga (japan).wsc" size="4194304" crc="1b6f5f30"/>
+	</machine>
+	<machine name="mr. driller (japan)">
+		<description>mr. driller (japan)</description>
+		<rom name="mr. driller (japan).wsc" size="2097152" crc="5555d95c"/>
+	</machine>
+	<machine name="namco super wars (japan)">
+		<description>namco super wars (japan)</description>
+		<rom name="namco super wars (japan).wsc" size="2097152" crc="8ce4652f"/>
+	</machine>
+	<machine name="romancing sa-ga (japan)">
+		<description>romancing sa-ga (japan)</description>
+		<rom name="romancing sa-ga (japan).wsc" size="4194304" crc="9c98d97d"/>
+	</machine>
+	<machine name="tetris (japan)">
+		<description>tetris (japan)</description>
+		<rom name="tetris (japan).wsc" size="1048576" crc="7b0caea9"/>
+	</machine>
+	<machine name="wild card (japan)">
+		<description>wild card (japan)</description>
+		<rom name="wild card (japan).wsc" size="2097152" crc="d9401f0a"/>
+	</machine>
+</datafile>

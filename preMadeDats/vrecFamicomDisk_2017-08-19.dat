@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Famicom Disk System</name>
+		<description>Recommended Famicom Disk games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="ai senshi nicol (japan)">
+		<description>ai senshi nicol (japan)</description>
+		<rom name="ai senshi nicol (japan).fds" size="131000" crc="21a1ad6e"/>
+	</machine>
+	<machine name="nazo no murasamejou (japan)">
+		<description>nazo no murasamejou (japan)</description>
+		<rom name="nazo no murasamejou (japan).fds" size="131000" crc="9a523757"/>
+	</machine>
+	<machine name="otocky (japan) [b]">
+		<description>otocky (japan) [b]</description>
+		<rom name="otocky (japan) [b].fds" size="131016" crc="31dc1c4a"/>
+	</machine>
+	<machine name="super mario brothers 2 (japan)">
+		<description>super mario brothers 2 (japan)</description>
+		<rom name="super mario brothers 2 (japan).fds" size="65500" crc="f04cd4cd"/>
+	</machine>
+</datafile>

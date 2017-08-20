@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>V's Recommended Wiki Bandai Wonderswan</name>
+		<description>Recommended Wonderswan games.</description>
+		<category>Standard DatFile</category>
+		<version>2017-08-19</version>
+		<date>2017-08-19</date>
+		<author>Nicholas Ricciuti</author>
+		<email>rishooty@gmail.com</email>
+		<homepage>https://github.com/rishooty/vrec-dat-filter</homepage>
+		<url>-insert url-</url>
+		<comment>Based on latest No-Intro</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="beatmania for wonderswan (japan)">
+		<description>beatmania for wonderswan (japan)</description>
+		<rom name="beatmania for wonderswan (japan).ws" size="16777216" crc="324622c9"/>
+	</machine>
+	<machine name="chocobo no fushigi na dungeon for wonderswan (japan)">
+		<description>chocobo no fushigi na dungeon for wonderswan (japan)</description>
+		<rom name="chocobo no fushigi na dungeon for wonderswan (japan).ws" size="2097152" crc="ccaa4853"/>
+	</machine>
+	<machine name="ganso jajamaru-kun (japan)">
+		<description>ganso jajamaru-kun (japan)</description>
+		<rom name="ganso jajamaru-kun (japan).ws" size="524288" crc="a193458c"/>
+	</machine>
+	<machine name="kakutou ryouri densetsu bistro recipe - wonder battle hen (japan)">
+		<description>kakutou ryouri densetsu bistro recipe - wonder battle hen (japan)</description>
+		<rom name="kakutou ryouri densetsu bistro recipe - wonder battle hen (japan).ws" size="1048576" crc="4d103236"/>
+	</machine>
+	<machine name="makaimura for wonderswan (japan)">
+		<description>makaimura for wonderswan (japan)</description>
+		<rom name="makaimura for wonderswan (japan).ws" size="2097152" crc="00b31fbb"/>
+	</machine>
+	<machine name="pocket fighter (japan)">
+		<description>pocket fighter (japan)</description>
+		<rom name="pocket fighter (japan).ws" size="2097152" crc="35361250"/>
+	</machine>
+	<machine name="puyo puyo tsuu (japan)">
+		<description>puyo puyo tsuu (japan)</description>
+		<rom name="puyo puyo tsuu (japan).ws" size="1048576" crc="5a41a7ba"/>
+	</machine>
+	<machine name="slither link (japan)">
+		<description>slither link (japan)</description>
+		<rom name="slither link (japan).ws" size="524288" crc="f00a0330"/>
+	</machine>
+	<machine name="tekken card challenge (japan)">
+		<description>tekken card challenge (japan)</description>
+		<rom name="tekken card challenge (japan).ws" size="1048576" crc="e7c608e5"/>
+	</machine>
+</datafile>
