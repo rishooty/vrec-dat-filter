@@ -15,7 +15,7 @@ to only the most likely desired games. It utilizes scrapy and [V's Recommended W
 popular and highly recommended games for any platform, then creates a new dat file based on the results.
 You can however, provide your own txt or csv lists as well.
 
-For those feeling lazy, pre-cleaned and tweaked dats are provided [here](). (WIP)
+For those feeling lazy, pre-cleaned and tweaked dats are provided [here](https://github.com/rishooty/vrec-dat-filter/tree/master/preMadeDats).
 
 ## Getting Started
 
