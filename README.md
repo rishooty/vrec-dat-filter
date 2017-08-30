@@ -210,7 +210,7 @@ This varies vastly between the rom managers. My personal favorite is RomCenter, 
 8. Your roms are now filtered! Note that:
     * Fuzzy matching isn't perfect, and there could be a few duplicates, false positives, or in very rare cases missing roms.
     * You can prevent the above by adding/removing these entries from the cleaned dat before heading to the rom manager. You can also set the --accuracy option to something higher or lower than 90.
-    * You an also be lazy and delete/re-add these roms manually. After all, a couple stragglers is still an improvement over 1000's of roms.
+    * You can also be lazy and delete/re-add these roms manually. After all, a couple stragglers is still an improvement over 1000's of roms.
 
 ### The latest dat doesn't work with my romset, what gives?
 All too often dats will update faster than available romsets floating on the web. When this is the case with RomCenter 3.7.1,

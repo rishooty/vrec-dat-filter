@@ -105,3 +105,6 @@ ENV/
 
 # Game List Cache
 listTemp.csv
+
+# Cleaned test csvs
+testDat/Nintendo - Nintendo Entertainment System Parent-Clone (20170719-133541)clean.dat

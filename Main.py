@@ -1,5 +1,4 @@
-import ScraperFunctions
-import OtherFunctions
+import Functions
 import argparse
 import os
 import sys
@@ -48,18 +47,18 @@ def main():
     args = parser.parse_args()
 
     # Scrape the url(s) into a csv.
-    ScraperFunctions.generate_vrec_csv(args.system, 'listTemp.csv', args.main_url)
+    Functions.generate_vrec_csv(args.system, args.main_url)
 
     # Parse the csv into a list.
-    roms_to_keep = OtherFunctions.parse_vrec_csv()
+    roms_to_keep = Functions.parse_vrec_csv()
 
     # Create a filtered dat file using the above list.
     dat_out = os.path.splitext(args.dat_in)[0] + "clean.dat"
-    OtherFunctions.dat_clean(roms_to_keep, args.dat_in, dat_out, args.accuracy)
+    Functions.dat_clean(roms_to_keep, args.dat_in, dat_out, args.accuracy)
 
     # If specified, delete files not in the cleaned dat from a given directory.
     if args.rm_from is not None:
-        OtherFunctions.dir_clean(args.rm_from, dat_out)
+        Functions.dir_clean(args.rm_from, dat_out)
 
 
 def scrape():
@@ -72,7 +71,7 @@ def scrape():
     args = parser.parse_args()
 
     # Scrape the url(s) into a csv.
-    ScraperFunctions.generate_vrec_csv(args.system, args.csv_out, args.main_url)
+    Functions.generate_vrec_csv(args.system, args.main_url, args.csv_out)
 
 
 def clean():
@@ -95,16 +94,16 @@ def clean():
     # Parse input file into list depending on extension.
     name, ext = os.path.splitext(args.csv_in)
     if ext == '.csv':
-        roms_to_keep = OtherFunctions.parse_vrec_csv(args.csv_in)
+        roms_to_keep = Functions.parse_vrec_csv(args.csv_in)
     else:
-        roms_to_keep = OtherFunctions.parse_custom(args.csv_in)
+        roms_to_keep = Functions.parse_custom(args.csv_in)
 
     # Create a filtered dat file using the above list.
-    OtherFunctions.dat_clean(roms_to_keep, args.dat_in, args.dat_out, args.accuracy)
+    Functions.dat_clean(roms_to_keep, args.dat_in, args.dat_out, args.accuracy)
 
     # If specified, delete files not in the cleaned dat from a given directory.
     if args.rm_from is not None:
-        OtherFunctions.dir_clean(args.rm_from, args.dat_out)
+        Functions.dir_clean(args.rm_from, args.dat_out)
 
 
 def dir_clean():
@@ -114,7 +113,7 @@ def dir_clean():
                         metavar='path_to_roms')
     args = parser.parse_args()
 
-    OtherFunctions.dir_clean(args.rm_from, args.clean_dat)
+    Functions.dir_clean(args.rm_from, args.clean_dat)
 
 # Execute action based on initial argument.
 arg_switch = {

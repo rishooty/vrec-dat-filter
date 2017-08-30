@@ -1,9 +1,11 @@
+from vscrape.vscrape.spiders.vgames import VrecSpider
+from scrapy.crawler import CrawlerProcess
 import xml.etree.ElementTree as ET
-import os
-import csv
-from fuzzywuzzy import fuzz
-from fuzzywuzzy import process
 from send2trash import send2trash
+from fuzzywuzzy import process
+from fuzzywuzzy import fuzz
+import csv
+import os
 
 
 def parse_vrec_csv(csv_path='listTemp.csv'):
@@ -88,12 +90,26 @@ def dat_clean(roms_to_keep, dat_file, dat_out=None, accuracy=90):
         if not result:
             to_delete.append(game)
 
-    # Delete all game xml blocks that were marked for deletion.
-    for game in to_delete:
-        root.remove(game)
+    # Delete all game xml blocks that were marked for deletion and print final xml.
+    del_xml_blocks(to_delete, tree, dat_out)
 
-    # Print the final xml to be used in a rom manager.
-    tree.write(dat_out)
+
+def del_xml_blocks(block_list, xml_tree, xml_out):
+    """
+    Delete a list of blocks
+    from an xml tree object.
+
+    :param block_list:
+    :param xml_tree:
+    :param xml_out:
+    :return:
+    """
+    xml_root = xml_tree.getroot()
+
+    for block in block_list:
+        xml_root.remove(block)
+
+    xml_tree.write(xml_out)
 
 
 def dir_clean(rm_dir, clean_dat_file):
@@ -138,3 +154,29 @@ def dir_clean(rm_dir, clean_dat_file):
     for file in files:
         if os.path.splitext(file)[0] not in files_to_keep:
             send2trash(rm_dir+file)
+
+
+def generate_vrec_csv(systems, main_url='http://vsrecommendedgames.wikia.com/wiki/', output_csv_path='listTemp.csv'):
+    """
+    Calls the VRecSpider to parse your url(s), scrape them,
+    and output the results to a csv.
+
+    :param output_csv_path:
+    :param systems
+    :param main_url:
+    :return:
+    """
+
+    # Remove the csv if it already exists
+    # to prevent the appending Scrapy does
+    # by default.
+    if os.path.exists(output_csv_path):
+        os.remove(output_csv_path)
+
+    # Scrape and dump the queries to csv
+    crawler = CrawlerProcess({
+        'FEED_FORMAT': 'csv',
+        'FEED_URI': output_csv_path,
+    })
+    crawler.crawl(VrecSpider, systems=systems, main_url=main_url)  # IDE inspection can be ignored here.
+    crawler.start()
