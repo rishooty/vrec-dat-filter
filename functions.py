@@ -40,9 +40,11 @@ def parse_vrec_csv(csv_path='listTemp.csv'):
         'Translation',
         'Title Screen',
         'Outbound Link',
-        'Download'
+        'Download',
+        ' 2',
+        ' 3'
     ]
-    return sorted([x for x in names if x not in to_remove])
+    return sorted(set([x for x in names if x not in to_remove]))
 
 
 def parse_custom(file_path):

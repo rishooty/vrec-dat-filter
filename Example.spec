@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['Main.py'],
+a = Analysis(['main.py'],
              pathex=[],
              binaries=[],
              datas=[('PATH_TO_ENV/Lib/site-packages/scrapy', 'scrapy')],

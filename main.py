@@ -1,5 +1,5 @@
-from RedditFunctions import RedditRelevancyChecker
-import Functions
+from reddit_functions import RedditRelevancyChecker
+import functions
 import argparse
 import os
 import sys
@@ -45,8 +45,7 @@ def main():
                         help='Primary V\'s url in case default is broken.', metavar='vrecwiki_homepage')
 
     parser.add_argument('--reddit_filter', type=str, help='Specify reddit filter and how far back to search.',
-                        metavar='reddit_time_filter', choices=['all', 'day', 'hour', 'month', 'week', 'year'],
-                        default='year')
+                        metavar='reddit_time_filter', choices=['all', 'day', 'hour', 'month', 'week', 'year'])
 
     parser.add_argument('--accuracy', type=int, default='90', choices=range(1, 101), metavar='1-100',
                         help='Acceptable positive match percentage, 0 to 100.')
@@ -57,10 +56,10 @@ def main():
     args = parser.parse_args()
 
     # Scrape the url(s) into a csv.
-    Functions.generate_vrec_csv(args.system, args.main_url)
+    functions.generate_vrec_csv(args.system, args.main_url)
 
     # Parse the csv into a list.
-    roms_to_keep = Functions.parse_vrec_csv()
+    roms_to_keep = functions.parse_vrec_csv()
 
     # If specified, pass roms_to_keep through reddit filter.
     if args.reddit_filter is not None:
@@ -69,11 +68,11 @@ def main():
 
     # Create a filtered dat file using the above list.
     dat_out = os.path.splitext(args.dat_in)[0] + "clean.dat"
-    Functions.dat_clean(roms_to_keep, args.dat_in, dat_out, args.accuracy)
+    functions.dat_clean(roms_to_keep, args.dat_in, dat_out, args.accuracy)
 
     # If specified, delete files not in the cleaned dat from a given directory.
     if args.rm_from is not None:
-        Functions.dir_clean(args.rm_from, dat_out)
+        functions.dir_clean(args.rm_from, dat_out)
 
 
 def scrape():
@@ -89,7 +88,7 @@ def scrape():
     args = parser.parse_args()
 
     # Scrape the url(s) into a csv.
-    Functions.generate_vrec_csv(args.system, args.main_url, args.csv_out)
+    functions.generate_vrec_csv(args.system, args.main_url, args.csv_out)
 
 
 def clean():
@@ -120,9 +119,9 @@ def clean():
     # Parse input file into list depending on extension.
     name, ext = os.path.splitext(args.csv_in)
     if ext == '.csv':
-        roms_to_keep = Functions.parse_vrec_csv(args.csv_in)
+        roms_to_keep = functions.parse_vrec_csv(args.csv_in)
     else:
-        roms_to_keep = Functions.parse_custom(args.csv_in)
+        roms_to_keep = functions.parse_custom(args.csv_in)
 
     # If specified, pass roms_to_keep through reddit filter.
     if args.reddit_filter is not None:
@@ -130,11 +129,11 @@ def clean():
         roms_to_keep = reddit.reddit_list_filter(roms_to_keep)
 
     # Create a filtered dat file using the above list.
-    Functions.dat_clean(roms_to_keep, args.dat_in, args.dat_out, args.accuracy)
+    functions.dat_clean(roms_to_keep, args.dat_in, args.dat_out, args.accuracy)
 
     # If specified, delete files not in the cleaned dat from a given directory.
     if args.rm_from is not None:
-        Functions.dir_clean(args.rm_from, args.dat_out)
+        functions.dir_clean(args.rm_from, args.dat_out)
 
 
 def dir_clean():
@@ -147,7 +146,7 @@ def dir_clean():
     args = parser.parse_args()
 
     # Delete files not in cleaned dat from given directory.
-    Functions.dir_clean(args.rm_from, args.clean_dat)
+    functions.dir_clean(args.rm_from, args.clean_dat)
 
 # Execute action based on initial argument.
 arg_switch = {

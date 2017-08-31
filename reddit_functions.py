@@ -7,7 +7,7 @@ class RedditRelevancyChecker:
     def __init__(self, system, time='month', client_id='JWw9vCj6-fEBfQ'):
         self.reddit = praw.Reddit(client_id=client_id,
                                   client_secret=None,
-                                  user_agent='vRec Dat Filter')
+                                  user_agent='vRecDatFilter')
         self.system = system
         self.time = time
 
