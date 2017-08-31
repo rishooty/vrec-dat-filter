@@ -1,3 +1,4 @@
+from RedditFunctions import RedditRelevancyChecker
 import Functions
 import argparse
 import os
@@ -37,13 +38,21 @@ def main():
     # Handle cli input, add arguments and options according to initial argument.
     parser.add_argument('system', type=str, help='System name and optional subsections. Ex: "NES,Famicom"',
                         metavar='system(s)')
+
     parser.add_argument('dat_in', type=str, help='Path to datfile.', metavar='path_to_dat')
+
     parser.add_argument('--main_url', type=str, default='http://vsrecommendedgames.wikia.com/wiki/',
                         help='Primary V\'s url in case default is broken.', metavar='vrecwiki_homepage')
+
+    parser.add_argument('--reddit_filter', type=str, help='Specify reddit filter and how far back to search.',
+                        metavar='reddit_time_filter', choices=['all', 'day', 'hour', 'month', 'week', 'year'])
+
     parser.add_argument('--accuracy', type=int, default='90', choices=range(1, 101), metavar='1-100',
                         help='Acceptable positive match percentage, 0 to 100.')
+
     parser.add_argument('--rm_from', type=str, help='Directory to delete non-matches from, skips dat cleaning.',
                         metavar='path_to_roms')
+
     args = parser.parse_args()
 
     # Scrape the url(s) into a csv.
@@ -51,6 +60,11 @@ def main():
 
     # Parse the csv into a list.
     roms_to_keep = Functions.parse_vrec_csv()
+
+    # If specified, pass roms_to_keep through reddit filter.
+    if args.reddit_filter is not None:
+        reddit = RedditRelevancyChecker(args.system, args.rm_from)
+        roms_to_keep = reddit.reddit_list_filter(roms_to_keep)
 
     # Create a filtered dat file using the above list.
     dat_out = os.path.splitext(args.dat_in)[0] + "clean.dat"
@@ -65,9 +79,12 @@ def scrape():
     # Handle cli input, add arguments and options according to initial argument.
     parser.add_argument('system', type=str, help='System name and optional subsections. Ex: "NES,Famicom"',
                         metavar='system(s)')
+
     parser.add_argument('--main_url', type=str, default='http://vsrecommendedgames.wikia.com/wiki/',
                         help='Primary V\'s url in case default is broken.', metavar='vrecwiki_homepage')
+
     parser.add_argument('--csv_out', type=str, default='listTemp.csv', help='Output csv path.', metavar='path_to_csv')
+
     args = parser.parse_args()
 
     # Scrape the url(s) into a csv.
@@ -77,13 +94,21 @@ def scrape():
 def clean():
     # Handle cli input, add arguments and options according to initial argument.
     parser.add_argument('dat_in', type=str, help='Path to datfile.')
+
+    parser.add_argument('--reddit_filter', type=str, help='Specify reddit filter and how far back to search.',
+                        metavar='reddit_time_filter', choices=['all', 'day', 'hour', 'month', 'week', 'year'])
+
     parser.add_argument('--accuracy', type=int, default='90', choices=range(1, 101), metavar='1-100',
                         help='Acceptable positive match percentage, 0 to 100.')
+
     parser.add_argument('--rm_from', type=str, help='Directory to delete non-matches from, skips dat cleaning.',
                         metavar='path_to_roms')
+
     parser.add_argument('--csv_in', type=str, default='listTemp.csv', help='Input path for file w/ list of roms.',
                         metavar='path_to_csv')
+
     parser.add_argument('--dat_out', type=str, help='Output cleaned dat path.', metavar='path_to_dat')
+
     args = parser.parse_args()
 
     # Set default cleaned dat output path if none is set.
@@ -98,6 +123,11 @@ def clean():
     else:
         roms_to_keep = Functions.parse_custom(args.csv_in)
 
+    # If specified, pass roms_to_keep through reddit filter.
+    if args.reddit_filter is not None:
+        reddit = RedditRelevancyChecker(args.system, args.rm_from)
+        roms_to_keep = reddit.reddit_list_filter(roms_to_keep)
+
     # Create a filtered dat file using the above list.
     Functions.dat_clean(roms_to_keep, args.dat_in, args.dat_out, args.accuracy)
 
@@ -109,10 +139,13 @@ def clean():
 def dir_clean():
     # Handle cli input, add arguments and options according to initial argument.
     parser.add_argument('clean_dat', type=str, help='Path to cleaned datfile.', metavar='path_to_dat')
-    parser.add_argument('rm_from', type=str, help='Directory to delete non-matches from, skips dat cleaning.',
+
+    parser.add_argument('rm_from', type=str, help='Directory to delete non-matches from.',
                         metavar='path_to_roms')
+
     args = parser.parse_args()
 
+    # Delete files not in cleaned dat from given directory.
     Functions.dir_clean(args.rm_from, args.clean_dat)
 
 # Execute action based on initial argument.
