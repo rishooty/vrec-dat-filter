@@ -45,7 +45,8 @@ def main():
                         help='Primary V\'s url in case default is broken.', metavar='vrecwiki_homepage')
 
     parser.add_argument('--reddit_filter', type=str, help='Specify reddit filter and how far back to search.',
-                        metavar='reddit_time_filter', choices=['all', 'day', 'hour', 'month', 'week', 'year'])
+                        metavar='reddit_time_filter', choices=['all', 'day', 'hour', 'month', 'week', 'year'],
+                        default='year')
 
     parser.add_argument('--accuracy', type=int, default='90', choices=range(1, 101), metavar='1-100',
                         help='Acceptable positive match percentage, 0 to 100.')
@@ -63,7 +64,7 @@ def main():
 
     # If specified, pass roms_to_keep through reddit filter.
     if args.reddit_filter is not None:
-        reddit = RedditRelevancyChecker(args.system, args.rm_from)
+        reddit = RedditRelevancyChecker(args.system, args.reddit_filter)
         roms_to_keep = reddit.reddit_list_filter(roms_to_keep)
 
     # Create a filtered dat file using the above list.
@@ -125,7 +126,7 @@ def clean():
 
     # If specified, pass roms_to_keep through reddit filter.
     if args.reddit_filter is not None:
-        reddit = RedditRelevancyChecker(args.system, args.rm_from)
+        reddit = RedditRelevancyChecker(args.system, args.reddit_filter)
         roms_to_keep = reddit.reddit_list_filter(roms_to_keep)
 
     # Create a filtered dat file using the above list.

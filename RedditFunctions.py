@@ -21,7 +21,7 @@ class RedditRelevancyChecker:
         :return:
         """
 
-        for submission in self.reddit.subreddit('all').search(search+self.system, time_filter=self.time, limit=1):
+        for submission in self.reddit.subreddit('all').search(search+' '+self.system, time_filter=self.time, limit=1):
             return True
         return False
 
