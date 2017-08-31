@@ -139,7 +139,7 @@ This is for if you just want to generate a csv from V's. In this case all you wo
 However, this script also includes a custom output path option. It will generate a
 'listTemp.csv' in the project root by default.:
 ```
-(./vrec) scrape NES,Famicom --path='recommendedNES.csv'
+(./vrec) scrape NES,Famicom --csv-out='recommendedNES.csv'
 ```
 
 ### Clean Only
@@ -149,7 +149,7 @@ You can provide either a previous scraper generated csv, or a \n delimited textf
 it will just use the most recently generated 'listTemp.csv' by default.
 
 ```
-(./vrec) clean 'testDat/Nintendo - Nintendo Entertainment System (20170719-133541).dat' --path='goodnesgames.txt'
+(./vrec) clean 'testDat/Nintendo - Nintendo Entertainment System (20170719-133541).dat' --dat-out='goodnesgames.txt'
 ```
 
 A custom txt file would look something like this:
@@ -173,17 +173,40 @@ rather than deleted. Still, **be very careful with this command**. That being sa
 
 As an option:
 ```
-(./vrec) main NES,Famicom' 'testDat/Nintendo - Nintendo Entertainment System (20170719-133541).dat' --rm_from='roms/nes/'
+(./vrec) main NES,Famicom' 'testDat/Nintendo - Nintendo Entertainment System (20170719-133541).dat' --rm-from='roms/nes/'
 ```
 
 ```
-(./vrec) clean 'testDat/Nintendo - Nintendo Entertainment System (20170719-133541).dat' --path='goodnesgames.txt' --rm_from='roms/nes/'
+(./vrec) clean 'testDat/Nintendo - Nintendo Entertainment System (20170719-133541).dat' --dat-out='goodnesgames.txt' --rm-from='roms/nes/'
 ```
 
 As standalone:
 ```
-(./vrec) dir_clean 'testDat/Nintendo - Nintendo Entertainment System (20170719-133541)clean.dat' 'roms/nes/'
+(./vrec) dir-clean 'testDat/Nintendo - Nintendo Entertainment System (20170719-133541)clean.dat' 'roms/nes/'
 ```
+
+### Reddit Relevancy Filtering
+
+A user on reddit requested I add a secondary filtering method that checks to see if any of the games
+have been discussed recently. This functionality is now available as an option in both 'main' and 'clean'.
+
+```
+(./vrec) main NES,Famicom' 'testDat/Nintendo - Nintendo Entertainment System (20170719-133541).dat' --reddit-filter='month'
+```
+
+```
+(./vrec) clean 'testDat/Nintendo - Nintendo Entertainment System (20170719-133541).dat' --reddit-filter='month' --reddit_system='NES,Famicom'
+```
+
+This will check each game for discussions on reddit within a given amount of time. If the game hasn't been discussed at all, it will be removed
+from the final list.
+* --reddit-filter both enables the filter and specifies how far back to search for the game.
+* --reddit-system is an additional term to tack onto the search for better results, most likely the system name.
+    * This defaults to the system argument for main (ex: 'NES, Famicom')
+    * This defaults to ' video game' for clean.
+
+The success of this varies greatly due to the natural finickyness of searches. You don't need to specify a system in main, but you might come up with better results.
+For example, 'NES game' might be more accurate.
 
 ### I've got my dat file, now what?
 You're now ready to load it up into the rom manager of your choice and use it to clean out all non-matching roms.
@@ -219,7 +242,7 @@ hitting "remove useless files" will often delete most if not all the roms becaus
 Now, getting an older dat would be the first thought that would occur to you. But the problem is that as soon as dats
 are deprecated, they're almost effectively wiped from the internet and impossible to find, MAME being an exception.
 
-It's for this reason I've added the 'dir_clean' functionality to this script, to get around this issue. It isn't a perfect solution, but
+It's for this reason I've added the 'dir-clean' functionality to this script, to get around this issue. It isn't a perfect solution, but
 it gets the job done because oftentimes rom names stay the same and only checksums change. See Directory Clean section under Running.
 
 ## Compiling with PyInstaller
