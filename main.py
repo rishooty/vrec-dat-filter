@@ -50,6 +50,7 @@ def main(system, dat_in, main_url=default_url, reddit_filter=None, reddit_system
 
     # Create a filtered dat file using the above list.
     dat_out = os.path.splitext(dat_in)[0] + "clean.dat"
+    print('Writing final dat...')
     functions.dat_clean(roms_to_keep, dat_in, dat_out, accuracy)
 
     # If specified, delete files not in the cleaned dat from a given directory.
@@ -81,6 +82,7 @@ def clean(dat_in, dat_out=None, csv_in=default_csv, reddit_filter=None, reddit_s
         roms_to_keep = reddit.reddit_list_filter(roms_to_keep)
 
     # Create a filtered dat file using the above list.
+    print('Writing final dat...')
     functions.dat_clean(roms_to_keep, dat_in, dat_out, accuracy)
 
     # If specified, delete files not in the cleaned dat from a given directory.

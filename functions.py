@@ -106,13 +106,14 @@ def del_xml_blocks(block_list, xml_tree, xml_out):
     :param xml_out:
     :return:
     """
+
     xml_root = xml_tree.getroot()
 
     for block in block_list:
         xml_root.remove(block)
-    print('Writing final csv...')
+
     xml_tree.write(xml_out)
-    print(xml_out+' was successfully written.')
+    print(xml_out+' was successfully written.\n')
 
 
 def dir_clean(rm_dir, clean_dat_file):
