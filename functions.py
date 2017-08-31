@@ -110,8 +110,9 @@ def del_xml_blocks(block_list, xml_tree, xml_out):
 
     for block in block_list:
         xml_root.remove(block)
-
+    print('Writing final csv...')
     xml_tree.write(xml_out)
+    print(xml_out+' was successfully written.')
 
 
 def dir_clean(rm_dir, clean_dat_file):
@@ -153,9 +154,11 @@ def dir_clean(rm_dir, clean_dat_file):
             files_to_keep.append(game.get('name'))
 
     # If a file does not match any game names, delete it.
+    print('Clearing '+rm_dir+'...')
     for file in files:
         if os.path.splitext(file)[0] not in files_to_keep:
             send2trash(rm_dir+file)
+    print('Finished.')
 
 
 def generate_vrec_csv(systems, main_url='http://vsrecommendedgames.wikia.com/wiki/', output_csv_path='listTemp.csv'):
