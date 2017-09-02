@@ -112,7 +112,7 @@ def del_xml_blocks(block_list, xml_tree, xml_out):
     for block in block_list:
         xml_root.remove(block)
 
-    xml_tree.write(xml_out)
+    xml_tree.write(xml_out, "UTF-8", True)
     print(xml_out+' was successfully written.\n')
 
 
