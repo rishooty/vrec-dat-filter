@@ -11,11 +11,6 @@
 		<author>alexian, BitLooter</author>
 		<url>www.no-intro.org</url>
 	</header>
-	<game name="'89 Dennou Kyuusei Uranai (Japan)">
-		<description>'89 Dennou Kyuusei Uranai (Japan)</description>
-		<release name="'89 Dennou Kyuusei Uranai (Japan)" region="JPN"/>
-		<rom name="'89 Dennou Kyuusei Uranai (Japan).nes" size="262144" crc="BA58ED29" md5="4187A797E33BC96A96993220DA6F09F7" sha1="56FE858D1035DCE4B68520F457A0858BAE7BB16D"/>
-	</game>
 	<game name="10-Yard Fight (USA, Europe)">
 		<description>10-Yard Fight (USA, Europe)</description>
 		<release name="10-Yard Fight (USA, Europe)" region="EUR"/>

@@ -88,32 +88,24 @@ def dat_clean(roms_to_keep, dat_file, dat_out=None, accuracy=90):
     # If game.get('name') does not fuzzy match source list, mark game for deletion.
     to_delete = []
     for game in root.iter('game'):
-        result = process.extractOne(game.get('name'), roms_to_keep, score_cutoff=accuracy, scorer=fuzz.token_set_ratio)
-        if not result:
-            to_delete.append(game)
+        # Added to preserve parent/clone relationships
+        name = game.get('name')
+        parent = game.get('cloneof')
+        if parent is None:
+            result = process.extractOne(name, roms_to_keep, score_cutoff=accuracy, scorer=fuzz.token_set_ratio)
+            if not result:
+                to_delete.append(name)
+        else:
+            if parent in to_delete:
+                to_delete.append(name)
 
     # Delete all game xml blocks that were marked for deletion and print final xml.
-    del_xml_blocks(to_delete, tree, dat_out)
+    for game in root.iter('game'):
+        if game.get('name') in to_delete:
+            root.remove(game)
 
-
-def del_xml_blocks(block_list, xml_tree, xml_out):
-    """
-    Delete a list of blocks
-    from an xml tree object.
-
-    :param block_list:
-    :param xml_tree:
-    :param xml_out:
-    :return:
-    """
-
-    xml_root = xml_tree.getroot()
-
-    for block in block_list:
-        xml_root.remove(block)
-
-    xml_tree.write(xml_out, "UTF-8", True)
-    print(xml_out+' was successfully written.\n')
+    tree.write(dat_out, "UTF-8", True)
+    print(dat_out + ' was successfully written.\n')
 
 
 def dir_clean(rm_dir, clean_dat_file):
