@@ -87,20 +87,18 @@ def dat_clean(roms_to_keep, dat_file, dat_out=None, accuracy=90):
 
     # If game.get('name') does not fuzzy match source list, mark game for deletion.
     to_delete = []
-    parents_to_keep = []
+    cloneof_to_keep = []
     for game in root.iter('game'):
-        # Added to preserve parent/clone relationships
-        parent = game.get('cloneof')
-        if parent is None:
-            name = game.get('name')
-            result = process.extractOne(name, roms_to_keep, score_cutoff=accuracy, scorer=fuzz.token_set_ratio)
-            if not result:
-                to_delete.append(game)
-            else:
-                parents_to_keep.append(name)
+        name = game.get('name')
+        result = process.extractOne(name, roms_to_keep, score_cutoff=accuracy, scorer=fuzz.token_set_ratio)
+        if not result:
+            to_delete.append(game)
         else:
-            if parent not in parents_to_keep:
-                to_delete.append(game)
+            parent_name = game.get('cloneof')
+            if parent_name:
+                cloneof_to_keep.append(parent_name)
+    
+    to_delete = [i for i in to_delete if i.get('name') not in cloneof_to_keep or i.get('cloneof') not in cloneof_to_keep]
 
     # Delete all game xml blocks that were marked for deletion and print final xml.
     del_xml_blocks(to_delete, tree, dat_out)
