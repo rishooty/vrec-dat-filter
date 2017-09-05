@@ -81,7 +81,7 @@ class VrecSpider(scrapy.Spider):
         
         if result.endswith('(series)') or result.endswith('(Series)'):
             result = result[:-8]
-            result = title.strip()
+            result = result.strip()
         
         if result.endswith(', The'):
             result = result[:-5]
