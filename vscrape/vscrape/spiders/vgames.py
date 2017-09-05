@@ -30,13 +30,12 @@ class VrecSpider(scrapy.Spider):
         :param response:
         :return:
         """
-
-        games_plain_text = response.css('table tr th::text').extract()
-        games_format_text = response.css('table tr th font::text').extract()
+        games_plain_text = response.css('table > tr:nth-child(n+2) > th::text').extract()
+        games_format_text = response.css('table > tr:nth-child(n+2) > th > font::text').extract()
         games = games_plain_text + games_format_text
-        games_clean = ([item.strip() for item in games])
+        games_clean = ([self.clean_game_title(item) for item in games])
         games_final = list(filter(None, games_clean))
-        yield {'games': games_final[3:]}
+        yield {'games': games_final}
 
     def parse_urls(self):
         """
@@ -63,3 +62,11 @@ class VrecSpider(scrapy.Spider):
             system = system.replace(" ", "_")
             parsedurls.append(main_system + '/' + system)
         return parsedurls
+
+    def clean_game_title(self, title):
+        result = title.strip()
+        if result.endswith(', The'):
+            result = result[:-5]
+        result = result.replace(',', '')
+        return result
+
