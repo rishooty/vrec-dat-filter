@@ -98,7 +98,7 @@ def dat_clean(roms_to_keep, dat_file, dat_out=None, accuracy=90):
             if parent_name:
                 cloneof_to_keep.append(parent_name)
     
-    to_delete = [i for i in to_delete if i.get('name') not in cloneof_to_keep or i.get('cloneof') not in cloneof_to_keep]
+    to_delete = [i for i in to_delete if i.get('name') not in cloneof_to_keep and i.get('cloneof') not in cloneof_to_keep]
 
     # Delete all game xml blocks that were marked for deletion and print final xml.
     del_xml_blocks(to_delete, tree, dat_out)
