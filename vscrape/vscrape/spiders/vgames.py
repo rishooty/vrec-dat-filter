@@ -1,7 +1,7 @@
 import scrapy
 import scrapy.exceptions
 import requests
-
+import re
 
 class VrecSpider(scrapy.Spider):
     """ Spider designed to scrape game titles from a V's recommended wiki page."""
@@ -34,6 +34,19 @@ class VrecSpider(scrapy.Spider):
         games_format_text = response.css('table > tr:nth-child(n+2) > th > font::text').extract()
         games = games_plain_text + games_format_text
         games_clean = ([self.clean_game_title(item) for item in games])
+        
+        matcher = re.compile('.*?\([a-zA-Z]{2}\)')
+        cleanregion = re.compile('.*\([a-zA-Z]{2}\)$')
+        for i in list(games_clean):
+            splitted = matcher.findall(i)
+            if splitted:
+                games_clean.remove(i)
+                for x in splitted:
+                    x = x.strip()
+                    if cleanregion.match(x):
+                        x = x[:-4]
+                    games_clean.append(self.clean_game_title(x))
+        
         games_final = list(filter(None, games_clean))
         yield {'games': games_final}
 
@@ -65,10 +78,14 @@ class VrecSpider(scrapy.Spider):
 
     def clean_game_title(self, title):
         result = title.strip()
+        
         if result.endswith('(series)') or result.endswith('(Series)'):
             result = result[:-8]
+            result = title.strip()
+        
         if result.endswith(', The'):
             result = result[:-5]
+
         result = result.replace(',', '')
         result = result.strip()
         return result
