@@ -65,8 +65,11 @@ class VrecSpider(scrapy.Spider):
 
     def clean_game_title(self, title):
         result = title.strip()
+        if result.endswith('(series)') or result.endswith('(Series)'):
+            result = result[:-8]
         if result.endswith(', The'):
             result = result[:-5]
         result = result.replace(',', '')
+        result = result.strip()
         return result
 
