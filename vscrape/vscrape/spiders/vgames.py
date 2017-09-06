@@ -94,7 +94,7 @@ class VrecSpider(scrapy.Spider):
         if result.endswith(', The'):
             result = result[:-5]
 
-        result = result.replace(',', '').replace('é', 'e')
+        result = result.replace(',', '').replace('é', 'e').replace('*', '')
         result = result.strip()
         return cgi.escape(result)
 
