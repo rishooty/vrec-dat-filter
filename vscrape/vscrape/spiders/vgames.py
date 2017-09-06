@@ -2,6 +2,7 @@ import scrapy
 import scrapy.exceptions
 import requests
 import re
+import cgi
 
 class VrecSpider(scrapy.Spider):
     """ Spider designed to scrape game titles from a V's recommended wiki page."""
@@ -78,15 +79,22 @@ class VrecSpider(scrapy.Spider):
 
     def clean_game_title(self, title):
         result = title.strip()
-        
-        if result.endswith('(series)') or result.endswith('(Series)'):
+        if result[-8:] in ['(series)','(Series)']:
             result = result[:-8]
             result = result.strip()
-        
+
+        if result.endswith(' /'):
+            result = result[:-2]
+            result = result.strip()
+
+        if result.startswith('/ '):
+            result = result[2:]
+            result = result.strip()
+
         if result.endswith(', The'):
             result = result[:-5]
 
-        result = result.replace(',', '')
+        result = result.replace(',', '').replace('é', 'e')
         result = result.strip()
-        return result
+        return cgi.escape(result)
 
