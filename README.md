@@ -283,6 +283,10 @@ It should produce a new executable for you to test your changes with.
 
 **Nicholas Ricciuti** - [rishooty](https://github.com/rishooty)
 
+## Contributors
+
+**Tomás García** - [tomgar](https://github.com/tomgar)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
