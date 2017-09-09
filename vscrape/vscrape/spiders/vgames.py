@@ -33,7 +33,9 @@ class VrecSpider(scrapy.Spider):
         """
         games_plain_text = response.css('table > tr:nth-child(n+2) > th::text').extract()
         games_format_text = response.css('table > tr:nth-child(n+2) > th > font::text').extract()
-        games = games_plain_text + games_format_text
+        games_plain_text_2nd = response.css('table > tr > td:first-child > b::text').extract()
+        games_format_text_2nd = response.css('table > tr > td:first-child > b > font::text').extract()
+        games = games_plain_text + games_format_text + games_plain_text_2nd + games_format_text_2nd
         games_clean = ([self.clean_game_title(item) for item in games])
         
         matcher = re.compile('.*?\([a-zA-Z]{2}\)')
