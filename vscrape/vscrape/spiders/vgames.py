@@ -31,25 +31,19 @@ class VrecSpider(scrapy.Spider):
         :param response:
         :return:
         """
-        games_plain_text = response.css('table > tr:nth-child(n+2) > th::text').extract()
-        games_format_text = response.css('table > tr:nth-child(n+2) > th > font::text').extract()
-        games_plain_text_2nd = response.css('table > tr > td:first-child > b::text').extract()
-        games_format_text_2nd = response.css('table > tr > td:first-child > b > font::text').extract()
-        games = games_plain_text + games_format_text + games_plain_text_2nd + games_format_text_2nd
-        games_clean = ([self.clean_game_title(item) for item in games])
+        css_selectors = ['table[class~="wikitable"] > tr:nth-child(n+2) > th::text',
+                        'table[class~="wikitable"] > tr:nth-child(n+2) > th > font::text',
+                        'table[class~="wikitable"] > tr > td:first-child > b::text',
+                        'table[class~="wikitable"] > tr > td:first-child > b > font::text']
         
-        matcher = re.compile('.*?\([a-zA-Z]{2}\)')
-        cleanregion = re.compile('.*\([a-zA-Z]{2}\)$')
-        for i in list(games_clean):
-            splitted = matcher.findall(i)
-            if splitted:
-                games_clean.remove(i)
-                for x in splitted:
-                    x = x.strip()
-                    if cleanregion.match(x):
-                        x = x[:-4]
-                    games_clean.append(self.clean_game_title(x))
+        scraped_games = []
+        for selector in css_selectors:
+            scraped_games +=response.css(selector).extract() 
         
+        self.split_titles(scraped_games)
+        
+        games_clean = ([self.clean_game_title(item) for item in scraped_games])
+
         games_final = list(filter(None, games_clean))
         yield {'games': games_final}
 
@@ -85,12 +79,16 @@ class VrecSpider(scrapy.Spider):
             result = result[:-8]
             result = result.strip()
 
-        if result.endswith(' /'):
-            result = result[:-2]
+        if result.endswith('/'):
+            result = result[:-1]
             result = result.strip()
 
-        if result.startswith('/ '):
-            result = result[2:]
+        if result.startswith('/'):
+            result = result[1:]
+            result = result.strip()
+        
+        if result.endswith(':'):
+            result = result[:-1]
             result = result.strip()
 
         if result.endswith(', The'):
@@ -99,4 +97,117 @@ class VrecSpider(scrapy.Spider):
         result = result.replace(',', '').replace('é', 'e').replace('*', '')
         result = result.strip()
         return cgi.escape(result)
+
+    def split_titles(self, games):
+        # Splitting by slashes
+        self.split_by_slashes(games)
+
+        # Splitting by region
+        self.split_by_region(games)
+       
+        # If there are commas at the end, just keep the beginning
+        self.split_by_commas(games)
+
+        # The same but with "and" and "&"
+        self.split_by_and(games)
+
+    def get_game_header(self, name, particle):
+        splitted = name.split(particle)
+        header = splitted[0].strip()
+         
+        aux = header.rfind(' ')
+        if aux > -1:
+            header = header[:aux].strip()
+          
+        return header
+
+    def split_by_slashes(self, games):
+        for i in list(games):
+            if '/' in i:
+                splitted = i.split('/')
+                assume_variations = False
+                if ' ' in splitted[0]:
+                    index = 0
+                    for x in splitted:
+                        if index == 0:
+                            index += 1
+                            continue
+                        
+                        if ' ' not in x.strip():
+                            assume_variations = True
+                            break
+                        index += 1
+
+                if not assume_variations:
+                    games.remove(i)
+                    max_length = 0
+                    for x in splitted:
+                        if len(x) > max_length:
+                            max_length = len(x)
+                
+                    for x in splitted:
+                        if len(x) >= max_length / 2:
+                            games.append(x)
+                else:
+                    games.append(self.get_game_header(i, '/'))
+                    games.remove(i)
+
+    def split_by_region(self, games):
+        region_matcher = re.compile('.*?\([a-zA-Z]{2}\)')
+        clean_region = re.compile('.*\([a-zA-Z]{2}\)$')
+        for i in list(games):
+            splitted = region_matcher.findall(i)
+            if splitted:
+                games.remove(i)
+                for x in splitted:
+                    x = x.strip()
+                    if clean_region.match(x):
+                        x = x[:-4]
+                    games.append(x)
+
+    def split_by_commas(self, games):
+        for i in list(games):
+            if ',' in i[(-1)*len(i)//3:] and not i.strip().endswith(', The'):
+                auxstr = i
+                not_versions = ' and ' not in auxstr and ' & ' not in auxstr
+                if ' and ' in auxstr:
+                    auxstr = auxstr.replace(' and ', ',')
+                if ' & ' in auxstr:
+                    auxstr = auxstr.replace(' & ', ',')
+                if not not_versions:
+                    games.append(self.get_game_header(auxstr, ','))
+                    games.remove(i)
+                else:
+                    games.remove(i)
+                    self.simple_comma_split(games, auxstr)
+    
+    def simple_comma_split(self, games, name):
+        splitted = name.split(',')
+        for x in splitted:
+            games.append(x.strip())
+
+    def split_by_and(self, games):
+        for i in list(games):
+            auxstr = i[(-1)*len(i)//3:]
+            if '&' not in auxstr and ' and ' not in auxstr:
+                continue
+
+            aux = i.replace(' and ', ',').replace('&', ',').replace('½','').strip()
+
+            splitted = aux.split(',')
+            header = splitted[0].strip()
+            versions = True
+            last_space_pos = header.rfind(' ')
+            if last_space_pos > -1:
+                firstcomp = header[last_space_pos:].strip()
+                header = header[:last_space_pos].strip()
+                versions = firstcomp.isdigit()
+                for x in range(1, len(splitted)):
+                    versions &= splitted[x].strip().isdigit()
+                
+            if versions:
+                games.append(self.get_game_header(aux, ','))
+                games.remove(i)
+
+
 
