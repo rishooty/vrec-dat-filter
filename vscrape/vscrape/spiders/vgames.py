@@ -32,6 +32,7 @@ class VrecSpider(scrapy.Spider):
         :return:
         """
         css_selectors = ['table[class~="wikitable"] > tr:nth-child(n+2) > th::text',
+                        'table[class~="wikitable"] > tr:nth-child(n+2) > th > a::text',
                         'table[class~="wikitable"] > tr:nth-child(n+2) > th > font::text',
                         'table[class~="wikitable"] > tr > td:first-child > b::text',
                         'table[class~="wikitable"] > tr > td:first-child > b > font::text']
@@ -94,7 +95,11 @@ class VrecSpider(scrapy.Spider):
         if result.endswith(', The'):
             result = result[:-5]
 
-        result = result.replace(',', '').replace('é', 'e').replace('*', '')
+        result = result.strip().replace(',', '').replace('é', 'e').replace('*', '')
+
+        while (result and result[-1:].isdigit()):
+            result = result[:-1].strip()
+
         result = result.strip()
         return cgi.escape(result)
 
@@ -170,16 +175,20 @@ class VrecSpider(scrapy.Spider):
             if ',' in i[(-1)*len(i)//3:] and not i.strip().endswith(', The'):
                 auxstr = i
                 not_versions = ' and ' not in auxstr and ' & ' not in auxstr
+
                 if ' and ' in auxstr:
                     auxstr = auxstr.replace(' and ', ',')
                 if ' & ' in auxstr:
                     auxstr = auxstr.replace(' & ', ',')
-                if not not_versions:
-                    games.append(self.get_game_header(auxstr, ','))
-                    games.remove(i)
-                else:
+
+                not_versions &= not self.contains_versions(auxstr)
+                
+                if not_versions:
                     games.remove(i)
                     self.simple_comma_split(games, auxstr)
+                else:
+                    games.append(self.get_game_header(auxstr, ','))
+                    games.remove(i)
     
     def simple_comma_split(self, games, name):
         splitted = name.split(',')
@@ -194,20 +203,25 @@ class VrecSpider(scrapy.Spider):
 
             aux = i.replace(' and ', ',').replace('&', ',').replace('½','').strip()
 
-            splitted = aux.split(',')
-            header = splitted[0].strip()
-            versions = True
-            last_space_pos = header.rfind(' ')
-            if last_space_pos > -1:
-                firstcomp = header[last_space_pos:].strip()
-                header = header[:last_space_pos].strip()
-                versions = firstcomp.isdigit()
-                for x in range(1, len(splitted)):
-                    versions &= splitted[x].strip().isdigit()
-                
+            versions = self.contains_versions(aux) 
+
             if versions:
                 games.append(self.get_game_header(aux, ','))
                 games.remove(i)
 
+    def contains_versions(self, gamename):
+        versions = True
 
+        splitted = gamename.split(',')
+        header = splitted[0].strip()
+        last_space_pos = header.rfind(' ')
+         
+        if last_space_pos > -1:
+            firstcomp = header[last_space_pos:].strip()
+            header = header[:last_space_pos].strip()
+            versions = firstcomp.isdigit()
+            for x in range(1, len(splitted)):
+                versions &= splitted[x].strip().isdigit()
+
+        return versions
 
