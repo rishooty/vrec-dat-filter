@@ -94,4 +94,5 @@ def dir_clean(clean_dat, rm_from):
     # Delete files not in cleaned dat from given directory.
     functions.dir_clean(rm_from, clean_dat)
 
+
 argh.dispatch_commands([main, scrape, clean, dir_clean])
