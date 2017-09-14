@@ -2,7 +2,8 @@ import scrapy
 import scrapy.exceptions
 import requests
 import re
-import cgi
+import html
+
 
 class VrecSpider(scrapy.Spider):
     """ Spider designed to scrape game titles from a V's recommended wiki page."""
@@ -32,14 +33,14 @@ class VrecSpider(scrapy.Spider):
         :return:
         """
         css_selectors = ['table[class~="wikitable"] > tr:nth-child(n+2) > th::text',
-                        'table[class~="wikitable"] > tr:nth-child(n+2) > th > a::text',
-                        'table[class~="wikitable"] > tr:nth-child(n+2) > th > font::text',
-                        'table[class~="wikitable"] > tr > td:first-child > b::text',
-                        'table[class~="wikitable"] > tr > td:first-child > b > font::text']
+                         'table[class~="wikitable"] > tr:nth-child(n+2) > th > a::text',
+                         'table[class~="wikitable"] > tr:nth-child(n+2) > th > font::text',
+                         'table[class~="wikitable"] > tr > td:first-child > b::text',
+                         'table[class~="wikitable"] > tr > td:first-child > b > font::text']
         
         scraped_games = []
         for selector in css_selectors:
-            scraped_games +=response.css(selector).extract() 
+            scraped_games += response.css(selector).extract()
         
         self.split_titles(scraped_games)
         
@@ -65,18 +66,19 @@ class VrecSpider(scrapy.Spider):
         # Add the first(main) url to the final array.
         main_system = self.main_url+systems[0]
         main_system = main_system.replace(" ", "_")
-        parsedurls = [main_system]
+        parsed_urls = [main_system]
 
         # Parse each additional subpage into a full url
         # and append it to the final array.
         for system in systems[1:]:
             system = system.replace(" ", "_")
-            parsedurls.append(main_system + '/' + system)
-        return parsedurls
+            parsed_urls.append(main_system + '/' + system)
+        return parsed_urls
 
-    def clean_game_title(self, title):
+    @staticmethod
+    def clean_game_title(title):
         result = title.strip()
-        if result[-8:] in ['(series)','(Series)']:
+        if result[-8:] in ['(series)', '(Series)']:
             result = result[:-8]
             result = result.strip()
 
@@ -97,11 +99,11 @@ class VrecSpider(scrapy.Spider):
 
         result = result.strip().replace(',', '').replace('é', 'e').replace('*', '')
 
-        while (result and result[-1:].isdigit()):
+        while result and result[-1:].isdigit():
             result = result[:-1].strip()
 
         result = result.strip()
-        return cgi.escape(result)
+        return html.escape(result)
 
     def split_titles(self, games):
         # Splitting by slashes
@@ -116,7 +118,8 @@ class VrecSpider(scrapy.Spider):
         # The same but with "and" and "&"
         self.split_by_and(games)
 
-    def get_game_header(self, name, particle):
+    @staticmethod
+    def get_game_header(name, particle):
         splitted = name.split(particle)
         header = splitted[0].strip()
          
@@ -157,7 +160,8 @@ class VrecSpider(scrapy.Spider):
                     games.append(self.get_game_header(i, '/'))
                     games.remove(i)
 
-    def split_by_region(self, games):
+    @staticmethod
+    def split_by_region(games):
         region_matcher = re.compile('.*?\([a-zA-Z]{2}\)')
         clean_region = re.compile('.*\([a-zA-Z]{2}\)$')
         for i in list(games):
@@ -189,8 +193,9 @@ class VrecSpider(scrapy.Spider):
                 else:
                     games.append(self.get_game_header(auxstr, ','))
                     games.remove(i)
-    
-    def simple_comma_split(self, games, name):
+
+    @staticmethod
+    def simple_comma_split(games, name):
         splitted = name.split(',')
         for x in splitted:
             games.append(x.strip())
@@ -209,16 +214,16 @@ class VrecSpider(scrapy.Spider):
                 games.append(self.get_game_header(aux, ','))
                 games.remove(i)
 
-    def contains_versions(self, gamename):
+    @staticmethod
+    def contains_versions(game_name):
         versions = True
 
-        splitted = gamename.split(',')
+        splitted = game_name.split(',')
         header = splitted[0].strip()
         last_space_pos = header.rfind(' ')
          
         if last_space_pos > -1:
             firstcomp = header[last_space_pos:].strip()
-            header = header[:last_space_pos].strip()
             versions = firstcomp.isdigit()
             for x in range(1, len(splitted)):
                 versions &= splitted[x].strip().isdigit()
