@@ -77,6 +77,9 @@ class VrecSpider(scrapy.Spider):
 
     @staticmethod
     def clean_game_title(title):
+        """
+        Remove suffixes / wrong characters / unnecesary elements from the game title
+        """
         result = title.strip()
         if result[-8:] in ['(series)', '(Series)']:
             result = result[:-8]
@@ -106,6 +109,7 @@ class VrecSpider(scrapy.Spider):
         return html.escape(result)
 
     def split_titles(self, games):
+        """Divide in several parts a game name depending on what we find"""
         # Splitting by slashes
         self.split_by_slashes(games)
 
@@ -115,21 +119,23 @@ class VrecSpider(scrapy.Spider):
         # If there are commas at the end, just keep the beginning
         self.split_by_commas(games)
 
-        # The same but with "and" and "&"
-        self.split_by_and(games)
+        # Extract game header if we detect versions with "and" or "&"
+        self.extract_game_header_if_and(games)
 
     @staticmethod
     def get_game_header(name, particle):
-        splitted = name.split(particle)
-        header = splitted[0].strip()
-         
-        aux = header.rfind(' ')
-        if aux > -1:
-            header = header[:aux].strip()
-          
-        return header
+        """
+        If we detect the game name consists of game name and variations/versions, e.g. Game 1,2,3,
+        then with this method we just remove the variations/versions from the game title following
+        the given particle
+        """
+        return name.split(particle)[0].strip()
 
     def split_by_slashes(self, games):
+        """
+        Split game title using slash as a separator if there are any. E.g. Game 1 / Game 2
+        we will get [ "Game 1", "Game 2", "Game 3"]
+        """
         for i in list(games):
             if '/' in i:
                 splitted = i.split('/')
@@ -162,6 +168,10 @@ class VrecSpider(scrapy.Spider):
 
     @staticmethod
     def split_by_region(games):
+        """
+        Split game using region as separator if there are any. E.g. Game 1 (UE) Game 2 (US)
+        we will get [ "Game 1", "Game 2"]
+        """
         region_matcher = re.compile('.*?\([a-zA-Z]{2}\)')
         clean_region = re.compile('.*\([a-zA-Z]{2}\)$')
         for i in list(games):
@@ -175,6 +185,11 @@ class VrecSpider(scrapy.Spider):
                     games.append(x)
 
     def split_by_commas(self, games):
+        """
+        Split game title using commas as separator if there are any. E.g. Game 1, Game 2
+        we will get [ "Game 1", "Game 2"]. The difference of this method with
+        simple_comma_split is that here there is some pre-processing to ease the split.
+        """
         for i in list(games):
             if ',' in i[(-1)*len(i)//3:] and not i.strip().endswith(', The'):
                 auxstr = i
@@ -196,11 +211,16 @@ class VrecSpider(scrapy.Spider):
 
     @staticmethod
     def simple_comma_split(games, name):
+        """ Split game title using the comma char as separator """
         splitted = name.split(',')
         for x in splitted:
             games.append(x.strip())
 
-    def split_by_and(self, games):
+    def extract_game_header_if_and(self, games):
+        """
+        Get game header if game title consists of versions separated by commas and 
+        and / &. E.g. Game 1, 2 and 3, we will get "Game"
+        """
         for i in list(games):
             auxstr = i[(-1)*len(i)//3:]
             if '&' not in auxstr and ' and ' not in auxstr:
@@ -216,6 +236,10 @@ class VrecSpider(scrapy.Spider):
 
     @staticmethod
     def contains_versions(game_name):
+        """
+        Detect if the game title contains versions, defined by numbers. E.g. "Game 1, 2, 3"
+        should give true, but "Game 1, Game 2, Game 3" should give false.
+        """
         versions = True
 
         splitted = game_name.split(',')
