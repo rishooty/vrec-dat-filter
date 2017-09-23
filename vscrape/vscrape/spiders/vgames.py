@@ -2,7 +2,6 @@ import scrapy
 import scrapy.exceptions
 import requests
 import re
-import html
 
 
 class VrecSpider(scrapy.Spider):
@@ -100,13 +99,17 @@ class VrecSpider(scrapy.Spider):
         if result.endswith(', The'):
             result = result[:-5]
 
-        result = result.strip().replace(',', '').replace('é', 'e').replace('*', '')
+        result = result.strip() \
+                .replace(',', '') \
+                .replace('é', 'e') \
+                .replace('*', '') \
+                .replace('&', '&amp;') \
+
 
         while result and result[-1:].isdigit():
             result = result[:-1].strip()
 
-        result = result.strip()
-        return html.escape(result)
+        return result.strip()
 
     def split_titles(self, games):
         """Divide in several parts a game name depending on what we find"""
