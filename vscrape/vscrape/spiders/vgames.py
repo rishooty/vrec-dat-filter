@@ -137,7 +137,7 @@ class VrecSpider(scrapy.Spider):
     def split_by_slashes(self, games):
         """
         Split game title using slash as a separator if there are any. E.g. Game 1 / Game 2
-        we will get [ "Game 1", "Game 2", "Game 3"]
+        we will get [ "Game 1", "Game 2"]
         """
         for i in list(games):
             if '/' in i:
