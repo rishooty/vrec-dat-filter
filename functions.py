@@ -42,7 +42,10 @@ def parse_vrec_csv(csv_path='listTemp.csv'):
         'Outbound Link',
         'Download',
         ' 2',
-        ' 3'
+        ' 3',
+        '&amp;',
+        'I',
+        'II'
     ]
     return sorted(set([x for x in names if x not in to_remove]))
 
@@ -97,6 +100,8 @@ def dat_clean(roms_to_keep, dat_file, dat_out=None, accuracy=90):
             parent_name = game.get('cloneof')
             if parent_name:
                 cloneof_to_keep.append(parent_name)
+            else:
+                cloneof_to_keep.append(name)
     
     to_delete = [i for i in to_delete if i.get('name') not in cloneof_to_keep and i.get('cloneof') not in cloneof_to_keep]
 
