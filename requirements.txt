@@ -33,7 +33,7 @@ Scrapy==1.4.0
 Send2Trash==1.4.1
 service-identity==17.0.0
 six==1.11.0
-Twisted==17.9.0
+Twisted==19.7.0
 update-checker==0.16
 urllib3==1.22
 w3lib==1.18.0
