@@ -29,7 +29,7 @@ pyOpenSSL==17.3.0
 python-Levenshtein==0.12.0
 queuelib==1.4.2
 requests==2.18.4
-Scrapy==1.4.0
+Scrapy==1.8.2
 Send2Trash==1.4.1
 service-identity==17.0.0
 six==1.11.0
